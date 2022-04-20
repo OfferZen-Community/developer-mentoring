@@ -1,43 +1,19 @@
-# poc-docusaurus
+# Welcome to the developer mentorting guide :)
 
-A proof of concept repo for Docusaurus.
+### About/Mission
+This is a community contributed guide designed to help developers help other developers. Its goal is to help those that want to:
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+- Be better at mentoring other developers
+- Be better at being mentored and making the most of that opportunity
+- (In future) Implement mentoring programmes within their workplaces
 
-### Installation
+The idea is that this guide is put to use and tested by each OfferZen Thrive monthly cohort, and that each cohort can help make it better. We could implement versioning over time to pin the 
 
-```
-$ yarn
-```
+### How this repo currently works/was set up
+- This is a copy of the [docusaurus.io](https://www.docusaurus.io) getting started template. You'll see that the code hasn't been cleaned up yet and some of the placeholder images are lying around
+- @suitophobia is the owner of a Vercel project that builds this repo to www.developermentoring.guide
 
-### Local Development
+### How you can help
+Basically in every way possible. The team behind this are n00bs and haven't ever managed an open source repo before. Want to add contribution guidelines? Good idea. Maybe create a discussion, issue or card on the GitHub project? Go for it. The idea is that we build this together.
 
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Notifications channel on Thrive Slack: [#github-notifications](https://offerzenthrive.slack.com/archives/C03CA8X72LU)
