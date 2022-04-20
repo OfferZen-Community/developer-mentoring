@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'The Developer Mentoring Handbook',
   tagline: 'Helping devs help devs',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://developer-mentoring.vercel.app/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -57,7 +57,7 @@ const config = {
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/offerzen/poc-docusaurus',
+            href: 'https://github.com/OfferZen-Community/developer-mentoring',
             label: 'GitHub',
             position: 'right',
           },
