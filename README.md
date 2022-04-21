@@ -17,3 +17,5 @@ The idea is that this guide is put to use and tested by each OfferZen Thrive mon
 Basically in every way possible. The team behind this are n00bs and haven't ever managed an open source repo before. Want to add contribution guidelines? Good idea. Maybe create a discussion, issue or card on the GitHub project? Go for it. The idea is that we build this together.
 
 Notifications channel on Thrive Slack: [#github-notifications](https://offerzenthrive.slack.com/archives/C03CA8X72LU)
+
+Thanks so much for helping!
