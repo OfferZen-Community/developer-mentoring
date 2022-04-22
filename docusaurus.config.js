@@ -16,6 +16,15 @@ const config = {
   organizationName: 'offerzen', // Usually your GitHub org/user name.
   projectName: 'tech-mentoring-handbook', // Usually your repo name.
 
+  plugins: [
+    [
+      require.resolve('@cmfcmf/docusaurus-search-local'),
+      {
+        // Options here
+      },
+    ]
+  ],
+
   presets: [
     [
       'classic',
