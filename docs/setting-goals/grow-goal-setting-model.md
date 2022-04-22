@@ -2,9 +2,11 @@
 
 We like to use the **GROW goals model** to set goals for the mentoring.
 
-{% hint style="info" %}
-💡**Pro tip:** [Here](https://www.youtube.com/watch?v=K3iJwoydBbg) is a video that explains the GROW model, which is a model that helps us uncover what you need guidance on. The video explains it from a coach’s point of view. Pay attention to the definitions of each part of GROW.
-{% endhint %}
+:::tip
+
+[Here](https://www.youtube.com/watch?v=K3iJwoydBbg) is a video that explains the GROW model, which is a model that helps us uncover what you need guidance on. The video explains it from a coach’s point of view. Pay attention to the definitions of each part of GROW.
+
+:::
 
 A mentor can help you establish workable goals that make sense in your context using the GROW model. You can also start the work yourself to figure out what you need to do, and where you need external input and guidance.
 
