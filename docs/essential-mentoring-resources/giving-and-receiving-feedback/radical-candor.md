@@ -2,9 +2,11 @@
 
 The Radical Candor framework is a handy way of understanding how best to provide guidance and feedback. According to this framework, everyone lies along a spectrum of **caring** and **candor**. Understanding what Radical Candor is **not** can help you better understand what it **is**.
 
-{% hint style="warning" %}
-**Note** - These are behaviours that everyone falls into at one point another, they are not personality types.
-{% endhint %}
+:::caution
+
+These are behaviours that everyone falls into at one point another, they are not personality types.
+
+:::
 
 ![Source: https://www.radicalcandor.com/our-approach/](</img/assets/image5.png>)
 
@@ -24,7 +26,8 @@ Manipulative insincerity - backstabbing or passive-aggressive behaviour - is wha
 
 Radical candor is what happens when you **care personally AND challenge directly**. It’s criticism or feedback that is **kind and clear**, and praise that is **specific and sincere**.
 
-{% hint style="info" %}
-🔉 **This** [**podcast**](https://www.radicalcandor.com/podcast/podcast-episode-1/) **talks about using the Radical Candor framework to guide your conversations.** \
+:::info
 
-{% endhint %}
+🔉 **This** [**podcast**](https://www.radicalcandor.com/podcast/podcast-episode-1/) **talks about using the Radical Candor framework to guide your conversations.**
+
+:::

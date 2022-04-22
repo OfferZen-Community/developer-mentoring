@@ -4,9 +4,11 @@ We all think. All the time. We think about what things we need to do, the things
 
 What seems confusing, then, how little time we spend on structuring our thinking before we start **doing**. After quite some time of thinking the value I bring is my ability to do, act, strike from the hip, I was surprised to learn that stopping to think was a super-power I wasn’t spending time on.
 
-{% hint style="info" %}
+:::tip
+
 In her book, [Time to Think](https://www.goodreads.com/book/show/1020273.Time\_to\_Think), **Nancy Kline** says “The power of everything we do depends on the quality of the thinking we do first”
-{% endhint %}
+
+:::
 
 Nancy Kline goes on to explain that given the right environment, thinking can help people unlock the answers to their own challenges. One of those environments is the mentoring relationship.
 

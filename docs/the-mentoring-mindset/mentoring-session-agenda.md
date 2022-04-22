@@ -12,7 +12,11 @@ Depending on what you’ve decided on in your mentoring agreement, maybe you’l
 * Decide **when** the meeting agenda should be shared with the other person
 * Remember, the agenda is here to **help you have a great conversation**. Jot down what makes sense for you.
 
-💡 Pro-tip: keep it in a place where you can both access it easily
+:::tip
+
+Keep it in a place where you can both access it easily
+
+:::
 
 ### Example of how to structure a session <a href="#example-of-how-to-structure-a-session" id="example-of-how-to-structure-a-session"></a>
 

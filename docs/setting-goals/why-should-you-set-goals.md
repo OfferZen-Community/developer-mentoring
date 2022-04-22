@@ -20,4 +20,8 @@ Goal-setting is important in any career, but it’s essential in the development
 <!-- Here is a [cool video](https://www.youtube.com/watch?v=zESeeaFDVSw\&vl=en) and [<mark style="color:blue;">another</mark> <mark style="color:purple;"></mark> <mark style="color:blue;">one</mark>](https://www.ted.com/talks/tim\_ferriss\_why\_you\_should\_define\_your\_fears\_instead\_of\_your\_goals#t-336770) to get your goal-setting juices flowing! -->
 
 
-**💡** Before you set goals, it might be useful to do a [personal SWOT analysis](personal-swot-analysis.md).
+:::tip
+
+Before you set goals, it might be useful to do a [personal SWOT analysis](personal-swot-analysis.md).
+
+:::

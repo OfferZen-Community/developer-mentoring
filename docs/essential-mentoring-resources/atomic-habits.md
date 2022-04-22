@@ -8,9 +8,11 @@ As a result, you may not realise how much power there is in habits. If repeated 
 
 Success is the product of daily habits. Getting 1% better every day counts for a lot in the long-run. The important thing is whether your habits are putting you on the right path. **Be concerned with your current trajectory, and not with your current results.**
 
-{% hint style="info" %}
+:::tip
+
 If you want better results, **focus on your system instead of your goals**.
-{% endhint %}
+
+:::
 
 #### Goals vs. Systems
 
@@ -30,9 +32,11 @@ The most effective way to change your habits is to focus not on what you want to
 
 It’s helpful to think of your habits as an **election**. Each time you do a good habit or action you are casting the vote for the type of person you want to become. Each time you do something undesirable, you are casting a vote in the opposite box.
 
-{% hint style="info" %}
+:::tip
+
 The goal is not to be perfect - it is to **win the majority**.
-{% endhint %}
+
+:::
 
 ![Source: Atomic Habits by James Clear](<../../static/img/assets/image (6).png>)
 
