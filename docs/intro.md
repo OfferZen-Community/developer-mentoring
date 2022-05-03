@@ -6,7 +6,7 @@ id: intro
 
 # The ultimate tech mentoring guides
 
-## Welcome!
+## Welcome! :)
 
 This guide has been developed by **OfferZen** in collaboration with **Project Thrive community members**.&#x20;
 
