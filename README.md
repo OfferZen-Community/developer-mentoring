@@ -1,10 +1,10 @@
-# Welcome to the developer mentorting guide :)
+# Welcome to the developer mentoring guide :)
 
 ### About/Mission
 This is a community contributed guide designed to help developers help other developers. Its goal is to help those that want to:
 
 - Be better at mentoring other developers
-- Be better at being mentored and making the most of that opportunity
+- Be better at being mentored and able to make the most of that opportunity
 - (In future) Implement mentoring programmes within their workplaces
 
 The idea is that this guide is put to use and tested by each OfferZen Thrive monthly cohort, and that each cohort can help make it better. We could implement versioning over time to pin the 
