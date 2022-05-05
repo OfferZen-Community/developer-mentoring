@@ -37,3 +37,14 @@
 [data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
+
+/* Search bar CSS. Custom properties available at https://www.algolia.com/doc/ui-libraries/autocomplete/api-reference/autocomplete-theme-classic/#additional-css-classes */
+:root [data-theme='dark'] {
+  --aa-primary-color-rgb: --ifm-color-primary-dark !important;
+  --aa-muted-color-rgb: 255,255,255 !important;
+  --aa-text-color-rgb: 255,255,255 !important;
+}
+
+:root {
+--aa-primary-color-rgb: 0,0,0 !important;
+}
