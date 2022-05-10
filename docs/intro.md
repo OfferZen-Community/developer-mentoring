@@ -22,9 +22,9 @@ This guide will provide you with tips and frameworks to help you make the most o
 ## Introduction
 
 * [The Ultimate Developer Mentoring Guide](/intro.md)
-* [About OfferZen](/intro/about-offerzen.md)
-* [About Project Thrive](/intro/about-project-thrive.md) 
-* [How to use this handbook](/intro/how-to-use-this-handbook.md)
+* [About OfferZen](/about-offerzen.md)
+* [About Project Thrive](/about-project-thrive.md) 
+* [How to use this handbook](/how-to-use-this-handbook.md)
 
 ## Getting Started with Mentoring
 
