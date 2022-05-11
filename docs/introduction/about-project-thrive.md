@@ -1,9 +1,3 @@
----
-sidebar_position: 2
-title: About Project Thrive
----
-
-
 # About Project Thrive 
 
 OfferZen’s Project Thrive **12-week** mentoring programme aims to connect senior developers who want to pay-it-forward by helping junior developers. At Project Thrive, we remove the uncertainty of finding vetted mentees and provide you with a framework of how you can make the most of your mentoring relationship. With this project, our aim is to provide an opportunity to foster meaningful relationships between mentor and mentee that will lead to cross-cultural knowledge transfer within the tech community.  

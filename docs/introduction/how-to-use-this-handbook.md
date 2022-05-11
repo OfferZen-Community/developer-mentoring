@@ -1,9 +1,3 @@
----
-sidebar_position: 2
-title: How to use this handbook
----
-
-
 # How to Use this Handbook
 
 This handbook breaks down different aspects of the mentoring relationship. It'll outline the expectations of both mentors and mentees and mentoring best practices, as well as provide some helpful frameworks around which to structure the mentoring relationship.&#x20;

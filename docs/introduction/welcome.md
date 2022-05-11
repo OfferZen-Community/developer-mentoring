@@ -1,9 +1,3 @@
----
-sidebar_position: 1
-title: Introduction
-id: intro
----
-
 # The Ultimate Developer Mentoring Guide
 
 ## Welcome!

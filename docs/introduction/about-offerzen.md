@@ -1,8 +1,3 @@
----
-sidebar_position: 2
-title: About OfferZen
----
-
 # About OfferZen
 
 OfferZen is a developer talent marketplace by developers for developers. Our platform matches top software talent with exciting opportunities at companies, but this effort encompasses a much wider mission: To help developers and their teams thrive in the tech ecosystem.
