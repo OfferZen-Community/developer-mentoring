@@ -1,9 +1,3 @@
----
-sidebar_position: 1
-title: Introduction
-id: intro
----
-
 # The Ultimate Developer Mentoring Guide
 
 ## Welcome!
@@ -21,10 +15,10 @@ This guide will provide you with tips and frameworks to help you make the most o
 
 ## Introduction
 
-* [The Ultimate Developer Mentoring Guide](/intro.md)
-* [About OfferZen](/about-offerzen.md)
-* [About Project Thrive](/about-project-thrive.md) 
-* [How to use this handbook](/how-to-use-this-handbook.md)
+* [The Ultimate Developer Mentoring Guide](/introduction/welcome.md)
+* [About Project Thrive](/introduction/about-project-thrive.md) 
+* [About OfferZen](/introduction/about-offerzen.md)
+* [How to use this handbook](/introduction/how-to-use-this-handbook.md)
 
 ## Getting Started with Mentoring
 
@@ -37,11 +31,11 @@ This guide will provide you with tips and frameworks to help you make the most o
 
 ## Essential Mentoring Resources
 
+* [Atomic Habits](/essential-mentoring-resources/atomic-habits.md)
 * [Why should you set goals?](/essential-mentoring-resources/why-should-you-set-goals.md)
 * [Personal SWOT Analysis](/essential-mentoring-resources/personal-swot-analysis.md)
 * [GROW Goal Setting Model](/essential-mentoring-resources/grow-goal-setting-model.md)
 * [Giving and Receiving Feedback](/essential-mentoring-resources/giving-and-receiving-feedback/README.md)
 * [Radical Candor](/essential-mentoring-resources/giving-and-receiving-feedback/radical-candor.md)
-* [Atomic Habits](/essential-mentoring-resources/atomic-habits.md)
 * [Thinking Partnerships](/essential-mentoring-resources/thinking-partnerships.md)
 * [Time Management Skills and Strategies](/essential-mentoring-resources/time-management-skills-and-strategies.md)
