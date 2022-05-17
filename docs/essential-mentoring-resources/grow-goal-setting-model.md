@@ -1,3 +1,9 @@
+---
+description: GROW Goal Setting Model
+id: grow-goal-setting-model
+sidebar_position: 4
+---
+
 # GROW Goal Setting Model
 
 We like to use the **GROW goals model** to set goals for the mentoring.

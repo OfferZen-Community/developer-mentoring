@@ -1,3 +1,9 @@
+---
+description: Mentoring Session Agenda
+id: mentoring-session-agenda
+sidebar_position: 1
+---
+
 # Mentoring Session Agenda
 
 Meeting agendas. For some, they’re the broccoli of the working world. Some people like them, we all know we need them but they aren’t a favourite.&#x20;
