@@ -10,5 +10,5 @@ The **goal** of this handbook is to provide **mentors and mentees** with the kno
 :::info
 ## How can you help?
 
-We want to make sure that we curate content that is valuable to you in your own mentoring journey. Let us know about content that you'd like to add to the guide by creating an issue or discussion on [**GitHub**](https://github.com/OfferZen-Community/developer-mentoring). You are also welcome to make suggestions or edits to the guide yourself. The idea is that we build this guide together. :rocket:
+We want to make sure that we curate content that is valuable to you in your own mentoring journey. Let us know about content that you'd like to add to the guide by submitting them [**here**](https://docs.google.com/forms/d/e/1FAIpQLSe_XUlRPUp80cmYXLjnkmhjjPJJpdCUzUjn3wmGt_CzjisFZw/viewform?usp=sf_link) or by creating an issue or discussion on [**GitHub**](https://github.com/OfferZen-Community/developer-mentoring/issues). You are also welcome to make suggestions or edits to the guide yourself. The idea is that we build this guide together. :rocket:
 :::
