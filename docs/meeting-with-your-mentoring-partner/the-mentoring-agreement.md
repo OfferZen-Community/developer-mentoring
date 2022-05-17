@@ -1,3 +1,9 @@
+---
+description: The Mentoring Agreement
+id: the-mentoring-agreement
+sidebar_position: 2
+---
+
 # The Mentoring Agreement
 
 This agreement is to help set you up for success as you set out on your mentoring journey.We recommend chatting about your expectations of one another, as well as your roles and responsibilities at the beginning of the relationship. When you know this, you’re defining what success looks like upfront, so you can keep moving toward it together. Here are some useful questions to consider:​

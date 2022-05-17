@@ -1,3 +1,9 @@
+---
+description: Mentoring Tips for Success
+id: mentoring-tips-for-success
+sidebar_position: 1
+---
+
 # Mentoring Tips for Success
 
 ## The Mentoring Skills Model

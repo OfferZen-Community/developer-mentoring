@@ -1,3 +1,9 @@
+---
+description: Thinking Partnerships
+id: thinking-partnerships
+sidebar_position: 5
+---
+
 # Thinking Partnerships
 
 We all think. All the time. We think about what things we need to do, the things we’re doing and all the things we’re not doing.

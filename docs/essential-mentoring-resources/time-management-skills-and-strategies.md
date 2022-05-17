@@ -1,3 +1,9 @@
+---
+description: Time Management Skills and Strategies
+id: time-management-skills-and-strategies
+sidebar_position: 6
+---
+
 # Time Management Skills and Strategies
 
 To get ahead in your career, deliver your projects successfully and to get a promotion or a pay rise, you must learn to consistently focus on the activities that add the most benefit to your projects and your clients. The better you are at maintaining focus and managing your time, the more you will achieve. Better time management will also help you withstand stress and live a more fulfilling life outside of work.

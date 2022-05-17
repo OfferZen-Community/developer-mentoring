@@ -1,3 +1,9 @@
+---
+description: Personal SWOT Analysis
+id: personal-swot-analysis
+sidebar_position: 3
+---
+
 # Personal SWOT Analysis
 
 The personal SWOT analysis is a great tool to assess yourself and find opportunities for growth. SWOT stands for:

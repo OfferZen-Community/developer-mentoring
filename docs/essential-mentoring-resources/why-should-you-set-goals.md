@@ -1,3 +1,9 @@
+---
+description: Why should you set goals?
+id: why-should-you-set-goals
+sidebar_position: 2
+---
+
 # Why should you set goals?
 
 Now that you know what it takes to be a great mentor or mentee, it’s time to give some thought to the things that you would like to accomplish in your mentoring journey.

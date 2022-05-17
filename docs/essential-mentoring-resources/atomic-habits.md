@@ -1,3 +1,9 @@
+---
+description: Atomic Habits
+id: atomic-habits
+sidebar_position: 1
+---
+
 # Atomic Habits
 
 Habits are behaviours that we perform automatically, with little or no thought. From making a coffee when we get up in the morning, to brushing out teeth before bed at night, our habits subtly guide our daily lives.
