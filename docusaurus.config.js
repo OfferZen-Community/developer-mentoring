@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'The Developer Mentoring Handbook',
+  title: 'The Developer Mentoring Guide',
   tagline: 'Helping devs help devs',
   url: 'https://developer-mentoring.vercel.app/',
   baseUrl: '/',
@@ -14,7 +14,7 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'offerzen', // Usually your GitHub org/user name.
-  projectName: 'tech-mentoring-handbook', // Usually your repo name.
+  projectName: 'developer-mentoring-guide', // Usually your repo name.
 
   plugins: [
     [
@@ -50,7 +50,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Dev Mentoring Handbook',
+        title: 'Developer Mentoring Guide',
         logo: {
           alt: 'OfferZen Logo',
           src: 'img/logo.png',
