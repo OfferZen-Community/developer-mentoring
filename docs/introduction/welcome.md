@@ -1,3 +1,9 @@
+---
+description: Welcome to the Developer Mentoring Guide
+id: welcome
+sidebar_position: 1
+---
+
 # The Ultimate Developer Mentoring Guide
 
 ## Welcome!
