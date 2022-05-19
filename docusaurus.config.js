@@ -50,7 +50,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'The Developer Mentoring Guide',
+        title: 'Developer Mentoring Guide',
         logo: {
           alt: 'OfferZen Logo',
           src: 'img/logo.png',
