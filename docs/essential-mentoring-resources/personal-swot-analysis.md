@@ -44,3 +44,11 @@ When doing a personal SWOT analysis it is helpful to think of yourself as a ship
 
 * What obstacles do you face? (e.g. resource shortages, lack of room for growth in your current role)
 * What could get in your way? (e.g. unrealistic expectations about what can be achieved, personal life)
+
+:::tip
+
+If you want to read more about how to perform a personl SWOT analysis, check out this [**article**](https://www.offerzen.com/blog/how-to-use-a-personal-swot-analysis-before-setting-goals/?utm_source=github&utm_medium=thrive&utm_campaign=all_supply_awareness_handbook_both_github&utm_content=blog-swot-analysis)
+
+![](<//img/assets/offerzen-swot-analysis.png>)
+
+:::

@@ -47,3 +47,14 @@ A mentor can help you establish workable goals that make sense in your context u
 3. How do you want to be held accountable for this goal?&#x20;
 4. What else do you need to consider before starting?&#x20;
 5. How will you celebrate when you’ve achieved your goal?
+
+:::tip
+
+Want to read more about how to put the GROW goal setting model into practice? Check out this [**article**](https://www.offerzen.com/blog/how-to-use-the-grow-goal-setting-model-to-set-better-goals/?utm_source=github&utm_medium=thrive&utm_campaign=all_supply_awareness_handbook_both_github&utm_content=blog-grow-goals).
+
+![](<//img/assets/offerzen-grow-goals.png>)
+
+:::
+
+
+
