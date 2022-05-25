@@ -1,7 +1,7 @@
 ---
 description: Mentoring Tips for Success
 id: mentoring-tips-for-success
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 # Mentoring Tips for Success
