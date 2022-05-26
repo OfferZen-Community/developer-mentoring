@@ -1,7 +1,7 @@
 ---
 description: Mentoring Tips for Success
 id: mentoring-tips-for-success
-sidebar_position: 1
+sidebar_position: 4
 ---
 
 # Mentoring Tips for Success
@@ -141,3 +141,12 @@ Even when your mentors try to take a strong lead, you’re the one who should ma
 * Communicate with your mentors when you want to revisit your goals&#x20;
 * Communicate with your mentors about your meeting schedules&#x20;
 * Provide a focus for your meetings by creating an agenda and sharing it with your mentors (here is a handy meeting agenda template)
+
+
+:::info
+
+In the [**article**](https://www.offerzen.com/blog/how-my-mentor-enabled-me-as-a-junior-developer?utm_source=github&utm_medium=thrive&utm_campaign=all_supply_awareness_handbook_both_github&utm_content=blog-how-my-mentor-enabled-me), one of our [**Project Thrive**](https://www.offerzen.com/thrive?utm_source=github&utm_medium=thrive&utm_campaign=all_supply_traffic_handbook_both_github&utm_content=mentoring-success) mentees tells us about how he was able to make a success of his mentoring relationship.
+
+![](<//img/assets/how-my-mentor-enabled-me.png>)
+
+:::
