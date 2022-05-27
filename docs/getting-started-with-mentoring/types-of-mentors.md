@@ -17,11 +17,11 @@ The Protector provides support and establishes a safe environment for their ment
 
 ## 3. The Coach 🏋️‍♂️
 
-The Coach is able to listen carefully and sympathizes with their mentee. These sorts of skills allow Coaches to easily recognise any difficulties their mentee might be experiencing, while also helping them to identify and strenghten their good traits.
+The Coach is able to listen carefully and sympathizes with their mentee. These sorts of skills allow Coaches to easily recognise any difficulties their mentee might be experiencing, while also helping them to identify and strengthen their good traits.
 
 ## 4. The Connector 🔗
 
-Connectors always offering their mentees opportunities to grow. They're especially eager to draw on their large networks if it means that their mentee could learn or benefit in a significant way.
+Connectors are always offering their mentees opportunities to grow. They're especially eager to draw on their large networks if it means that their mentee could learn or benefit in a significant way.
 
 ## 5. The Challenger 🤔
 
