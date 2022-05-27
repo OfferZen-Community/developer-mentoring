@@ -53,8 +53,7 @@ const config = {
         title: 'Developer Mentoring Guide',
         logo: {
           alt: 'OfferZen Logo',
-          src: 'img/OfferZen_logo_black.png',
-          srcDark: 'img/OfferZen_logo_white.png',
+          src: 'img/logo.png',
         },
         items: [
           {
