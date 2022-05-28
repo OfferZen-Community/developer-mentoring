@@ -54,6 +54,7 @@ const config = {
         logo: {
           alt: 'OfferZen Logo',
           src: 'img/logo.png',
+          srcDark: 'img/logo_white.png'
         },
         items: [
           {
