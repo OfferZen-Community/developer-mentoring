@@ -4,11 +4,13 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
+const gitRepoBaseUrl = 'https://github.com/OfferZen-Community/developer-mentoring';
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'The Developer Mentoring Guide',
   tagline: 'Helping devs help devs',
-  url: 'https://developer-mentoring.vercel.app/',
+  url: 'https://www.developermentoring.guide',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -32,12 +34,12 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/OfferZen-Community/developer-mentoring/blob/main/',
+          editUrl: `${gitRepoBaseUrl}/blob/main/`,
         },
         blog: {
           showReadingTime: true,
           editUrl:
-            'https://github.com/OfferZen-Community/developer-mentoring/blob/main/',
+            `${gitRepoBaseUrl}/blob/main/`,
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -65,7 +67,7 @@ const config = {
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/OfferZen-Community/developer-mentoring',
+            href: gitRepoBaseUrl,
             label: 'GitHub',
             position: 'right',
           },
@@ -105,12 +107,12 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/offerzen/poc-docusaurus',
+                href: gitRepoBaseUrl,
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} OfferZen Community. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
