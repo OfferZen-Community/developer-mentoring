@@ -33,6 +33,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl: 'https://github.com/OfferZen-Community/developer-mentoring/blob/main/',
+          showLastUpdateTime: true,
         },
         blog: {
           showReadingTime: true,
