@@ -4,6 +4,11 @@
  * work well for content-centric websites.
  */
 
+@font-face {
+  font-family: "Proxima Nova";
+  src: url("./fonts/ProximaNova-Regular.woff") format("woff");
+}
+
 /* You can override the default Infima variables here. */
 :root {
   --ifm-color-primary: #243e6d;
@@ -14,10 +19,11 @@
   --ifm-color-primary-lighter: #359962;
   --ifm-color-primary-lightest: #3cad6e;
   --ifm-code-font-size: 95%;
+  --ifm-font-family-base: "Proxima Nova", "sans-serif";
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
-[data-theme='dark'] {
+[data-theme="dark"] {
   --ifm-color-primary: #25c2a0;
   --ifm-color-primary-dark: #21af90;
   --ifm-color-primary-darker: #1fa588;
@@ -34,17 +40,17 @@
   padding: 0 var(--ifm-pre-padding);
 }
 
-[data-theme='dark'] .docusaurus-highlight-code-line {
+[data-theme="dark"] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
 
 /* Search bar CSS. Custom properties available at https://www.algolia.com/doc/ui-libraries/autocomplete/api-reference/autocomplete-theme-classic/#additional-css-classes */
-:root [data-theme='dark'] {
+:root [data-theme="dark"] {
   --aa-primary-color-rgb: --ifm-color-primary-dark !important;
-  --aa-muted-color-rgb: 255,255,255 !important;
-  --aa-text-color-rgb: 255,255,255 !important;
+  --aa-muted-color-rgb: 255, 255, 255 !important;
+  --aa-text-color-rgb: 255, 255, 255 !important;
 }
 
 :root {
---aa-primary-color-rgb: 0,0,0 !important;
+  --aa-primary-color-rgb: 0, 0, 0 !important;
 }
