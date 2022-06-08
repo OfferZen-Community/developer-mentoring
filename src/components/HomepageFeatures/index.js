@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Maintained by active dev mentors and mentees :)',
-    Svg: require('@site/static/img/developer_guide_01.svg').default,
+    Svg: require('@site/static/img/homepage_pandalf_1.svg').default,
     description: (
       <>
         The dev mentoring handbook is an open source handbook maintained by the OfferZen Mentoring Commmunity.
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Tested and iterated on every month',
-    Svg: require('@site/static/img/developer_guide_02.svg').default,
+    Svg: require('@site/static/img/homepage_pandalf_2.svg').default,
     description: (
       <>
         With new mentoring pairs using this guide every month, the contents are tried, tested, and frequently iterated on. 
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Built to help you help devs',
-    Svg: require('@site/static/img/developer_guide_03.svg').default,
+    Svg: require('@site/static/img/homepage_pandalf_3.svg').default,
     description: (
       <>
         Use this guide in your personal capacity or to implement an impactful mentoring programme in your workplace.
