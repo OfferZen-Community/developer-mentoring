@@ -2,7 +2,7 @@
 
 ### About
 
-This is a community contributed guide designed to help developers help other developers. After facilitating the mentoring relationships of over 250 mentoring pairs that have come through OfferZen's Project Thrive mentoring programme, we've learned a lot about what it takes to ensure the success of a mentoring relationship. 
+This is a community contributed [guide](https://www.developermentoring.guide) designed to help developers help other developers. After facilitating the mentoring relationships of over 250 mentoring pairs that have come through OfferZen's Project Thrive mentoring programme, we've learned a lot about what it takes to ensure the success of a mentoring relationship. 
 
 #### The goal of this guide is to help those that want to:
 
@@ -42,7 +42,7 @@ Used any additional resources or templates during your mentoring relationship th
 
 * This is a copy of the [docusaurus.io](https://www.docusaurus.io) getting started template. You'll see that the code hasn't been cleaned up yet.
 
-* @suitophobia is the owner of a Vercel project that builds this repo to [www.developermentoring.guide](www.developermentoring.guide).
+* @suitophobia is the owner of a Vercel project that builds this repo to [www.developermentoring.guide](https://www.developermentoring.guide).
 
 ***
 
@@ -57,3 +57,8 @@ npm run build
 ```
 
 **Thanks so much for helping!**
+
+
+<a href="https://github.com/OfferZen-Community/developer-mentoring/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=OfferZen-Community/developer-mentoring" />
+</a>

@@ -24,6 +24,12 @@ const config = {
       {
         // Options here
       },
+    ],
+    [
+      require.resolve("docusaurus-gtm-plugin"),
+      {
+        id: "GTM-TZVBNJD", // GTM Container ID
+      },
     ]
   ],
 
@@ -35,6 +41,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl: `${gitRepoBaseUrl}/blob/main/`,
+          showLastUpdateTime: true,
         },
         blog: {
           showReadingTime: true,
@@ -119,6 +126,7 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+    
 };
 
 module.exports = config;
