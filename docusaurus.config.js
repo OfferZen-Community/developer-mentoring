@@ -75,8 +75,9 @@ const config = {
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: gitRepoBaseUrl,
-            label: 'GitHub',
             position: 'right',
+            className: 'header-github-link',
+            'aria-label': 'GitHub',
           },
         ],
       },
