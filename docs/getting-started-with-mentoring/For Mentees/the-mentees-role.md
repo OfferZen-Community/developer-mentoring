@@ -1,7 +1,7 @@
 ---
 description: The Mentee's Role
 id: the-mentees-role
-sidebar_position: 4
+sidebar_position: 1
 ---
 
 # What is Your Role as a Mentee?

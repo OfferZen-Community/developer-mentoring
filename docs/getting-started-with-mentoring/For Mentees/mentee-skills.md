@@ -1,12 +1,10 @@
 ---
 description: Skills to Become a Successful Mentee
 id: mentee-skills
-sidebar_position: 5
+sidebar_position: 2
 ---
 
 # Skills to Become a Successful Mentee
-
-For a mentorship relationship to be successful, both parties need put in time and effort and acquire some key skills. Here’s an overview of the skills you need to be a great mentee.
 
 Over our three years of engaging with hundreds of developers and mentors at Project Thrive, we’ve been able distill key skills needed for success. Mentorship is a two-way-street, and it’s super important that you take responsibility for your side as a mentee. There are some skills that both individuals need to cultivate, and some individual skills will help you be a great mentee.
 
@@ -45,7 +43,7 @@ A mentoring partnership requires commitment and mutual trust. The stronger this 
 These are our top tips for building trust in a mentorship relationship: 
 * **Be accountable:** If you make a mistake, that’s ok. But you need to be honest about it and work to resolve it. If you make a promise, see it through. 
 * **Keep confidences:** Where confidences are respected, trust can follow. Mentorship can take us to a place of vulnerability and both parties need to feel safe enough to share their struggles openly. 
-* **Respect boundaries:** You need to establish expectations and clear boundaries in a mentorship pair, and respecting these is key to the success of the endeavour. 
+* **Respect boundaries:** You need to establish expectations and clear boundaries in a mentorship pair, and respecting these is key to success. 
 
 ### 3. Encouraging one another
 
