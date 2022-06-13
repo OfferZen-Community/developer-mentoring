@@ -1,7 +1,7 @@
 ---
 description: The Mentor's Role
 id: the-mentors-role
-sidebar_position: 2
+sidebar_position: 1
 ---
 
 # What is Your Role as a Mentor?
