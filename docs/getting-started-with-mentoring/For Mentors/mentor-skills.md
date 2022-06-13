@@ -84,14 +84,14 @@ Hold your mentee to high standards. This might mean encouraging them to set more
 
 ### 3. Provide constructive feedback
 
-In a mentoring relationship, providing constructive feedback is **as** important as providing encouragement. If you identify a situation that you feel your mentee could have handled better, providing feedback to them can really aid the learning process. Read more about how to provide feedback [**here**](docs/essential-mentoring-resources/giving-and-receiving-feedback)
+In a mentoring relationship, providing constructive feedback is **as** important as providing encouragement. If you identify a situation that you feel your mentee could have handled better, providing feedback to them can really aid the learning process. 
 
 
 ### 4. Help your mentee manage risks
 
 All new ventures are accompanied by a certain amount of risk. Your mentee will need guidance as they consider which risks are manageable, and which risks cannot be surmounted. 
 
-There are additional tools that can be used when planning a new venture that’ll help you and your mentee determine what the risks are and whether they're surmountable or not. For instance, at [**Project Thrive**](https://www.offerzen.com/thrive?utm_source=github&utm_medium=thrive&utm_campaign=all_supply_awareness_handbook_both_github&utm_content=mentor-skills-thrive-example), we encourage mentees to work through the [**SWOT analysis**](docs/essential-mentoring-resources/personal-swot-analysis.md) to help them identify any threats upfront.
+There are additional tools that can be used when planning a new venture that’ll help you and your mentee determine what the risks are and whether they're surmountable or not. For instance, at [**Project Thrive**](https://www.offerzen.com/thrive?utm_source=github&utm_medium=thrive&utm_campaign=all_supply_awareness_handbook_both_github&utm_content=mentor-skills-thrive-example), we encourage mentees to work through the **SWOT analysis** to help them identify any threats upfront.
 
 
 ### 5.Open doors for your mentee
