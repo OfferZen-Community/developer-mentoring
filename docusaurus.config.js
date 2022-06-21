@@ -72,7 +72,6 @@ const config = {
             position: 'left',
             label: 'The Guide',
           },
-          // {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: gitRepoBaseUrl,
             position: 'right',
