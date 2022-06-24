@@ -90,6 +90,9 @@ const config = {
                 label: 'The Guide',
                 to: '/docs/introduction/welcome',
               },
+              {
+                html: '<iframe src="https://ghbtns.com/github-btn.html?user=OfferZen-Community&repo=developer-mentoring&type=star&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>',
+              },
             ],
           },
           {
