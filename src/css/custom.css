@@ -18,6 +18,8 @@
   --ifm-color-primary-light: #33925d;
   --ifm-color-primary-lighter: #359962;
   --ifm-color-primary-lightest: #3cad6e;
+  --ifm-navbar-link-hover-color: #2F96F4;
+  --ifm-footer-link-hover-color: #2F96F4;
   --ifm-code-font-size: 95%;
   --ifm-font-family-base: "Proxima Nova", "sans-serif";
 }
