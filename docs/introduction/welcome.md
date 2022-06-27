@@ -17,5 +17,5 @@ We launched the Project Thrive mentoring programme because we believe in the pow
 **This guide will provide you with tips and frameworks to help you make the most of your mentoring relationship.**
 
 :::info
-If you're a developer reading this guide and have questions relating to mentoring that we haven't covered, please submit them [**here**](https://docs.google.com/forms/d/e/1FAIpQLSe_XUlRPUp80cmYXLjnkmhjjPJJpdCUzUjn3wmGt_CzjisFZw/viewform?usp=sf_link) or create an issue or discussion on [**GitHub**](https://github.com/OfferZen-Community/developer-mentoring/issues). We want to make sure that we curate content that is useful to you. You are also welcome to make suggestions or edits to the guide so that we can build this out together. :handshake:
+If you're a developer reading this guide and have questions relating to mentoring that we haven't covered, please submit them [**here**](https://docs.google.com/forms/d/e/1FAIpQLSe_XUlRPUp80cmYXLjnkmhjjPJJpdCUzUjn3wmGt_CzjisFZw/viewform?usp=sf_link) or create an issue on [**GitHub**](https://github.com/OfferZen-Community/developer-mentoring/issues). We want to make sure that we curate content that is useful to you. You are also welcome to make suggestions or edits to the guide so that we can build this out together. :handshake:
 :::
