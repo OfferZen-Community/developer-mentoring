@@ -103,7 +103,7 @@ const config = {
                 href: 'https://www.offerzen.com/community',
               },
               {
-                label: 'OfferZen Thrive',
+                label: 'Sign up for Project Thrive',
                 href: 'https://www.offerzen.com/foundation',
               },
             ],
