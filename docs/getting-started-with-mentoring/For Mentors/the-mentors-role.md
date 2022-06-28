@@ -14,7 +14,7 @@ As a mentor, your role is to guide and support your mentee to help them achieve 
 
 * A mentor should also serve as a *thinking partner* for the mentee. Often it is incredibly useful just to have someone to bounce ideas against - someone to ask the questions that you yourself have not thought of yet so that you are able to think more creatively about decisions or actions.
 
-* In the same vein, your role as a mentor is also to challenge your mentee's assumptions as well as to provide feedback that your they need to hear in order to grow. 
+* In the same vein, your role as a mentor is also to challenge your mentee's assumptions as well as to provide feedback that they need to hear in order to grow. 
 
 * You should also provide your mentee with recommendations for resources that they may find helpful, such as books, events, webinars, or communities.
 
