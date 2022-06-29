@@ -22,8 +22,7 @@ Goal-setting is important in any career, but it’s essential in the development
 
 
 <!-- markdownlint-disable MD033 -->
-Here is a [cool video](https://www.youtube.com/watch?v=zESeeaFDVSw\&vl=en) and <a href="https://www.ted.com/talks/tim_ferriss_why_you_should_define_your_fears_instead_of_your_goals?language=en" style={{color: "blue"}}>another one</a> to get your goal-setting juices flowing!
-
+Here is a <a href="https://www.youtube.com/watch?v=zESeeaFDVSw\&vl=en" style={{textDecoration: "underline"}}>cool video</a> and <a href="https://www.ted.com/talks/tim_ferriss_why_you_should_define_your_fears_instead_of_your_goals?language=en" style={{textDecoration: "underline"}}>another one</a> to get your goal-setting juices flowing!
 
 :::tip
 
