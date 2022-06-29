@@ -21,9 +21,8 @@ Goal-setting is important in any career, but it’s essential in the development
 
 
 
-<!-- Commenting this out as it's not compatible with the docusarus set up. Needs to be rebuilt -->
-
-<!-- Here is a [cool video](https://www.youtube.com/watch?v=zESeeaFDVSw\&vl=en) and [<mark style="color:blue;">another</mark> <mark style="color:purple;"></mark> <mark style="color:blue;">one</mark>](https://www.ted.com/talks/tim\_ferriss\_why\_you\_should\_define\_your\_fears\_instead\_of\_your\_goals#t-336770) to get your goal-setting juices flowing! -->
+<!-- markdownlint-disable MD033 -->
+Here is a [cool video](https://www.youtube.com/watch?v=zESeeaFDVSw\&vl=en) and <a href="https://www.ted.com/talks/tim_ferriss_why_you_should_define_your_fears_instead_of_your_goals?language=en" style={{color: "blue"}}>another one</a> to get your goal-setting juices flowing!
 
 
 :::tip
