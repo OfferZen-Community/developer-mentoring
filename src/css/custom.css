@@ -59,6 +59,10 @@
   --aa-primary-color-rgb: 0, 0, 0 !important;
 }
 
+.navbar__items.navbar__items--right a, .navbar__items.navbar__items--right div {
+  margin-right: 0.5rem;
+}
+
 .header-github-link:hover {
   opacity: 0.6;
 }
