@@ -59,7 +59,19 @@
   --aa-primary-color-rgb: 0, 0, 0 !important;
 }
 
-.navbar__items.navbar__items--right a, .navbar__items.navbar__items--right div {
+.aa-DetachedSearchButton {
+  transition: background var(--ifm-transition-fast);
+}
+
+.aa-DetachedSearchButton:hover {
+  background: var(--ifm-color-emphasis-200);
+}
+
+.aa-DetachedSearchButtonPlaceholder {
+  margin: 0 1rem 0 0.5rem;
+}
+
+.navbar__items.navbar__items--right > a, .navbar__items.navbar__items--right > div {
   margin-right: 0.5rem;
 }
 
