@@ -6,7 +6,7 @@ sidebar_position: 2
 
 # The Mentoring Agreement
 
-This agreement is to help set you up for success as you set out on your mentoring journey.We recommend chatting about your expectations of one another, as well as your roles and responsibilities at the beginning of the relationship. When you know this, you’re defining what success looks like upfront, so you can keep moving toward it together. Here are some useful questions to consider:​
+This agreement is to help set you up for success as you set out on your mentoring journey. We recommend chatting about your expectations of one another, as well as your roles and responsibilities at the beginning of the relationship. When you know this, you’re defining what success looks like upfront, so you can keep moving toward it together. Here are some useful questions to consider:​
 
 ### Meeting and communicating <a href="#meeting-and-communicating" id="meeting-and-communicating"></a>
 
@@ -28,4 +28,4 @@ This agreement is to help set you up for success as you set out on your mentorin
 * **Mentee expectations**
   * What do you expect of your mentor? (e.g. share experience, provide regular feedback)
 
-​
+[Download this docx](../../static/docs/Reflective%2BExercise.docx) or the [PDF](../../static/docs/Reflective.Exercise.for.Developer.Mentoring.Guide.pdf) to get started!
