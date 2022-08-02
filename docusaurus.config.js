@@ -156,3 +156,10 @@ module.exports = {
     },
   },
 };
+module.exports = {
+  themeConfig: {
+    navbar: {
+      hideOnScroll: true,
+    },
+  },
+};
