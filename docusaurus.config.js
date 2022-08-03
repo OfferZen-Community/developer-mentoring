@@ -30,16 +30,6 @@ const config = {
       {
         id: "GTM-TZVBNJD", // GTM Container ID
       },
-    ],
-    [
-      require.resolve('@docusaurus/plugin-ideal-image'),
-      {
-        quality: 70,
-        max: 1200,
-        min: 640,
-        steps: 2,
-        disableInDev: false,
-      },
     ]
   ],
 
