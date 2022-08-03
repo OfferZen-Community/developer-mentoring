@@ -142,7 +142,7 @@ const config = {
       announcementBar: {
         id: 'support_us',
         content:
-          'We are looking for mentors and mentees for our programme! 👉 Sign up <a target="_blank" rel="noopener noreferrer" href="https://www.offerzen.com/thrive">here</a>',
+          'We\'re looking for mentors and mentees for our programme! 👉 Sign up <a target="_blank" rel="noopener noreferrer" href="https://www.offerzen.com/thrive">here</a>',
         backgroundColor: '#fafbfc',
         textColor: '#091E42',
         isCloseable: false,
