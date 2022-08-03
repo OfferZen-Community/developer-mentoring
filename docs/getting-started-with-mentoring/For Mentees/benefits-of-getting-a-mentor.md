@@ -39,6 +39,6 @@ Once you’ve set your goal, your mentor can help you keep track of your efforts
 Mentor and mentee relationships, specifically when they are built on trust and mutual respect, can provide a safe space for receiving honest feedback. In the workplace, often there are power dynamics at play between leaders and their employees. Understandably, this makes it difficult for employees to show vulnerability when it comes to their work. In the mentoring relationship, because the mentor is dedicating their time and energy to the mentee to upskill and is not ultimately accountable for their mentee at work, this power dynamic shifts somewhat. As such, a mentor can provide no-strings-attached feedback on improvement. They can also help you identify and refine specific professional soft skills needed to thrive in the workplace. 
 
 
-**Having the motivation, guidance, and support of an experienced mentor in your industry can place a mentee in a position of tremendous advantage, putting you on a growth pedestal.** ⭐️
+**Having the motivation, guidance, and support of an experienced mentor in your industry can place a mentee in a position of tremendous advantage, putting you on a growth pedestal.** 🤩
 
 
