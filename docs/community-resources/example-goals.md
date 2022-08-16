@@ -120,9 +120,14 @@ Loading...⏳
 
 Loading...⏳
 
-#### #29:
+#### #29: I want to be working at an intermediate level as a Front-End Developer and professional
 
-Loading...⏳
+My mentor and I used the SMART analysis, which incorporates all of the following criteria, to help focus our efforts and increase the chances of achieving the set goal;
+Specific - I want to be working at an intermediate level as a Front-End Developer and professional.
+Measurable - I want to use my 12 weeks on Project Thrive to create a stronger skillset (soft skills and technical).
+Achievable - I will learn tools to combat overthinking, disorganisation and bottlenecks that may be limiting my productivity.
+Realistic - I will implement these strategies on my Kanban Board. The goal is to decrease time-to-completion on my tasks.
+Timebound - 12 Weeks: In this period I will revamp my CV, LinkedIn and Portfolio so I can build my network and THRIVE.
 
 #### #30:
 
