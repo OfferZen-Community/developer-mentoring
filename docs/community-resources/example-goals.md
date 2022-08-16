@@ -8,9 +8,9 @@ sidebar_position: 4
 
 Here are some examples of technical, career, and personal goals that participants in the Project Thrive programme set in their mentoring relationships! 🚀
 
-#### #1:
+#### #1: Helping Me Prepare for the AWS Sub-Saharan Challenge
 
-Loading...⏳ 
+After working with my mentor through a personal SWOT analysis I now have a much clearer idea of the career path ahead of me. And so, I've registered for an AWS course and already have my exam voucher! Over these next few weeks, my mentor will help me prep for the exam and (hopefully) get me closer to an AWS certification 🤞
 
 #### #2:
 
