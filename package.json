@@ -39,5 +39,8 @@
   },
   "engines": {
     "node": ">=16.14.0"
+  },
+  "devDependencies": {
+    "@docusaurus/eslint-plugin": "^2.0.1"
   }
 }
