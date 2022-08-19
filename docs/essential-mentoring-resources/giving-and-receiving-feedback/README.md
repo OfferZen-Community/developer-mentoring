@@ -1,5 +1,7 @@
 # Giving and Receiving Feedback
 
+![](<//img/assets/Giving-and-Receiving-Feedback.png>)
+
 Two-way feedback is a super important part of any mentoring relationship. It’s also an essential ingredient in career development work. That’s why Project Thrive participants make use of the continuous feedback loop to learn how to give and receive feedback, and to make sure everyone is on the same page and communication is honest, open and constructive. Here’s how it works.
 
 ### The Importance of Feedback
@@ -101,4 +103,3 @@ This is an opportunity for both parties to learn how to deliver and receive feed
 **By putting these feedback tools and techniques into practice, you’re ready to start your journey of growth, either in your current role or by joining a mentorship programme like Project Thrive.**
 
 
-![](<//img/assets/Giving-and-Receiving-Feedback.png>)
