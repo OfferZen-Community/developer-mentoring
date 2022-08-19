@@ -99,3 +99,6 @@ When reflecting on the feedback, consider the following:.
 This is an opportunity for both parties to learn how to deliver and receive feedback effectively. You can share the thoughts and ideas that the feedback brought up for you, as well as your plans to implement changes moving forward.
 
 **By putting these feedback tools and techniques into practice, you’re ready to start your journey of growth, either in your current role or by joining a mentorship programme like Project Thrive.**
+
+
+![](<//img/assets/Giving-and-Receiving-Feedback.png>)
