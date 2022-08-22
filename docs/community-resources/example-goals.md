@@ -52,6 +52,14 @@ Loading...⏳
 
 Loading...⏳
 
+!!! ERROR !!!
+
+Kidding! After chatting to my mentor about my goals and where my career was heading, we collectively decided that instead of focusing on technical skills we would focus on leadership & soft skills. So naturally, I am in critique wonderland. Yay! 
+
+For the past few weeks I have been working on a "Book Club" where we work through a book called "Dare to Lead" with a few others from the Slack channel. So far it's been a challenging experience but in the most positive way & I am learning a lot from the experience - not only about leadership, but about myself ***queue violin music***. 
+
+I am using many of these new skills in my work & personal life, only up from here (so far, no one has hit me over the head yet so I think it's working).
+
 #### #12:
 
 Loading...⏳
