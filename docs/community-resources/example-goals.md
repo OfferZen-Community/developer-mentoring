@@ -60,9 +60,21 @@ For the past few weeks I have been working on a "Book Club" where we work throug
 
 I am using many of these new skills in my work & personal life, only up from here (so far, no one has hit me over the head yet so I think it's working).
 
-#### #12:
+#### #12: Dealing with Day to day challenges of working in Tech
 
-Loading...⏳
+The tech space is fast-paced and ever challenging environment. For one to reach their career goals one need to deal with certain obstacles that every developer is bound to encounter at some point in their career, one that stands out the most is imposter syndrome.
+
+I often advise my mantee to be aware of his knowledge gaps and understand that we are in a career that you're always in a cycle of continuous learning, that being said it is important to find a method of learning that works for him, it can either writing blogs, giving talks or every creating small github repos which will mean that he actively applies thne concepts his learning. I personally I'm still a student in this industry and prefer problem based knowledge, where by what I learn is often based on the problem I'm trying to solve. I would advise all the mentees to find what works for them.
+
+While continuous learning and application is very important, is rest the worst thing that can happen to a developer is trying to be productive and enjoy what they're doing while burnout, thus rest and doing anything outside of code is very important... in short all of us need to get a hobby and take time off from changing the world through code. Mental block, imposter syndrome and exhaustion is not nice, give yourself a break. 
+
+Lastly:
+- break down your goals in small manageable task that can be done quickly (Momentum is key here)
+- Your goals: you're accountable to yourself
+- Go easy on yourself since we're all learning there's no room for imposter syndrome
+- Take time off from code and prioritise you and your family
+
+My Mantee has really suporised me in his execution of the above mentioned and has been making such great progress. I would have been cool to meet hi in person sice we're in different provinces.
 
 #### #13:
 
