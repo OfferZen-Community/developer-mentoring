@@ -74,7 +74,12 @@ But first, what’s Radical Candour? The term, coined by Kim Scott in her book  
 
 The framework guides us to provide feedback from a place of caring, and to do this by challenging directly, i.e. we care enough to have the tough conversations, instead of sugar-coating the truth.
 
-![](<//img/assets/radical-candor-table.png>)
+
+|  | **Silence** | **Challenge Directly** |
+|---|---|---|
+| **Uncaring** | *Manipulative Insincerity* - Individuals approaching feedback from this dynamic neither care for the person they are engaging with nor challenge them with feedback that will help them to grow. Instead, they may be polite on the surface, but critical behind closed doors. | *Obnoxious Aggression* - The individual does challenge directly, but they do this without care for the individual receiving the feedback. This equates to brutal honesty and feedback that may be unkind. |
+| **Care Personally** | *Ruinous Empathy* - When we approach a situation with caring, but don't speak up, we fall into ruinous empathy. In this dynamic, we put our concern for someone's feelings above their long-term potential for growth. We may default to praise and provide unspecific or sugar-coated feedback. | *Radical Candour* - The individual provides feedback that is kind and clear, and praise is sincere and specific. |
+
 
 ### Responding to Feedback
 
