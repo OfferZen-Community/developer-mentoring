@@ -60,21 +60,21 @@ For the past few weeks I have been working on a "Book Club" where we work throug
 
 I am using many of these new skills in my work & personal life, only up from here (so far, no one has hit me over the head yet so I think it's working).
 
-#### #12: Dealing with Day to day challenges of working in Tech
+#### #12: Dealing With The Day-to-Day Challenges of Working in Tech
 
-The tech space is fast-paced and ever challenging environment. For one to reach their career goals one need to deal with certain obstacles that every developer is bound to encounter at some point in their career, one that stands out the most is imposter syndrome.
+The tech space is a fast-paced and challenging environment. For someone to reach their career goals, they need to deal with certain obstacles that every developer is bound to encounter at some point in their career. One that stands out the most is **imposter syndrome**.
 
-I often advise my mantee to be aware of his knowledge gaps and understand that we are in a career that you're always in a cycle of continuous learning, that being said it is important to find a method of learning that works for him, it can either writing blogs, giving talks or every creating small github repos which will mean that he actively applies thne concepts his learning. I personally I'm still a student in this industry and prefer problem based knowledge, where by what I learn is often based on the problem I'm trying to solve. I would advise all the mentees to find what works for them.
+I often advise my mentee to be aware of his knowledge gaps and to understand that he's in a career where everyobody is always in a cycle of continuous learning. That said, it's important to find a method of learning that works for him. This could be blog wriitng, giving talks, or even creating small GitHub repos—all these methods involve him actively applying the concepts he's learned. Even as a mentor I still consider myself a learner in this industry and prefer problem-based knowledge where whatever I learn is based on the problem I'm trying to solve. But I would advise any mentees to find what works for them.
 
-While continuous learning and application is very important, is rest the worst thing that can happen to a developer is trying to be productive and enjoy what they're doing while burnout, thus rest and doing anything outside of code is very important... in short all of us need to get a hobby and take time off from changing the world through code. Mental block, imposter syndrome and exhaustion is not nice, give yourself a break. 
+While I think continuous learning and application is important, I'm aware that the worst thing that can happen to a developer is trying to be _overly_ productive to the point where they burnout. Never deprioritise sleep or rest. Doing things outside of the code is also important! Everyone needs a hobby or a way to take time off from changing the world through code. Mental exhausation is never fun or rewarding. Give yourself a break.
 
-Lastly:
-- break down your goals in small manageable task that can be done quickly (Momentum is key here)
-- Your goals: you're accountable to yourself
-- Go easy on yourself since we're all learning there's no room for imposter syndrome
-- Take time off from code and prioritise you and your family
+If I had to sum up my advice:
+- Break down your goals into small, manageable tasks that can be done quickly (momentum is key here)
+- Find a way to be accountable for your goals
+- Go easy on yourself; we're all learning
+- Take time off from code and prioritise your health and family
 
-My Mantee has really suporised me in his execution of the above mentioned and has been making such great progress. I would have been cool to meet hi in person sice we're in different provinces.
+My mentee has made such great progress and really suprised me in his how well he executed the above recommendations. It would have been great to meet him in person (our mentoring relationship was virtual since we were in different provinces).
 
 #### #13:
 
