@@ -128,9 +128,11 @@ Loading...⏳
 
 Loading...⏳
 
-#### #26:
+#### #26: Learning to Implement Stress Management Strategies While Picking Up a New Tech Stack
 
-Loading...⏳
+After running through the [**SWOT analysis**](https://www.developermentoring.guide/docs/essential-mentoring-resources/personal-swot-analysis) with my mentor we were able to shed light on some of the areas that had room for improvement in my work life. For example, due to bouncing around between many responsibilities and tech stacks at work, I feel that I have missed out on many of the nitty gritty aspects of programming such as design patterns. This in turn fuels both imposter syndrome and causes me feelings of stress.
+
+As a solution (and in tandem with switching tech stacks at work in the coming months), we've decided to dedicate our time in the Thrive programme to helping me learn Javascript through practicing core design patterns. At the same time, we'll monitor stressors and come up with coping strategies before and as they occur. In addition, my mentor’s aim is to impart as much senior level knowledge on me as possible in order to alleviate many of these feelings that I may have about work.
 
 #### #27:
 
