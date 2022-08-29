@@ -25,8 +25,6 @@ Below are just some _meaningful_ questions that you and your mentoring partner c
 * Getting to know each other’s pet peeves
 Where you might find your mentoring partner outside of work
 
-You might also want to check out the [Thrive Mentoring Relationship Charter](/static/mentoring-relationship-charter.pdf) for more questions that could help you and your mentoring partner not only get to know each other but also have fun.
-
 ## Active Listening
 
 Making a conscious effort to understand what your mentoring partner is trying to say will enable you to get to know your partner much better. Again, this is easier said than done at times. It’s easy to get distracted, lose focus, and respond to the ‘gist’ of the other person. As a mentor, you might have a tendency to prepare counterarguments or clarifications while listening to your mentee. And as a mentee, you might be refining any questions you think are important to ask your mentor after they finish speaking. But preparing yourself for a conversation with [these active listening tips](https://www.developermentoring.guide/docs/getting-started-with-mentoring/For%20Mentors/mentor-skills#1-active-listening) can make the difference between a superficial mentoring relationship and a meaningful mentoring relationship.
