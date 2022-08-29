@@ -24,9 +24,9 @@ Loading...⏳
 
 Loading...⏳
 
-#### #5:
+#### #5: Dealing with Weaker Skill Areas
 
-An area where I have the most difficulty is in Data Structures and Algorithms, after a talk with my mentor, I decided on solving at least one problem set from leetcode per week, that way I get to build up my problem solving skills and prepare myself for interviews.
+An area where I have the most difficulty is in Data Structures and Algorithms, after a talk with my mentor, I decided on solving at least one problem set from [LeetCode](https://leetcode.com/) per week. That way, I get to build up my problem-solving skills and prepare myself for interviews.
 
 #### #6:
 
