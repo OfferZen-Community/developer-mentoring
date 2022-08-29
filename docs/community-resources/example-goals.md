@@ -26,7 +26,7 @@ Loading...⏳
 
 #### #5:
 
-Loading...⏳
+An area where I have the most difficulty is in Data Structures and Algorithms, after a talk with my mentor, I decided on solving at least one problem set from leetcode per week, that way I get to build up my problem solving skills and prepare myself for interviews.
 
 #### #6:
 
