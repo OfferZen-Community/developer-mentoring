@@ -12,8 +12,10 @@ Once you've used the [**personal SWOT analysis tool**](/docs/essential-mentoring
 
 :::tip
 
-[Here](https://www.youtube.com/watch?v=K3iJwoydBbg) is a video that explains the GROW model, which is a model that helps us uncover what you need guidance on. The video explains it from a coach’s point of view. Pay attention to the definitions of each part of GROW.
+Here is a video that explains the GROW model, which is a model that helps us uncover what you need guidance on. The video explains it from a coach’s point of view. Pay attention to the definitions of each part of GROW.
 
+<div class="youtube-wrapper"><iframe  src="https://www.youtube.com/embed/K3iJwoydBbg" title="The GROW Model" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="youtube-video"></iframe>
+</div>
 :::
 
 ## GROW is a coaching tool that’ll help you:
