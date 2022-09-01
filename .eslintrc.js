@@ -1,13 +1,12 @@
 module.exports = {
-    extends: ['plugin:@docusaurus/recommended'],
-    plugins: ['@docusaurus'],
-    rules: {
+  extends: ["plugin:@docusaurus/recommended"],
+  plugins: ["@docusaurus"],
+  rules: {},
+  parserOptions: {
+    ecmaFeatures: {
+      jsx: true,
     },
-    parserOptions: {
-        ecmaFeatures: {
-            jsx: true,
-        },
-        sourceType: 'module',
-        ecmaVersion: 'latest'
-    }
-  };
+    sourceType: "module",
+    ecmaVersion: "latest",
+  },
+};
