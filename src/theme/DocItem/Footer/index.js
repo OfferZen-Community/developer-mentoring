@@ -1,10 +1,10 @@
-import React from 'react';
-import Footer from '@theme-original/DocItem/Footer';
-import Giscus from '@giscus/react';
-import {useColorMode} from '@docusaurus/theme-common';
+import React from "react";
+import Footer from "@theme-original/DocItem/Footer";
+import Giscus from "@giscus/react";
+import { useColorMode } from "@docusaurus/theme-common";
 
 export default function FooterWrapper(props) {
-  const {colorMode } = useColorMode();
+  const { colorMode } = useColorMode();
   return (
     <>
       <Footer {...props} />
@@ -18,7 +18,7 @@ export default function FooterWrapper(props) {
         reactionsEnabled="1"
         emitMetadata="0"
         inputPosition="top"
-        theme={colorMode==="dark"?"dark":"light"}
+        theme={colorMode === "dark" ? "dark" : "light"}
         lang="en"
         loading="lazy"
         crossOrigin="anonymous"
