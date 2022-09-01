@@ -1,56 +1,61 @@
 .quizQuestions {
-  border: solid 1px black;
-  padding: 2rem;
+	border: solid 1px black;
+	padding: 2rem;
 }
 
-.quizQuestions input[type="checkbox"] {
-  opacity: 0;
-  position: absolute;
+.quizQuestions input[type='checkbox'] {
+	opacity: 0;
+	position: absolute;
 }
 
 .quizQuestions .checkboxContainer:focus-within {
-  outline: var(--ifm-navbar-link-hover-color) auto 1px;
+	outline: var(--ifm-navbar-link-hover-color) auto 1px;
 }
 
 .quizQuestions .checkboxContainer label {
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-  user-select: none;
-  cursor: pointer;
-  margin-bottom: 2rem;
-  box-sizing: border-box;
-  border-bottom-width: 1px;
-  padding: 0.5rem;
+	display: flex;
+	align-items: center;
+	justify-content: flex-start;
+	user-select: none;
+	cursor: pointer;
+	margin-bottom: 2rem;
+	box-sizing: border-box;
+	border-bottom-width: 1px;
+}
+
+@media screen and (min-width: 769px) {
+	.quizQuestions .checkboxContainer label {
+		padding: 0.5rem;
+	}
 }
 
 .quizQuestions .checkboxContainer label .checkbox {
-  height: 40px;
-  min-width: 40px;
-  max-width: 40px;
-  border: solid 2px black;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin-right: 1rem;
+	height: 40px;
+	min-width: 40px;
+	max-width: 40px;
+	border: solid 2px black;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-right: 1rem;
 }
 
 .quizQuestions .checkboxContainer label:hover {
-  color: var(--ifm-navbar-link-hover-color);
+	color: var(--ifm-navbar-link-hover-color);
 }
 
-[data-theme="dark"] .quizQuestions .checkboxContainer label .checkbox {
-  border: solid 2px white;
+[data-theme='dark'] .quizQuestions .checkboxContainer label .checkbox {
+	border: solid 2px white;
 }
 
 .quizQuestions .checkboxContainer label .checkbox .checkmark {
-  display: none;
-  font-size: 35px;
-  font-weight: bold;
+	display: none;
+	font-size: 35px;
+	font-weight: bold;
 }
 
 .quizQuestions .checkboxContainer label .question {
-  font-size: 1rem;
-  margin-left: 15px;
-  font-weight: 400;
+	font-size: 1rem;
+	margin-left: 15px;
+	font-weight: 400;
 }
