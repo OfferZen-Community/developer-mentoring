@@ -1,0 +1,98 @@
+[
+  {
+    "text": "Do you feel that your experience entitles you to indicate how problems need to be solved?",
+    "type": "advisor"
+  },
+  {
+    "text": "Do you believe that reasonable solutions can be difficult to find, so you insist mentees follow your advice?",
+    "type": "advisor"
+  },
+  {
+    "text": "Do you define mentoring as offering solutions to problems?",
+    "type": "advisor"
+  },
+  {
+    "text": "Do you feel that your mentee needs you to step in and problem solve for them because they are overwhelmed?",
+    "type": "protector"
+  },
+  {
+    "text": "Do you offer solutions for your mentee's problems because you feel they lack an understanding of the big picture?",
+    "type": "protector"
+  },
+  {
+    "text": "Do you feel obligated to provide a safe space for your mentee to take risks?",
+    "type": "protector"
+  },
+  {
+    "text": "Do you like to let your mentee do most of the talking while you pinpoint ways to solve their problems?",
+    "type": "coach"
+  },
+  {
+    "text": "Do you find yourself pointing out weak and strong traits in your mentee?",
+    "type": "coach"
+  },
+  {
+    "text": "Are you aiming to help your mentee solve their problems?",
+    "type": "coach"
+  },
+  {
+    "text": "If you recognize a shortcoming in your mentee, do you try and connect them with experts in that area?",
+    "type": "connector"
+  },
+  {
+    "text": "Do you look for learning opportunities that will benefit your mentee?",
+    "type": "connector"
+  },
+  {
+    "text": "Do you have an extensive network that you can call on to help your mentee develop?",
+    "type": "connector"
+  },
+  {
+    "text": "Do you enjoy playing the devil’s advocate to challenge your mentee?",
+    "type": "challenger"
+  },
+  {
+    "text": "Do you encourage your mentee to aim high?",
+    "type": "challenger"
+  },
+  {
+    "text": "Do you like to push your mentee further to help them develop independence?",
+    "type": "challenger"
+  },
+  {
+    "text": "Do you help your mentee learn organizational values and politics?",
+    "type": "clarifier"
+  },
+  {
+    "text": "Do you allow your mentee to solve their problems?",
+    "type": "clarifier"
+  },
+  {
+    "text": "Are you slow to offer your opinion on how a mentee should handle a challenge?",
+    "type": "clarifier"
+  },
+  {
+    "text": "Do you find yourself recommending your mentee for promotion?",
+    "type": "sponsor"
+  },
+  {
+    "text": "Do you use your network connections to help your mentee get ahead?",
+    "type": "sponsor"
+  },
+  {
+    "text": "Do you suggest possible career opportunities to your mentee?",
+    "type": "sponsor"
+  },
+  {
+    "text": "If you see your mentee is worried about something, you spend a lot of time talking about it.",
+    "type": "affirmer"
+  },
+  {
+    "text": "Do you find yourself having a deep understanding and empathy for your mentee’s situation?",
+    "type": "affirmer"
+  },
+  {
+    "text": "Are you ready to offer support and a listening ear whenever your mentee stops by?",
+    "type": "affirmer"
+  }
+]
