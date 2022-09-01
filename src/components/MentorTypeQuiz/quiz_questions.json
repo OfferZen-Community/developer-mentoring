@@ -1,15 +1,15 @@
 [
 	{
 		"text": "Do you feel that your experience entitles you to indicate how problems need to be solved?",
-		"type": "affinity"
+		"type": "advisor"
 	},
 	{
 		"text": "Do you believe that reasonable solutions can be difficult to find, so you insist mentees follow your advice?",
-		"type": "affinity"
+		"type": "advisor"
 	},
 	{
 		"text": "Do you define mentoring as offering solutions to problems?",
-		"type": "affinity"
+		"type": "advisor"
 	},
 	{
 		"text": "Do you feel that your mentee needs you to step in and problem solve for them because they are overwhelmed?",

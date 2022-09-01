@@ -1,8 +1,9 @@
 import React, { useState } from 'react'
 import styles from './styles.module.css'
 
-import quizQuestions from './quizQuestions.json'
+import quizQuestions from './quiz_questions.json'
 import QuizItem from './QuizQuestion'
+import QuizResults from './QuizResults'
 
 export default function Quiz() {
 	let uniqueMentorTypes = new Set()
@@ -13,6 +14,10 @@ export default function Quiz() {
 	const [mentorTypes] = useState(Array.from(uniqueMentorTypes))
 	const [quizSubmitted, setQuizSubmitted] = useState(false)
 	const [quizResults, setQuizResults] = useState([])
+	const [typeMatch, setTypeMatch] = useState({
+		name: '',
+		percentage: 0,
+	})
 	const [userSelection, setUserSelection] = useState([])
 
 	const handleSubmit = (e) => {
@@ -37,10 +42,20 @@ export default function Quiz() {
 			)
 
 			results.push({
-				type: mentorType,
+				name: mentorType,
 				percentage: selectionPercentage,
 			})
 		})
+
+		const bestMentorTypeMatch = Math.max(
+			...results.map((result) => {
+				return result.percentage
+			})
+		)
+
+		setTypeMatch(
+			results.find((result) => result.percentage === bestMentorTypeMatch)
+		)
 
 		setQuizResults(results)
 		setQuizSubmitted(true)
@@ -62,32 +77,28 @@ export default function Quiz() {
 
 	if (quizSubmitted) {
 		return (
-			<div className="item shadow--md padding--lg">
-				<ol>
-					{quizResults
-						.sort((a, b) => b.percentage - a.percentage)
-						.map((result, index) => (
-							<li key={index}>
-								{result.type} : {result.percentage}%
-							</li>
-						))}
-				</ol>
-			</div>
+			<QuizResults
+				quizResults={quizResults}
+				mentorTypeMatch={typeMatch}
+			/>
 		)
 	} else {
 		return (
 			<div className="item shadow--md">
 				<form onSubmit={handleSubmit} className={styles.quizQuestions}>
-					{quizQuestions.map((props, idx) => (
+					{quizQuestions.map((props) => (
 						<QuizItem
-							key={idx}
+							key={props.text}
 							{...props}
 							selectAnswer={selectAnswer}
 							removeAnswer={removeAnswer}
 						/>
 					))}
 
-					<button className="button button--primary" type="submit">
+					<button
+						className="button button--lg button--primary"
+						type="submit"
+					>
 						Submit
 					</button>
 				</form>
