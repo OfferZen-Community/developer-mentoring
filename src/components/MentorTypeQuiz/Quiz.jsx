@@ -1,11 +1,10 @@
-import React, { useState } from 'react'
-
-import quiz_questions from './quiz_questions.json'
+import React, { useState, useEffect } from 'react'
 import styles from './styles.module.css'
 
 import QuizItem from './QuizQuestion'
 import QuizResults from './QuizResults'
-import { useEffect } from 'react'
+
+import quiz_questions from './quiz_questions.json'
 
 export default function Quiz() {
 	let uniqueMentorTypes = new Set()
@@ -52,7 +51,7 @@ export default function Quiz() {
 			})
 		})
 
-		const bestMentorTypeMatch = Math.max(
+		const highestTypeMatchPercentage = Math.max(
 			...results.map((result) => {
 				return result.percentage
 			})
@@ -60,7 +59,9 @@ export default function Quiz() {
 
 		setQuizResults(results)
 		setMentorTypeMatch(
-			results.find((result) => result.percentage === bestMentorTypeMatch)
+			results.find(
+				(result) => result.percentage === highestTypeMatchPercentage
+			)
 		)
 	}
 
