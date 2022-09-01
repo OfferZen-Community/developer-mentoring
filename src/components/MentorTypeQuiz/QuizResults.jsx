@@ -12,7 +12,7 @@ export default function QuizResults({ quizResults, mentorTypeMatch }) {
 	}, [])
 
 	return (
-		<div className="item shadow--md padding--lg">
+		<div className="item shadow--lw padding--lg">
 			<p>
 				Your mentor type is: <br />
 				<h2>
