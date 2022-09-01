@@ -1,7 +1,8 @@
 import React, { useState } from 'react'
-import styles from './styles.module.css'
 
 import quiz_questions from './quiz_questions.json'
+import styles from './styles.module.css'
+
 import QuizItem from './QuizQuestion'
 import QuizResults from './QuizResults'
 import { useEffect } from 'react'
@@ -16,22 +17,20 @@ export default function Quiz() {
 	const [quizQuestions, setQuizQuestions] = useState([])
 	const [quizSubmitted, setQuizSubmitted] = useState(false)
 	const [quizResults, setQuizResults] = useState([])
-	const [typeMatch, setTypeMatch] = useState({
+	const [mentorTypeMatch, setMentorTypeMatch] = useState({
 		name: '',
 		percentage: 0,
 	})
 	const [userSelection, setUserSelection] = useState([])
 
 	useEffect(() => {
+		// Shuffle quiz question order
 		setQuizQuestions(quiz_questions.sort(() => Math.random() - 0.5))
 	}, [])
 
-	const handleSubmit = (e) => {
-		e.preventDefault()
-
+	const calculateQuizResults = () => {
 		let availableMentorTypesCount = 0
 		let selectedMentorTypesCount = 0
-
 		let results = []
 
 		mentorTypes.forEach((mentorType) => {
@@ -53,18 +52,19 @@ export default function Quiz() {
 			})
 		})
 
+		setQuizResults(results)
+	}
+
+	const calculateMentorTypeMatch = () => {
 		const bestMentorTypeMatch = Math.max(
 			...results.map((result) => {
 				return result.percentage
 			})
 		)
 
-		setTypeMatch(
+		setMentorTypeMatch(
 			results.find((result) => result.percentage === bestMentorTypeMatch)
 		)
-
-		setQuizResults(results)
-		setQuizSubmitted(true)
 	}
 
 	const selectAnswer = (answer) => {
@@ -81,11 +81,19 @@ export default function Quiz() {
 		userSelection.splice(answerAdded, 1)
 	}
 
+	const handleSubmit = (e) => {
+		e.preventDefault()
+
+		calculateQuizResults()
+		calculateMentorTypeMatch()
+		setQuizSubmitted(true)
+	}
+
 	if (quizSubmitted) {
 		return (
 			<QuizResults
 				quizResults={quizResults}
-				mentorTypeMatch={typeMatch}
+				mentorTypeMatch={mentorTypeMatch}
 			/>
 		)
 	} else {
