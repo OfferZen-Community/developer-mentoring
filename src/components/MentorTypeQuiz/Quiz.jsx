@@ -1,6 +1,8 @@
 import React, { useState, useEffect } from 'react'
 import styles from './styles.module.css'
 
+import kebabCase from '@site/src/utils/kebabCase.js'
+
 import QuizQuestion from './QuizQuestion'
 import QuizResults from './QuizResults'
 
@@ -99,7 +101,8 @@ export default function Quiz() {
 				<form onSubmit={handleSubmit} className={styles.quizQuestions}>
 					{quizQuestions.map((props) => (
 						<QuizQuestion
-							key={props.text}
+							key={kebabCase(props.text)}
+							id={kebabCase(props.text)}
 							{...props}
 							selectAnswer={selectAnswer}
 							removeAnswer={removeAnswer}
