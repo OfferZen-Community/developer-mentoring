@@ -19,7 +19,7 @@ export default function QuizResults({ quizResults, mentorTypeMatch }) {
 			</p>
 			<p>{mentorType.description}</p>
 
-			<p>Full results:</p>
+			<h3>Results:</h3>
 			<ol>
 				{quizResults
 					.sort((a, b) => b.percentage - a.percentage)

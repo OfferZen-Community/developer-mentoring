@@ -52,16 +52,13 @@ export default function Quiz() {
 			})
 		})
 
-		setQuizResults(results)
-	}
-
-	const calculateMentorTypeMatch = () => {
 		const bestMentorTypeMatch = Math.max(
 			...results.map((result) => {
 				return result.percentage
 			})
 		)
 
+		setQuizResults(results)
 		setMentorTypeMatch(
 			results.find((result) => result.percentage === bestMentorTypeMatch)
 		)
@@ -85,7 +82,6 @@ export default function Quiz() {
 		e.preventDefault()
 
 		calculateQuizResults()
-		calculateMentorTypeMatch()
 		setQuizSubmitted(true)
 	}
 
@@ -112,6 +108,7 @@ export default function Quiz() {
 					<button
 						className="button button--lg button--primary"
 						type="submit"
+						disabled={userSelection.length < 1}
 					>
 						Submit
 					</button>
