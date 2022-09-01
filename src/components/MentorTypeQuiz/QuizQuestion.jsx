@@ -21,8 +21,8 @@ export default function QuizQuestion({
 			className={styles.checkboxContainer}
 			onClick={() => selectCheckbox(type)}
 		>
-			<input type="hidden" value={type}></input>
-			<input type="checkbox" id={id} value={id}></input>
+			<input type="hidden" value={type} />
+			<input type="checkbox" id={id} value={id} />
 			<label>
 				<div className={styles.checkbox}>
 					<div className={styles.checkmark}>

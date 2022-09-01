@@ -3,10 +3,10 @@ import styles from './styles.module.css'
 
 import kebabCase from '@site/src/utils/kebabCase.js'
 
+import quiz_questions from './quiz_questions.json'
+
 import QuizQuestion from './QuizQuestion'
 import QuizResults from './QuizResults'
-
-import quiz_questions from './quiz_questions.json'
 
 export default function Quiz() {
 	let uniqueMentorTypes = new Set()
