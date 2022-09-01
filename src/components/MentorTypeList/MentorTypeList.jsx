@@ -9,13 +9,13 @@ export default function MentorTypeList() {
 	const [mentorTypes, setMentorTypes] = useState([])
 
 	useEffect(() => {
-		setMentorTypes(mentor_types)
-
 		// Add kebab-case ID so the heading link can be added
-		mentorTypes.forEach((type, idx) => {
+		mentor_types.forEach((type, idx) => {
 			type.id = idx + 1 + '-' + kebabCase(type.name)
 		})
-	})
+
+		setMentorTypes(mentor_types)
+	}, [])
 
 	return (
 		<div>
