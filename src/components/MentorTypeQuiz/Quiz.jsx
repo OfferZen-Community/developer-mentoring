@@ -1,17 +1,19 @@
 import React, { useState } from 'react'
 import styles from './styles.module.css'
 
-import quizQuestions from './quiz_questions.json'
+import quiz_questions from './quiz_questions.json'
 import QuizItem from './QuizQuestion'
 import QuizResults from './QuizResults'
+import { useEffect } from 'react'
 
 export default function Quiz() {
 	let uniqueMentorTypes = new Set()
-	quizQuestions.forEach((question) => {
+	quiz_questions.forEach((question) => {
 		uniqueMentorTypes.add(question.type)
 	})
 
 	const [mentorTypes] = useState(Array.from(uniqueMentorTypes))
+	const [quizQuestions, setQuizQuestions] = useState([])
 	const [quizSubmitted, setQuizSubmitted] = useState(false)
 	const [quizResults, setQuizResults] = useState([])
 	const [typeMatch, setTypeMatch] = useState({
@@ -19,6 +21,10 @@ export default function Quiz() {
 		percentage: 0,
 	})
 	const [userSelection, setUserSelection] = useState([])
+
+	useEffect(() => {
+		setQuizQuestions(quiz_questions.sort(() => Math.random() - 0.5))
+	}, [])
 
 	const handleSubmit = (e) => {
 		e.preventDefault()
