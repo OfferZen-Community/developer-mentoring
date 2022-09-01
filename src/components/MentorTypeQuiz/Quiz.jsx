@@ -97,15 +97,15 @@ export default function Quiz() {
 		)
 	} else {
 		return (
-			<div className="item shadow--md">
+			<div className="item shadow--lw">
 				<form onSubmit={handleSubmit} className={styles.quizQuestions}>
 					{quizQuestions.map((props) => (
 						<QuizQuestion
-							key={kebabCase(props.text)}
-							id={kebabCase(props.text)}
 							{...props}
 							selectAnswer={selectAnswer}
 							removeAnswer={removeAnswer}
+							key={kebabCase(props.text)}
+							id={kebabCase(props.text)}
 						/>
 					))}
 

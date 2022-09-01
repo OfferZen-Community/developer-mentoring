@@ -22,10 +22,10 @@ export default function QuizQuestion({
 			onClick={() => selectCheckbox(type)}
 		>
 			<input type="hidden" value={type}></input>
-			<input type="checkbox" id={id} value=""></input>
-			<label htmlFor={id}>
+			<input type="checkbox" id={id} value={id}></input>
+			<label>
 				<div className={styles.checkbox}>
-					<div className="checkmark">
+					<div className={styles.checkmark}>
 						{checkboxSelected ? '✓' : ''}
 					</div>
 				</div>

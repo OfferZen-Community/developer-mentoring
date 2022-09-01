@@ -1,6 +1,5 @@
 .quizQuestions {
-	border: solid 1px black;
-	padding: 2rem;
+	padding: 1rem;
 }
 
 .quizQuestions input[type='checkbox'] {
@@ -49,9 +48,9 @@
 }
 
 .quizQuestions .checkboxContainer label .checkbox .checkmark {
-	display: none;
 	font-size: 35px;
 	font-weight: bold;
+	margin-top: 0.3rem;
 }
 
 .quizQuestions .checkboxContainer label .question {
