@@ -1,6 +1,7 @@
 import React, { useEffect } from 'react'
+import capitalise from '@site/src/utils/capitalise.js'
 
-import mentorTypes from '../../../docs/getting-started-with-mentoring/For Mentors/mentor_types.json'
+import mentorTypes from './mentor_types.json'
 
 const kebabCase = (string) =>
 	string
@@ -21,7 +22,7 @@ export default function MentorTypeList() {
 				return (
 					<div className="theme-doc-markdown markdown" key={idx}>
 						<h3 className="anchor" id={props.id}>
-							{props.name} {props.icon}
+							The {capitalise(props.name)} {props.icon}
 							<a
 								class="hash-link"
 								href={'#' + props.id}
