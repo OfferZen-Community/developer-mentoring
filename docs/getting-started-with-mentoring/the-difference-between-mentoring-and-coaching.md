@@ -5,8 +5,11 @@ sidebar_position: 2
 ---
 
 # The Difference Between Mentoring and Coaching
+
 Coaching and mentoring are two sides of the same coin. Both are focused on providing individuals with opportunities to develop, either personally or professionally, and helping them meet their goals. Central to both is a relationship between two people founded on trust and the sharing of knowledge and skills.
 For this reason, it’s not uncommon for coaching and mentoring to be discussed synonymously. But there are key differences between the two in their approaches, criteria, and in the dynamic between participants. 
+
+![](<//img/assets/diff-mentor-coach.png>)
 
 ## What is Mentoring? 
 Mentorship is an approach to people development where an experienced person is paired with someone looking to level up in their career. Within tech, this might be a junior programmer looking to enter mobile development. Alternatively, they might ask to be connected with a team lead to learn from their experience in project management, tech leadership and communication. A mentor usually volunteers their time alongside their full-time role and may mentor within their company, or for a third-party group like  <a href="https://www.offerzen.com/thrive" style={{textDecoration: "underline"}}>**Project Thrive**</a> 
