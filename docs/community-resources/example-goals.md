@@ -36,9 +36,15 @@ Loading...⏳
 
 Loading...⏳
 
-#### #8:
+#### #8: Becoming more aware of other opportunities in the tech space outside of software engineering
 
-Loading...⏳
+I've just started out my career as a junior software engineer. As much as I am enjoying what I'm doing currently, I'm trying to cover my bases in the potential event that later down the line in my career I decide that actually I don't want to continue my career as a software engineer and potentially switch roles to something else that is still in the overarching tech space.
+
+When beginning this journey, I did not have any ideas of what those other roles might be as I was very unfamiliar with what they all entailed, what the responsibilities were, and what they actually did on a day-to-day. So through this journey, we agreed that each week I would arrange meetings with the guys at my company across all the different roles in order to gain a better understanding of what it is they did and if it would be something I may potentially be interested in doing.
+
+So far it's been a great success, and it's been really enjoyable being able to gain a better understanding of what everyone else around me does.
+
+(Also big shout out to Schalk for being a legend of a mentor, I'm going to miss our weekly chats when this is all done).
 
 #### #9:
 
