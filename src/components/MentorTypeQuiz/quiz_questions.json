@@ -94,5 +94,29 @@
   {
     "text": "Are you ready to offer support and a listening ear whenever your mentee stops by?",
     "type": "affirmer"
-  }
+  },
+{
+  "text": "Do you introduce your mentee to other senior developers?",
+  "type": "sponsor"
+},
+{
+  "text": "Are you able to easily detect areas of vulnerability when speaking to your mentee?",
+  "type": "coach"
+},
+{
+  "text": "Do you find yourself 'scanning' your mentees words for signs of uncertainty?",
+  "type": "coach"
+},
+{
+  "text": "Do you encourage your mentee to take ownership of any mistakes or setbacks?",
+  "type": "challenger"
+},
+{
+  "text": "Do you emphasize facts rather than feelings when giving feeback?",
+  "type": "challenger"
+},
+{
+  "text": "Do you think mentees need to hear 'hard truths' earlier rather than later?",
+  "type": "challenger"
+}
 ]
