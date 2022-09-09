@@ -10,7 +10,6 @@ Mentoring is a powerful tool for professional and personal development but there
 
 These are a few mentorship traps that could mean your mentoring relationship isn’t progressing as well as it could. Here’s how to identify these mentorship red flags, and what you can do about it.
 
-
 ## 1) You haven’t chatted about your expectations 
 Mentorship takes time and commitment. Before any mentoring relationship begins, both parties need to ensure they know what’s expected of them, and what they are taking on. This spans from logistical details, like when and where meetups will take place, to sharing what each hopes to accomplish through mentorship. 
 
