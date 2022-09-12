@@ -1,10 +1,10 @@
 ---
-description: Six Common Pitfalls of Mentoring
-id: six-common-pitfalls-of-mentoring
+description: Six Common Challenges of Mentoring
+id: six-common-challenges-of-mentoring
 sidebar_position: 9
 ---
 
-# Six Common Pitfalls of Mentoring
+# Six Common Challenges of Mentoring
 
 Mentoring is a powerful tool for professional and personal development but there are a few challenges that can get in the way of its success. From vertical relationship hierarchies to unclear expectations, the <a href="https://www.offerzen.com/thrive" style={{textDecoration: "underline"}}>Project Thrive</a> team has learned a lot about what causes mentorship partnerships to sink or swim.
 
@@ -16,7 +16,7 @@ Mentorship takes time and commitment. Before any mentoring relationship begins, 
 
 In terms of logistics, the following should be discussed at the outset: 
 
-1. The duration of the mentoring relationship; 
+>1. The duration of the mentoring relationship; 
 2. The length of each session;
 3. The frequency of meetups;
 4. The form meetups will take (formal/informal, in-person/online) and
@@ -26,7 +26,7 @@ When it comes to the nitty gritty of mentorship itself, each person needs to und
 
 That means a mentee is responsible for: 
 
-1. Scheduling sessions;
+>1. Scheduling sessions;
 2. Preparing session agendas;
 3. Following up on previous discussion points and 
 4. Circling back to any guidance they’ve implemented.
@@ -35,12 +35,12 @@ With the practical details ironed out, you should discuss what you each hope to 
 
 On the mentor’s side:
 
-1. Mentors should have enough time to commit to mentorship.
+>1. Mentors should have enough time to commit to mentorship.
 2. Mentors should be comfortable with their mentees driving the agenda forward. 
 
 On the mentee’s side: 
 
-1. Mentees should be ready to embark on professional development.
+>1. Mentees should be ready to embark on professional development.
 2. Mentees should have an idea of where and how they want to develop or be ready to figure this out together with their mentor.
 3. Mentees should be prepared to put new skills into practise. 
 

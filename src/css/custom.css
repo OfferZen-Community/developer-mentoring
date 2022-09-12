@@ -119,3 +119,39 @@
   text-transform: uppercase;
   top: 1px;
 }
+
+.menu__link[href*=essential-mentoring-resources\/six-common-challenges-of-mentoring]:after {
+  border: 1px solid #86b300;
+  border-radius: 3px;
+  color: #86b300;
+  content: "new";
+  display: inline-block;
+  font-size: 10px;
+  font-weight: 600;
+  height: 10px;
+  line-height: 10px;
+  margin-left: auto;
+  margin-right: -6px;
+  padding: 3px 6px;
+  position: relative;
+  text-transform: uppercase;
+  top: 1px;
+}
+
+.menu__link[href*=meeting-with-your-mentoring-partner\/getting-to-know-your-mentoring-partner]:after {
+  border: 1px solid #86b300;
+  border-radius: 3px;
+  color: #86b300;
+  content: "new";
+  display: inline-block;
+  font-size: 10px;
+  font-weight: 600;
+  height: 10px;
+  line-height: 10px;
+  margin-left: auto;
+  margin-right: -6px;
+  padding: 3px 6px;
+  position: relative;
+  text-transform: uppercase;
+  top: 1px;
+}
