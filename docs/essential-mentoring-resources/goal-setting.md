@@ -1,10 +1,10 @@
 ---
-description: GROW Goal Setting Model
-id: grow-goal-setting-model
+description: Goal Setting
+id: goal-setting
 sidebar_position: 4
 ---
 
-# GROW Goal Setting Model
+# Goal Setting
 
 Once you've used the [**personal SWOT analysis tool**](/docs/essential-mentoring-resources/personal-swot-analysis) to identify opportunities and areas for improvement, you're ready to set some career goals. We like to use the **GROW goal setting model** to set goals in the Project Thrive mentoring programme mentoring.
 
