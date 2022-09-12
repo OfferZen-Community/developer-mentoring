@@ -28,4 +28,4 @@ This agreement is to help set you up for success as you set out on your mentorin
 * **Mentee expectations**
   * What do you expect of your mentor? (e.g. share experience, provide regular feedback)
 
-Download this [editable file](../../static/docs/Reflective%2BExercise.docx) or this [PDF](../../static/docs/Reflective.Exercise.for.Developer.Mentoring.Guide.pdf) to get started!
+Download this [editable file](../../static/docs/Attachment.for.Developer.Mentoring.Guide.docx) or this [PDF](../../static/docs/Attachment.for.Developer.Mentoring.Guide.pdf) to get started!
