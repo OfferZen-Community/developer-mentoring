@@ -1,6 +1,6 @@
 ---
-description: Why Should You Set Goals?
-id: why-should-you-set-goals
+description: Why Set Goals?
+id: why-set-goals
 sidebar_position: 2
 ---
 

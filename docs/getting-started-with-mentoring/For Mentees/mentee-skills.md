@@ -1,7 +1,7 @@
 ---
 description: Skills to Become a Successful Mentee
 id: mentee-skills
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 # Skills to Become a Successful Mentee

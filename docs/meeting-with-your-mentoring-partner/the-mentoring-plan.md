@@ -1,6 +1,6 @@
 ---
-description: The Mentoring Agreement
-id: the-mentoring-agreement
+description: The Mentoring Plan
+id: the-mentoring-plan
 sidebar_position: 2
 ---
 

@@ -4,7 +4,7 @@ id: recommended-reading-list
 sidebar_position: 3
 ---
 
-# Recommended Reading List
+# Recommended Reading List 📚
 
 ### The Pragmatic Programmer
 
@@ -18,3 +18,5 @@ Easily one of the most widely-revered programming books, **The Pragmatic Program
 
 <!-- markdownlint-disable MD033 -->
 You can buy the book <a href="https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052" style={{textDecoration: "underline"}}>here</a>.
+
+#### And you can add your recommended books to this list <a href="https://github.com/OfferZen-Community/developer-mentoring/blob/main/docs/community-resources/recommended-reading%20List.md" style={{textDecoration:"underline"}}>here!</a>

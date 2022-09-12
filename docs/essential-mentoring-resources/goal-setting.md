@@ -1,25 +1,27 @@
 ---
-description: GROW Goal Setting Model
-id: grow-goal-setting-model
+description: Goal Setting
+id: goal-setting
 sidebar_position: 4
 ---
 
-# GROW Goal Setting Model
+# Goal Setting
 
-Once you've used the [**personal SWOT analysis tool**](/docs/essential-mentoring-resources/personal-swot-analysis) to identify opportunities and areas for improvement, you're ready to set some career goals.We like to use the **GROW goal setting model** to set goals in the Project Thrive mentoring programme mentoring.
+Once you've used the [**personal SWOT analysis tool**](/docs/essential-mentoring-resources/personal-swot-analysis) to identify opportunities and areas for improvement, you're ready to set some career goals. We like to use the **GROW goal setting model** to set goals in the Project Thrive mentoring programme mentoring.
 
 ![](<//img/assets/grow-goals.png>)
 
 :::tip
 
-[Here](https://www.youtube.com/watch?v=K3iJwoydBbg) is a video that explains the GROW model, which is a model that helps us uncover what you need guidance on. The video explains it from a coach’s point of view. Pay attention to the definitions of each part of GROW.
+Here is a video that explains the GROW model, which is a model that helps us uncover what you need guidance on. The video explains it from a coach’s point of view. Pay attention to the definitions of each part of GROW.
 
+<div class="youtube-wrapper"><iframe  src="https://www.youtube.com/embed/K3iJwoydBbg" title="The GROW Model" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="youtube-video"></iframe>
+</div>
 :::
 
 ## GROW is a coaching tool that’ll help you:
 
 * Think through the **goals** you want to achieve
-* Consider your current **reality**, the place from which you'll be starting your journey to achiving your goal
+* Consider your current **reality**, the place from which you'll be starting your journey to achieving your goal
 * Explore the different **options** and avenues you could take to achieve your goal
 * Decide on the **way forward**, what actions you'll take towards you're goal 
 
@@ -35,16 +37,16 @@ As yourself the following questions or work through them with a mentor:
 4. How will you know you’ve achieved your goal?&#x20;
 5. What would happen if you don’t achieve your goal?
 
-Identifying what you're hoping to achieve upfront will help you chart a way froward. Once you've determined what succes will look like once you've achieved your goal, it'll also keep yopu motivated to keep up with the day-to-day tasks that will get you there. 
+Identifying what you're hoping to achieve upfront will help you chart a way forward. Once you've determined what success will look like once you've achieved your goal, it'll also keep you motivated to keep up with the day-to-day tasks that will get you there. 
     
 > Once you've identified your goal, make sure that it is a **SMART** goal :arrow_right: specific, measurable, achievable, relevant, and time-bound.
 
 
 ### Reality
 
-Once you've established what you want to achieve, it's time to consider what your starting point is. Think about both the good and the bad - any work that you've already done that'll halp you achieve your goal, as well as anything that might slow or obstruct your progress such as time or resource constraints and perhaps even self-limiting beliefs.
+Once you've established what you want to achieve, it's time to consider what your starting point is. Think about both the good and the bad - any work that you've already done that'll help you achieve your goal, as well as anything that might slow or obstruct your progress such as time or resource constraints and perhaps even self-limiting beliefs.
 
-To help you get an accurate picture of what your starting point is, consider the following qustions:
+To help you get an accurate picture of what your starting point is, consider the following questions:
 
 1. What steps have you already taken to achieve your goal?&#x20;
 2. What do you need to achieve your goal?&#x20;
