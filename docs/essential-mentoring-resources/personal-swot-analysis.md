@@ -79,6 +79,6 @@ First, think about where your strengths and opportunities converge. If possible,
 
 Second, think about where your weaknesses and threats converge. While you can use them to decide which goals are more achievable than others, you can also make a plan to work on them so that they do not converge into an overwhelmings obstacle.
 
-From here, you can use the [**GROW goal setting tool**](/docs/essential-mentoring-resources/grow-goal-setting-model) to help you set effective goals.
+From here, you can use the [**GROW goal setting tool**](/docs/essential-mentoring-resources/goal-setting) to help you set effective goals.
 
 ***
