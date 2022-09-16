@@ -10,14 +10,13 @@ Over our three years of engaging with hundreds of developers and mentors at Proj
 
 ![](<//img/assets/mentor-skills.png>)
 
-## Shared skills for a great mentoring relationship :handshake:
+## Shared skills for a great mentoring relationship 🤝
 
 Both partners in a mentoring relationship need to demonstrate certain key skills in order have a successful mentoring relationship. This shared core skill set includes:
 
 1. Active listening
 2. Ability to build trust
 3. Encouraging others
-
 
 ### 1. Active listening
 
@@ -50,7 +49,6 @@ These are our top tips for building trust in a mentorship relationship:
 
 Mentors and mentees need to support each other. That’s part of what makes mentorship so powerful. Mentors can build their mentees confidence by encouraging them and celebrating with them when things go well. And even when things don't go so well, the mentoring relationship can be a safe space to reflect and learn about why things may have happened that way. 
 
-
 ## Skills for mentors
 
 Mentors bring years of experience and skills to the mentorship. However, there are some particular soft skills that mentors should develop if they want to improve their mentoring relationship. These skills include:
@@ -61,19 +59,17 @@ Mentors bring years of experience and skills to the mentorship. However, there a
 4. Helping your mentee manage risks
 5. Opening doors for your mentee
 
-
 ### 1. Guide through coaching
 
-Although the hierarchical manager-underling type of dynamic should be avoided in a mentoring relationship, the role of the mentor is to help the mentee upskill. 
+Although the hierarchical manager-underling type of dynamic should be avoided in a mentoring relationship, the role of the mentor is to help the mentee upskill.
 
 While more experienced developers may believe that resources for upskilling are just a Google away, for a less experienced junior, the trick is actually in finding the **right** resources. As a mentor, you could consolidate some high quality, reputable resources to share with your mentee.
 
-Where you have experience in a particular area, you can pass that knowledge on to your mentee. Or if you've been working on improving a specific skill, like communicating more clearly at work, you can share your own upskilling journey and any difficulties you've encountered with your mentee. 
+Where you have experience in a particular area, you can pass that knowledge on to your mentee. Or if you've been working on improving a specific skill, like communicating more clearly at work, you can share your own upskilling journey and any difficulties you've encountered with your mentee.
 
 A mentoring relationship is also a great environment in which to help your mentee build problem-solving skills. One way to help them do this is to ask them questions about how they might have managed a situation that you've previously encountered.
 
 Because you've been in the industry for longer, you likely have some insight into software development career paths and how your mentee can progress through them. Sharing this insight with your mentee will help them align their upskilling goals with their overall career goals.
-
 
 ### 2.Challenge your mentee
 
@@ -81,20 +77,17 @@ One important task of a mentor is to push them beyond their comfort zone.
 
 Hold your mentee to high standards. This might mean encouraging them to set more ambitious (yet still achievable) goals, or perhaps assigning tasks to them that will enable them develop new skills. As a mentor, you'll also need to help your mentee stretch their thinking by pointing out any assumptions they're holding onto.
 
-
 ### 3. Provide constructive feedback
 
-In a mentoring relationship, providing constructive feedback is **as** important as providing encouragement. If you identify a situation that you feel your mentee could have handled better, providing feedback to them can really aid the learning process. 
-
+In a mentoring relationship, providing constructive feedback is *as* important as providing encouragement. If you identify a situation that you feel your mentee could have handled better, providing feedback to them can really aid the learning process.
 
 ### 4. Help your mentee manage risks
 
-All new ventures are accompanied by a certain amount of risk. Your mentee will need guidance as they consider which risks are manageable, and which risks cannot be surmounted. 
+All new ventures are accompanied by a certain amount of risk. Your mentee will need guidance as they consider which risks are manageable, and which risks cannot be surmounted.
 
 There are additional tools that can be used when planning a new venture that’ll help you and your mentee determine what the risks are and whether they're surmountable or not. For instance, at [**Project Thrive**](https://www.offerzen.com/thrive?utm_source=github&utm_medium=thrive&utm_campaign=all_supply_awareness_handbook_both_github&utm_content=mentor-skills-thrive-example), we encourage mentees to work through the **SWOT analysis** to help them identify any threats upfront.
 
-
-### 5.Open doors for your mentee
+### 5. Open doors for your mentee
 
 As a mentor, you should act as a champion for your mentee.
 
