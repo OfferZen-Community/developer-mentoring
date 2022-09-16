@@ -1,16 +1,21 @@
 ---
-description: Benefits of Becoming a Mentor
+description: How becoming a mentor can benefit you personally and professionally.
 id: benefits-of-becoming-a-mentor
 sidebar_position: 1
+title: Benefitis of Becoming a Mentor
 ---
 
-# Benefits of Becoming a Mentor 
+<head>
+    <meta property="og:title" content="Benefits of Becoming a Mentor" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://www.developermentoring.guide/docs/getting-started-with-mentoring/For%20Mentors/benefits-of-becoming-a-mentor" />
+</head>
 
 When thinking about mentorship, often people think that mentees are the only ones gaining value from the experience. And yes, mentees gain numerous benefits, but you will be surprised at how much a mentor can gain from the experience too!
 
-In life, both personally and professionally, seeking ways to develop your knowledge, learn new skills, and challenge yourself regularly is beneficial. Mentorship is one of the most valuable ways to do this! 
+In life, both personally and professionally, seeking ways to develop your knowledge, learn new skills, and challenge yourself regularly is beneficial. Mentorship is one of the most valuable ways to do this!
 
-One of the distinct reasons why people decide to mentor is to be able to experience the joy of seeing someone progress and excel in their career due to _their_ guidance and advice. However, becoming a mentor also has the potential to help you progress and excel in your _own_ career. Through mentoring, you can develop your leadership and communication skills and gain new perspectives! There are plenty of reasons as to why you should become a mentor!
+One of the distinct reasons why people decide to mentor is to be able to experience the joy of seeing someone progress and excel in their career due to *their* guidance and advice. However, becoming a mentor also has the potential to help you progress and excel in your *own* career. Through mentoring, you can develop your leadership and communication skills and gain new perspectives! There are plenty of reasons as to why you should become a mentor!
 
 ## 1. Develop your Leadership Skills 💪
 

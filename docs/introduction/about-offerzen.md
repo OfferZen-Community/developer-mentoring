@@ -2,9 +2,14 @@
 description: About OfferZen
 id: about-offerzen
 sidebar_position: 3
+title: About OfferZen
 ---
 
-# About OfferZen
+<head>
+    <meta property="og:title" content="About OfferZen" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://www.developermentoring.guide/docs/introduction/about-offerzen" />
+</head>
 
 OfferZen is a developer talent marketplace by developers _for_ developers. Our platform matches top software talent with exciting opportunities at companies, but this effort encompasses a much wider mission: To help developers and their teams thrive in the tech ecosystem.
 

@@ -1,5 +1,5 @@
 ---
-description: The ultimate open-source software developer mentoring guide maintained by active developer mentors and mentees in the OfferZen Mentoring Community—and beyond.
+description: This guide offers tips and frameworks to help you make the most of your mentoring relationship.
 id: welcome
 sidebar_position: 1
 title: The Ultimate Developer Mentoring Guide 🚀
