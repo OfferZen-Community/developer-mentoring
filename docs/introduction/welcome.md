@@ -1,10 +1,15 @@
 ---
-description: Welcome to the Developer Mentoring Guide
+description: The ultimate open-source software developer mentoring guide maintained by active developer mentors and mentees in the OfferZen Mentoring Community—and beyond.
 id: welcome
 sidebar_position: 1
+title: The Ultimate Developer Mentoring Guide 🚀
 ---
 
-# The Ultimate Developer Mentoring Guide 🚀
+<head>
+    <meta property="og:title" content="The Ultimate Developer Mentoring Guide" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://www.developermentoring.guide/docs/introduction/welcome" />
+</head>
 
 ## Welcome!
 
