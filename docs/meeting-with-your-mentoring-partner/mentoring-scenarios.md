@@ -8,9 +8,12 @@ title: Mentoring Scenarios
 <head>
     <meta property="og:title" content="Mentoring Scenarios" />
     <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://www.developermentoring.guide/docs/meeting-with-your-mentoring-partner/mentoring-scenarios" />
 </head>
 
-At [**Project Thrive**](https://www.offerzen.com/thrive), we evaluate the success of a mentoring relationship by how well the pair is incorporating what we’ve dubbed the ['mentoring secret sauce'](https://www.developermentoring.guide/docs/meeting-with-your-mentoring-partner/working-with-mentoring-partner). The secret sauce contains four ‘ingredients’ that we believe are the key components to ensure mentoring success. If any of these four ingredients go ‘off’ (or get left out of the recipe completely), this could lead to the mentoring relationship going sour. The four key ingredients that make up this secret sauce are: 
+At [**Project Thrive**](https://www.offerzen.com/thrive), we evaluate the success of a mentoring relationship by how well the pair is incorporating what we’ve dubbed the ['mentoring secret sauce'](https://www.developermentoring.guide/docs/meeting-with-your-mentoring-partner/working-with-mentoring-partner). The secret sauce contains four ‘ingredients’ that we believe are the key components to ensure mentoring success. If any of these four ingredients go ‘off’ (or get left out of the recipe completely), this could lead to the mentoring relationship going sour.
+
+The four key ingredients that make up this secret sauce are:
 
 **1. Collaboration** 🤝
 
@@ -26,7 +29,7 @@ Project Thrive has seen over 300 pairs go through our tech mentoring programme. 
 
 ## **Scenario 1**
 
-> Lucy (mentee) wants to develop her python skills. Based on this, her mentor develops a lesson plan for Lucy to work through during the mentoring relationship.
+> Lucy (a mentee) wants to develop her python skills. Based on this, her mentor develops a lesson plan for Lucy to work through during the mentoring relationship.
 
 Reveal Missing Ingredient...
 
@@ -34,9 +37,9 @@ Reveal Missing Ingredient...
 
 **Because**: The reason this scenario is missing collaboration is because Lucy’s mentor developed the plan for her. This implies that they did not collaborate together to develop the plan. In a mentoring relationship, it is very important that the mentee drives the relationship, and so the fact that Lucy was not involved in developing the plan is the main issue.
 
-## **Scenario 2** 
+## **Scenario 2**
 
-> Ben (mentee) is feeling swamped at work and is struggling to make progress towards his goals. He and his mentor decide to re-evaluate his goals and re-prioritize where necessary. 
+> Ben (a mentee) is feeling swamped at work and is struggling to make progress towards his goals. He and his mentor decide to re-evaluate his goals and re-prioritize where necessary.
 
 Reveal Missing Ingredient...
 
@@ -46,7 +49,7 @@ Reveal Missing Ingredient...
 
 ## **Scenario 3**
 
-> Nick (mentee) is in a tricky situation at work. His mentor has been in a very similar situation before, and tells Nick exactly how to handle it.
+> Nick (a mentee) is in a tricky situation at work. His mentor has been in a very similar situation before, and tells Nick exactly how to handle it.
 
 Reveal Missing Ingredient...
 
@@ -56,7 +59,7 @@ Reveal Missing Ingredient...
 
 ## **Scenario 4**
 
-> Alice (mentee) has a mentoring session scheduled for Tuesday evenings at 7pm. However, when the time comes, she doesn’t show. When her mentor contacts her to find out whether they’re still meeting, she tells her mentor that she has a work deadline and asks to reschedule to Thursday evening.
+> Alice (a mentee) has a mentoring session scheduled for Tuesday evenings at 7pm. However, when the time comes, she doesn’t show. When her mentor contacts her to find out whether they’re still meeting, she tells her mentor that she has a work deadline and asks to reschedule to Thursday evening.
 
 Reveal Missing Ingredient...
 
