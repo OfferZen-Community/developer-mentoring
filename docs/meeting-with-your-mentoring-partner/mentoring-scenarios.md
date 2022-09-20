@@ -70,7 +70,7 @@ Alice (mentee) has a mentoring session scheduled for Tuesday evenings at 7pm. Ho
 
 **Missing ingredient**: Communication and proactivity 💬 ⚓️
 
-**Because**: The reason this scenario is missing communication and proactivity is because both mentors and mentees should let their mentoring partner know in advance when they are unable to make a mentoring session. Of course, sometimes life happens, and this is not possible - but this should definitely be the exception and not the rule.
+**Because**: The reason this scenario is missing communication and proactivity is because both mentors and mentees should let their mentoring partner know **in advance** when they are unable to make a mentoring session. Of course, sometimes life happens, and this is not possible - but this should definitely be the exception and not the rule.
 
 
 
