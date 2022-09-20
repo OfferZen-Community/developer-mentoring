@@ -18,7 +18,7 @@ At  <a href="https://www.offerzen.com/thrive" style={{textDecoration: "underline
 
 All of these ingredients are important for both mentors and mentees to incorporate into their relationship in order for the relationship to be a valuable one for both parties..
 
-Project Thrive has seen over 300 pairs go through our tech mentoring programme. Let’s read through some real life mentoring situations that we have encountered, and see if you can spot the missing ingredient, or if this sauce is delicious as it should be!
+Project Thrive has seen over 300 pairs go through our tech mentoring programme. Let’s read through some real life mentoring scenarios that we have encountered, and see if you can spot the missing ingredient, or if this sauce is delicious as it should be!
 
 
 ### **Scenario 1**
