@@ -71,7 +71,7 @@ A mentoring relationship is also a great environment in which to help your mente
 
 Because you've been in the industry for longer, you likely have some insight into software development career paths and how your mentee can progress through them. Sharing this insight with your mentee will help them align their upskilling goals with their overall career goals.
 
-### 2.Challenge your mentee
+### 2. Challenge your mentee
 
 One important task of a mentor is to push them beyond their comfort zone.
 

@@ -2,7 +2,7 @@
 description: How becoming a mentor can benefit you personally and professionally.
 id: benefits-of-becoming-a-mentor
 sidebar_position: 1
-title: Benefitis of Becoming a Mentor
+title: Benefits of Becoming a Mentor
 ---
 
 <head>

@@ -1,10 +1,15 @@
 ---
-description: Getting to Know Your Mentoring Partner
+description: How to create a good relationship with your mentoring partner in order to achieve your mentoring goals.
 id: getting-to-know-your-mentoring-partner
 sidebar_position: 3
+title: Getting to Know Your Mentoring Partner
 ---
 
-# Getting to Know Your Mentoring Partner
+<head>
+    <meta property="og:title" content="Getting to Know Your Mentoring Partner" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://www.developermentoring.guide/docs/meeting-with-your-mentoring-partner/getting-to-know-your-mentoring-partner" />
+</head>
 
 Goal setting is essential to any sort of progress a mentoring pair might want to make. Without well-defined goals, it’s difficult to maintain focus on what it is that you’re actually trying to get out of mentoring.
 
@@ -12,9 +17,9 @@ That said, one mentoring **‘trap’** that many pairs fall into is focusing on
 
 What’s more, a superficial ‘worky’ relationship just isn’t very fun for those involved. The motivation to schedule a mentoring session and commit to your goals simply isn’t going to be there if you don’t know your mentoring partner well or enjoy their company.
 
-For these reasons, we at [**Project Thrive**](https://www.developermentoring.guide/docs/introduction/about-project-thrive) recommend getting to know your mentoring partner before setting your goals. Some people naturally take a while to open up to others whereas there are those of us who seem to have the ability to establish meaningful connections almost instantaneously. Regardless of where you stand, the recommendations below should be useful to all new and existing mentoring pairs. 
+For these reasons, we at [**Project Thrive**](https://www.developermentoring.guide/docs/introduction/about-project-thrive) recommend getting to know your mentoring partner before setting your goals. Some people naturally take a while to open up to others whereas there are those of us who seem to have the ability to establish meaningful connections almost instantaneously. Regardless of where you stand, the recommendations below should be useful to all new and existing mentoring pairs.
 
-## What Should I Ask My Mentoring Partner? 
+## What Should I Ask My Mentoring Partner?
 
 Below are just some _meaningful_ questions that you and your mentoring partner could work through in your first session. These might come up naturally, but having them available before your first session could be useful:
 
@@ -39,8 +44,8 @@ And even in a strong mentoring relationship, sometimes a conversation just runs 
 
 In Project Thrive’s 12-week mentoring programme, we call it the ‘6-week-itch’—the sense that the quality or initial ‘vibe’ of the mentoring has begun to dwindle. This is true for both mentors and mentees: the mentor might perceive a lack of commitment or enthusiasm from the mentee and the mentee might feel as though their mentor is too fixated on the rate of their progress.
 
-This doesn’t necessarily relate to any progress you may (or may not) have made towards your goals. It could even be the case that one of you feels your meetings and conversations are too ‘formulaic’, with little room for deviation or creativity. In these situations, it’s often useful to pump the goal-brakes: make sure that your next conversation or meeting is not goal-centred, but _vibe_-centred. This could mean a simple veto on anything to do with your goals or even an active bonding session with some gaming or ice-breakers (here’s an [extensive list](https://www.buzzfeed.com/melanie_aman/games-you-can-play-with-only-two-people) of both in-person and virtual gaming options for two). Anything that isn’t too serious and gives you both a serotonin boost is a great way to re-establish a good mentoring vibe. 
+This doesn’t necessarily relate to any progress you may (or may not) have made towards your goals. It could even be the case that one of you feels your meetings and conversations are too ‘formulaic’, with little room for deviation or creativity. In these situations, it’s often useful to pump the goal-brakes: make sure that your next conversation or meeting is not goal-centred, but _vibe_-centred. This could mean a simple veto on anything to do with your goals or even an active bonding session with some gaming or ice-breakers (here’s an [extensive list](https://www.buzzfeed.com/melanie_aman/games-you-can-play-with-only-two-people) of both in-person and virtual gaming options for two). Anything that isn’t too serious and gives you both a serotonin boost is a great way to re-establish a good mentoring vibe.
 
-As you get to know one another, it’s important to keep in mind the secret sauce to working together successfully with your mentoring partner. Sometimes a quick review of what qualities make for a good relationship can prevent things from going stale (or even sour). Getting to know your mentoring partner also means having [clear expectations](https://www.developermentoring.guide/docs/meeting-with-your-mentoring-partner/the-mentoring-agreement) for your relationship. 
+As you get to know one another, it’s important to keep in mind the secret sauce to working together successfully with your mentoring partner. Sometimes a quick review of what qualities make for a good relationship can prevent things from going stale (or even sour). Getting to know your mentoring partner also means having [clear expectations](https://www.developermentoring.guide/docs/meeting-with-your-mentoring-partner/the-mentoring-agreement) for your relationship.
 
 But these are just a few examples of how to get to know your mentoring partner —what ideas and examples do you have that could help other get to know their mentoring partners better? Drop them down below 👇
