@@ -8,7 +8,7 @@ title: How To End A Mentoring Relationship
 <head>
     <meta property="og:title" content="How To End A Mentoring Relationship" />
     <meta property="og:type" content="article" />
-    <meta property="og:url" content="" />
+    <meta property="og:url" content="https://www.developermentoring.guide/docs/meeting-with-your-mentoring-partner/how-to-end-mentoring-relationship" />
 </head>
 
 The end of a mentoring relationship is bittersweet. On the one hand, the mentor and mentee say goodbye to a collaborative learning experience. At the same time, both gain a sense of fulfilment in making progress towards—or even achieving—the goals they set out at the beginning of the relationship. Some mentoring relationships are more structured than others, especially those facilitated by a mentoring programme. In these cases, mentoring pairs usually have an official ‘ending date’ set way in advance. However, whether or not the end date of your mentoring relationship might is clear, the way to go about concluding it in a way that brings closure to both the mentor and mentee is less obvious.
