@@ -1,10 +1,15 @@
 ---
-description: Common Bad Habits Seen by Senior Developers
+description: A list of advice, comments, and experiences from senior developers.
 id: common-bad-habits
 sidebar_position: 9
+title: Common Bad Habits Seen by Senior Developers
 ---
 
-# Common Bad Habits Seen by Senior Developers
+<head>
+    <meta property="og:title" content="Common Bad Habits Seen by Senior Developers" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://www.developermentoring.guide/docs/essential-mentoring-resources/common-bad-habits" />
+</head>
 
 **Drop your advice, comments, or experiences as a senior dev below! Doesn't matter how messy it looks - we'll clean it up** 🧹
 
