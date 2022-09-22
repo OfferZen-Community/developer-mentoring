@@ -1,10 +1,15 @@
 ---
-description: Atomic Habits
+description: The difference between goals versus systems and how to change your habits.
 id: atomic-habits
 sidebar_position: 1
+title: Atomic Habits
 ---
 
-# Atomic Habits
+<head>
+    <meta property="og:title" content="Atomic Habits" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://www.developermentoring.guide/docs/essential-mentoring-resources/atomic-habits" />
+</head>
 
 Habits are behaviours that we perform automatically, with little or no thought. From making a coffee when we get up in the morning, to brushing out teeth before bed at night, our habits subtly guide our daily lives.
 
@@ -60,8 +65,6 @@ For example: “After I pour my cup of coffee each morning, I will meditate for 
 
 Make your cue **highly specific and immediately actionable**: “After I close the door”; “After I brush my teeth”. The more tightly bound your new habit is to a specific cue, the better the odds are that you will notice when the time comes to act.
 
-
-
 ### **Motivation is overrated; environment matters more**
 
 **Environment is the invisible hand that shapes human behavior.** Habits are context-dependent. Small changes in context can lead to large changes in behavior over time.&#x20;
@@ -70,8 +73,6 @@ Make the cues of good habits **obvious** in your environment:
 
 * Want to practice guitar more frequently? Place it in the middle of the living room&#x20;
 * Want to drink more water? Fill up a few water bottles each morning and place them around the house
-
-
 
 ### Tracking your habits
 

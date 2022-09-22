@@ -11,6 +11,8 @@ title: Getting to Know Your Mentoring Partner
     <meta property="og:url" content="https://www.developermentoring.guide/docs/meeting-with-your-mentoring-partner/getting-to-know-your-mentoring-partner" />
 </head>
 
+![](<//img/assets/getting-to-know-mentoring-partner.png>)
+
 Goal setting is essential to any sort of progress a mentoring pair might want to make. Without well-defined goals, it’s difficult to maintain focus on what it is that you’re actually trying to get out of mentoring.
 
 That said, one mentoring **‘trap’** that many pairs fall into is focusing on the **goal** while forgetting the human. That is, when  your meet-ups, communication, and entire mindset centre on targets without any room for the social, interpersonal aspect of the relationship. In these sorts of situations, the problem isn’t the goals themselves (trust us, [those are good to have](https://www.developermentoring.guide/docs/essential-mentoring-resources/why-should-you-set-goals)). Rather, the difficulty comes from not having a strong relationship to fall back on when there’s any sort of delay or need to reconfigure your goals. Without a mutual sense of trust, it can be difficult to make changes or persevere if things go south.

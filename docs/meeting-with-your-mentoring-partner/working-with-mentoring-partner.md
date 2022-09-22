@@ -1,10 +1,15 @@
 ---
-description: Working With Your Mentoring Partner
+description: A list of four key ingredients that make up a successful mentoring relationship.
 id: working-with-mentoring-partner
 sidebar_position: 4
+title: Working With Your Mentoring Partner
 ---
 
-# Working With Your Mentoring Partner
+<head>
+    <meta property="og:title" content="Working With Your Mentoring Partner" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://www.developermentoring.guide/docs/meeting-with-your-mentoring-partner/working-with-mentoring-partner" />
+</head>
 
 At [Project Thrive](https://www.developermentoring.guide/docs/introduction/about-project-thrive), we like to think of there being a ‘secret sauce’ to a successful tech mentoring relationship. If you play along with the metaphor, we’ve picked out **four** key ingredients that make up this secret sauce to mentoring success, all of which are important for mentors and mentees to use.
 
