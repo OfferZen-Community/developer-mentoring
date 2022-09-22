@@ -1,10 +1,15 @@
 ---
-description: Example Goals for Mentoring Relationships
+description: Examples of technical, career, and personal goals that participants in the Project Thrive programme set in their mentoring relationships
 id: example-goals
 sidebar_position: 4
+title: Example Goals For Mentoring Relationships
 ---
 
-# Example Goals for Mentoring Relationships
+<head>
+    <meta property="og:title" content="Example Goals for Mentoring Relationships" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://www.developermentoring.guide/docs/community-resources/example-goals" />
+</head>
 
 Here are some examples of technical, career, and personal goals that participants in the Project Thrive programme set in their mentoring relationships! 🚀
 
@@ -35,6 +40,7 @@ I often advise my mentee to be aware of his knowledge gaps and to understand tha
 While I think continuous learning and application is important, I'm aware that the worst thing that can happen to a developer is trying to be *overly* productive to the point where they burnout. Never deprioritise sleep or rest. Doing things outside of the code is also important! Everyone needs a hobby or a way to take time off from changing the world through code. Mental exhausation is never fun or rewarding. Give yourself a break.
 
 If I had to sum up my advice:
+
 - Break down your goals into small, manageable tasks that can be done quickly (momentum is key here)
 - Find a way to be accountable for your goals
 - Go easy on yourself; we're all learning

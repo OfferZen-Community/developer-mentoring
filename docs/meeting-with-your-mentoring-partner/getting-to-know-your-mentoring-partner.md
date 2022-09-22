@@ -11,7 +11,7 @@ title: Getting to Know Your Mentoring Partner
     <meta property="og:url" content="https://www.developermentoring.guide/docs/meeting-with-your-mentoring-partner/getting-to-know-your-mentoring-partner" />
 </head>
 
-![](<//img/assets/getting-to-know-mentoring-partner.png>)
+![Getting to know your mentoring partner](/img/assets/getting-to-know-mentoring-partner.png)
 
 Goal setting is essential to any sort of progress a mentoring pair might want to make. Without well-defined goals, it’s difficult to maintain focus on what it is that you’re actually trying to get out of mentoring.
 

@@ -1,16 +1,21 @@
 ---
-description: Recommended Reading List
+description: A list of essential programming books that all software developers should read. 
 id: recommended-reading-list
 sidebar_position: 3
+title: Recommended Reading List 📚
 ---
 
-# Recommended Reading List 📚
+<head>
+    <meta property="og:title" content="Recommended Reading List" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://www.developermentoring.guide/docs/community-resources/recommended-reading-list" />
+</head>
 
 ### The Pragmatic Programmer
 
-![](<//img/assets/pragmatic-programmer.jpg>)
+![The Pragmatic Programmer Cover](<//img/assets/pragmatic-programmer.jpg>)
 
-Pages: **352**   
+Pages: **352**
 Reading Time: **10 hours**  
 Rating: &#9733&#9733&#9733&#9733
 
