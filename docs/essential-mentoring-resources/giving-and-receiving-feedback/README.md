@@ -1,4 +1,15 @@
-# Giving and Receiving Feedback
+---
+description: How to use a continuous feedback loop to learn how to give and receive feedback.
+id: giving-and-receiving-feedback.md
+sidebar_position: 10
+title: Giving and receiving Feedback
+---
+
+<head>
+    <meta property="og:title" content="Giving and Receiving Feedback" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://www.developermentoring.guide/docs/essential-mentoring-resources/giving-and-receiving-feedback/" />
+</head>
 
 ![How to give and receive feedback in a mentoring relationship](<//img/assets/Giving-and-Receiving-Feedback.png>)
 
