@@ -9,14 +9,8 @@ const Scenario = (props) => {
 
   return (
     <>
-      {/* <_Scenario1 /> */}
       {props.scenario}
-      <button
-        // className="btn btn-primary inline-flex items-center ml-1 rounded-md border hover:no-underline"
-        // style={{ marginBottom: "var(--ifm-leading)" }}
-        className={style.btn}
-        onClick={handleRevealMissingIngredient}
-      >
+      <button className={style.btn} onClick={handleRevealMissingIngredient}>
         {revealMissingIngredient
           ? "Hide Missing Ingredient..."
           : "Reveal Missing Ingredient..."}
