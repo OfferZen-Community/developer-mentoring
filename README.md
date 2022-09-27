@@ -1,10 +1,10 @@
-# Welcome to the Developer Mentoring Guide :mortar_board:
+# Welcome to the Developer Mentoring Guide :mortar_board':'
 
 ## About
 
 This is a community contributed [guide](https://www.developermentoring.guide) designed to help developers help other developers. After facilitating the mentoring relationships of over 250 mentoring pairs that have come through OfferZen's Project Thrive mentoring programme, we've learned a lot about what it takes to ensure the success of a mentoring relationship.
 
-### The goal of this guide is to help those that want to
+### The goal of this guide is to help those that want to':'
 
 * Be better at mentoring other developers
 * Be better at being mentored and able to make the most of that opportunity
@@ -25,6 +25,8 @@ Can't find what you're searching for in the guide? Submit any questions you have
 * :computer: **Make a contribution on GitHub**
 
 Want to add contribution guidelines? Want to include website functionality that you think is missing? Think you can help us with one of the logged issues? Go for it!
+
+![How to contribute to the developer mentoring guide](<//img/assets/mentoring-guide-contribution-process.png>)
 
 * :speech_balloon: **Start a discussion**
 
@@ -48,7 +50,7 @@ Used any additional resources or templates during your mentoring relationship th
 
 ### Getting started with the repo
 
-In order to make a contribution, fork or branch the repo and request merges in. 
+In order to make a contribution, fork or branch the repo and request merges in.
 Consider dockerising the development to avoid conflicts with the contributor's local system.
 
 ```javascript
@@ -57,7 +59,6 @@ npm run build
 ```
 
 **Thanks so much for helping!**
-
 
 <a href="https://github.com/OfferZen-Community/developer-mentoring/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=OfferZen-Community/developer-mentoring" />

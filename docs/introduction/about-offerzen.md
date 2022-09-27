@@ -17,4 +17,4 @@ Over the last five years, this mission has manifested in a multitude of ways: fr
 
 [_Find your next dev job with OfferZen!_](https://www.offerzen.com/?utm_source=github&utm_medium=thrive&utm_campaign=all_supply_traffic_handbook_both_github&utm_content=about-offerzen-cta)
 
-![](<//img/assets/about-offerzen.png>)
+![OfferZen-background](<//img/assets/about-offerzen.png>)
