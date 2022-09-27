@@ -29,9 +29,9 @@ To be sure, we’re all human and sometimes things can happen that lead to slow 
 
 Curiosity is all about asking questions. It’s the kind of ingredient that enables you to be open to learning something you might have otherwise missed. Curiosity can also sometimes save you from making incorrect assumptions. For example, imagine if a mentoring partner doesn’t manage to get around to completing a task that you both og you agreed on in your previous meetup. Instead of approaching the situation with immediate disapproval, opt for curiosity and ask a question: “Is everything okay? How’s your week going? What do you feel prevented you from getting around to this task? Have we overestimated something in our agenda?”. Asking questions gets you closer to identifying why something didn’t go as planned and gives you more to consider when trying to move forward. 
 
-:::tip
-Curiosity isn’t only something that can be directed outward towards others; it can also be a useful introspective tool. For example, curiosity in the form of asking yourself questions is essential to [setting clear and relevant goals](https://www.developermentoring.guide/docs/essential-mentoring-resources/grow-goal-setting-model).
-::: 
+:::note Did You Know...
+Curiosity isn’t only something that can be directed outward towards others; it can also be a useful introspective tool. For example, curiosity in the form of asking yourself questions is essential to [**setting clear and relevant goals**](https://www.developermentoring.guide/docs/essential-mentoring-resources/grow-goal-setting-model).
+:::
 
 ## **4. Proactivity** ⚓️
 

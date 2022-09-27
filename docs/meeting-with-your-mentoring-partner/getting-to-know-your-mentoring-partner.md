@@ -3,12 +3,16 @@ description: How to create a good relationship with your mentoring partner in or
 id: getting-to-know-your-mentoring-partner
 sidebar_position: 3
 title: Getting to Know Your Mentoring Partner
+image: https://www.developermentoring.guide/assets/images/getting-to-know-mentoring-partner-dc9ba319b428f54cc8e3544b6402ea39.png
 ---
 
 <head>
     <meta property="og:title" content="Getting to Know Your Mentoring Partner" />
     <meta property="og:type" content="article" />
     <meta property="og:url" content="https://www.developermentoring.guide/docs/meeting-with-your-mentoring-partner/getting-to-know-your-mentoring-partner" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="https://www.developermentoring.guide/" />
+    <meta name="twitter:title" content="Getting to Know Your Mentoring Partner" />
 </head>
 
 ![Getting to know your mentoring partner](/img/assets/getting-to-know-mentoring-partner.png)
