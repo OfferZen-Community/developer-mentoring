@@ -1,5 +1,7 @@
 # Welcome to the Developer Mentoring Guide :mortar_board':'
 
+![192535773-a9d93f36-0604-4ab5-b0f4-d064feb7e2ec](/assets/192535773-a9d93f36-0604-4ab5-b0f4-d064feb7e2ec.png)
+
 ## About
 
 This is a community contributed [guide](https://www.developermentoring.guide) designed to help developers help other developers. After facilitating the mentoring relationships of over 250 mentoring pairs that have come through OfferZen's Project Thrive mentoring programme, we've learned a lot about what it takes to ensure the success of a mentoring relationship.
