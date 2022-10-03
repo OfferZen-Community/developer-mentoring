@@ -28,8 +28,6 @@ Can't find what you're searching for in the guide? Submit any questions you have
 
 Want to add contribution guidelines? Want to include website functionality that you think is missing? Think you can help us with one of the logged issues? Go for it!
 
-![How to contribute to the developer mentoring guide](<./static/img/mentoring-guide-contribution-process.png>)
-
 * :speech_balloon: **Start a discussion**
 
 Want to chat to others about this guide or start a conversation on a specific topic? Great!
