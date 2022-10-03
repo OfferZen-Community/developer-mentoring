@@ -1,19 +1,22 @@
 ---
-description: Thinking Partnerships
+description: How to use the Thinking Partnership in your mentoring sessions when you’re working through a challenge.
 id: thinking-partnerships
 sidebar_position: 5
+title: Thinking Partnerships
 ---
 
-# Thinking Partnerships
+<head>
+    <meta property="og:title" content="Thinking Partnerships" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://www.developermentoring.guide/docs/essential-mentoring-resources/thinking-partnerships" />
+</head>
 
 We all think. All the time. We think about what things we need to do, the things we’re doing and all the things we’re not doing.
 
 What seems confusing, then, how little time we spend on structuring our thinking before we start **doing**. After quite some time of thinking the value I bring is my ability to do, act, strike from the hip, I was surprised to learn that stopping to think was a super-power I wasn’t spending time on.
 
 :::tip
-
 In her book, [Time to Think](https://www.goodreads.com/book/show/1020273.Time\_to\_Think), **Nancy Kline** says “The power of everything we do depends on the quality of the thinking we do first”
-
 :::
 
 Nancy Kline goes on to explain that given the right environment, thinking can help people unlock the answers to their own challenges. One of those environments is the mentoring relationship.

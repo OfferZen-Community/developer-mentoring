@@ -1,10 +1,15 @@
 ---
-description: Examples of How to Set Clear and Actionable Goals
+description: Examples of how to set good goals as a developer in a mentoring relationship.
 id: examples-mentoring-goals
 sidebar_position: 5
+title: Examples of How to Set Clear and Actionable Goals
 ---
 
-# Examples of How to Set Clear and Actionable Goals
+<head>
+    <meta property="og:title" content="Example of How to Set Clear and Actionable Goals" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://www.developermentoring.guide/docs/essential-mentoring-resources/examples-mentoring-goals" />
+</head>
 
 At Project Thrive, we like to use the <a href="https://www.developermentoring.guide/docs/essential-mentoring-resources/grow-goal-setting-model" style={{textDecoration: "underline"}}>**GROW Goal Setting Model**</a> to set goals for developers in our tech mentoring programme mentoring. But like with any goal-setting model, the quality of what gets “set” really depends on how much thought and effort a developer has put into answering the questions offered through the model.
 
@@ -44,6 +49,6 @@ A deep-dive discussion might be helpful here, with a special focus on any previo
 
 As with the situation we encountered earlier with Uma, it’s important to think about how to be _intentional_ about working on softer skills like this. For Dimitri, reading up on techniques that he could use to help a junior figure out their career path and then practising them in the mentoring relationship would be a good start. For example, it might be useful for Dimitri to ask his mentee to do a [**Personal SWOT analysis**](https://www.developermentoring.guide/docs/essential-mentoring-resources/personal-swot-analysis)—of course, this is just a tool; Dimitri should be prepared to guide his mentee through this analysis. Dimitri should also be ready to be honest with his mentee about their expecations. He’ll need to strike a fine balance between <a href="https://www.developermentoring.guide/docs/essential-mentoring-resources/giving-and-receiving-feedback/radical-candor" style={{textDecoration: "underline"}}>caring and challenging</a>. He’ll also need to be intentional about asking for feedback from his mentee about they’re finding the process. 
 
-It’ll also be important for Dimitri to keep in kind that <a href="https://www.developermentoring.guide/docs/getting-started-with-mentoring/For%20Mentors/the-mentors-role" style={{textDecoration: "underline"}}>he doesn't need to provide his mentee with all the answers</a>. Rather, his role as a mentor is to facilitate productive discussion that will lead his mentee to come up with ther own conclusisons and actionable steps. 
+It’ll also be important for Dimitri to keep in kind that <a href="https://www.developermentoring.guide/docs/getting-started-with-mentoring/For%20Mentors/the-mentors-role" style={{textDecoration: "underline"}}>he doesn't need to provide his mentee with all the answers</a>. Rather, his role as a mentor is to facilitate productive discussion that will lead his mentee to come up with ther own conclusisons and actionable steps.
 
 **But these are just a few examples of mentoring goals—what examples and comments do you think might be important to look at? These can be as specific or as general as you want! Drop them down below** 👇

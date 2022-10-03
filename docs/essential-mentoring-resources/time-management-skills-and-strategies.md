@@ -1,14 +1,19 @@
 ---
-description: Time Management Skills and Strategies
+description: A list of the best strategies to help you maintain focus and managing your time more effectively. 
 id: time-management-skills-and-strategies
 sidebar_position: 6
+title: Time Management Skills and Strategies
 ---
 
-# Time Management Skills and Strategies
+<head>
+    <meta property="og:title" content="Time Management Skills and Strategies" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://www.developermentoring.guide/docs/essential-mentoring-resources/time-management-skills-and-strategies" />
+</head>
 
 To get ahead in your career, deliver your projects successfully and to get a promotion or a pay rise, you must learn to consistently focus on the activities that add the most benefit to your projects and your clients. The better you are at maintaining focus and managing your time, the more you will achieve. Better time management will also help you withstand stress and live a more fulfilling life outside of work.
 
-### Here are some strategies:
+### Here are some strategies':'
 
 #### 1. Start your day with a **clear focus**
 

@@ -141,7 +141,7 @@ const config = {
       announcementBar: {
         id: "support_us",
         content:
-          '<font size="+0.5">We\'re looking for senior devs to come mentor in our <b>October</b> cohort! 👉 Sign up for free <a target="_blank" rel="noopener noreferrer" href="https://www.offerzen.com/thrive/mentors">here</a>,</font>',
+          '<font size="+0.5">We\'re looking for senior devs to come on as mentors! 👉 Sign up for free <a target="_blank" rel="noopener noreferrer" href="https://www.offerzen.com/thrive/mentors">here</a>,</font>',
         backgroundColor: "#2F96F4",
         textColor: "#FFFFFF",
         isCloseable: false,
