@@ -1,4 +1,4 @@
-# Welcome to the Developer Mentoring Guide :mortar_board':'
+# Welcome to the Developer Mentoring Guide 🎓
 
 ![192535773-a9d93f36-0604-4ab5-b0f4-d064feb7e2ec](/assets/192535773-a9d93f36-0604-4ab5-b0f4-d064feb7e2ec.png)
 
