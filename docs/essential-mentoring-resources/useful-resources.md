@@ -2,17 +2,15 @@
 description: Useful resources for junior developers for learning and to be productive.
 id: useful-resources
 sidebar_position: 12
-title: Useful resources for junior developers
+title: Useful Resources for Junior Developers
 ---
 
 <head>
-    <meta property="og:title" content="Useful resources for junior developers." />
+    <meta property="og:title" content="Useful Resources for Junior Developers" />
     <meta property="og:type" content="article" />
 </head>
 
-<!-- ![Useful resources for junior developers](<//img/assets/six-common-challenges-mentoring.png>)
- -->
- <h2>Being resourceful is also a part of being a good developer. Here are some important resources every developer should know.</h2>
+Being resourceful is also a part of being a good developer. Here are some important resources every developer should know.</h2>
 
 ## 1) Stackoverflow
 <img src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" width=200></img>
@@ -48,7 +46,7 @@ This is an amazing resource if you want to avoid spending money on online tutori
 <br/>
 <a href="https://youtube.com">youtube.com</a>
 
-Search among millions of videos for what you want to learn for FREE. Some Youtube channels which teach web development are :
+Search among millions of videos for what you want to learn for **free**. Some Youtube channels which teach web development are :
 1) freecodecamp.org
 2) Dev Ed.
 3) Web Dev Simplified.
@@ -70,4 +68,4 @@ Here is a course on udemy if youre looking to learn Reactjs : <a href="https://w
 <br/>
 <a href="https://github.com">github.com</a>
 
-The best way to learn is to build projects. Github lets your host your projects and also lets you contribute to other projects. You will learn how real world opensource projects work.
+The best way to learn is to build projects. Github lets your host your projects and also lets you contribute to other projects. You will learn how real world open-source projects work.
