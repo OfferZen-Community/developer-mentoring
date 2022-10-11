@@ -1,7 +1,7 @@
 ---
 description: Useful resources for junior developers for learning and to be productive.
 id: useful-resources
-sidebar_position: 7
+sidebar_position: 12
 title: Useful resources for junior developers
 ---
 
