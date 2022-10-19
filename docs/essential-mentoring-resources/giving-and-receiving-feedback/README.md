@@ -13,7 +13,7 @@ title: Giving and receiving Feedback
 
 ![How to give and receive feedback in a mentoring relationship](<//img/assets/Giving-and-Receiving-Feedback.png>)
 
-Two-way feedback is a super important part of any mentoring relationship. It’s also an essential ingredient in career development work. That’s why Project Thrive participants make use of the continuous feedback loop to learn how to give and receive feedback, and to make sure everyone is on the same page and communication is honest, open and constructive. Here’s how it works.
+Two-way feedback is a super important part of any mentoring relationship. It’s also an essential ingredient in career development work. That’s why Project Thrive participants made use of the continuous feedback loop to learn how to give and receive feedback, and to make sure everyone is on the same page and communication is honest, open and constructive. Here’s how it works.
 
 ### The Importance of Feedback
 

@@ -36,10 +36,9 @@ The first step is to list your strengths - the things you have working in your f
 * What do you do well?&#x20;
 * What personal characteristics would you consider to be strengths?&#x20;
 * What additional resources or contacts do you have at your disposal?
-
 :::
 
-From our experience at Project Thrive, we've noticed that people often take their unique skills for granted when working through the *Strengths* section. One way to compensate for this is to perform the personal SWOT analysis with the help of a manager, colleague, or mentor. They might be able to highlight any potential blind spots that you have.
+From our experience running Project Thrive, we've noticed that people often take their unique skills for granted when working through the *Strengths* section. One way to compensate for this is to perform the personal SWOT analysis with the help of a manager, colleague, or mentor. They might be able to highlight any potential blind spots that you have.
 
 ### Weaknesses
 

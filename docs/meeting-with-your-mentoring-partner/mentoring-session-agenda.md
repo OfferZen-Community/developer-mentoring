@@ -29,7 +29,7 @@ Keep it in a place where you can both access it easily
 
 ### Example of how to structure a session
 
-As you go through the Project Thrive programme, you are welcome to run your sessions in any manner that works for you and your mentoring partner. However, if you’re unsure about how to get started, we suggest that you start off running it similarly to how you would a 1:1 meeting with your team lead. This [link](https://getlighthouse.com/blog/one-on-ones-employee-know/) provides a good guideline for how to run a 1:1.
+You're free to run your sessions in any manner that works for you and your mentoring partner. However, if you’re unsure about how to get started, we suggest that you start off running it similarly to how you would a 1:1 meeting with your team lead. This [link](https://getlighthouse.com/blog/one-on-ones-employee-know/) provides a good guideline for how to run a 1:1.
 
 These are some good questions to address in each session:
 

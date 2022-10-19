@@ -17,13 +17,13 @@ Coaching and mentoring are two sides of the same coin. Both are focused on provi
 
 ## What is Mentoring?
 
-Mentorship is an approach to people development where an experienced person is paired with someone looking to level up in their career. Within tech, this might be a junior programmer looking to enter mobile development. Alternatively, they might ask to be connected with a team lead to learn from their experience in project management, tech leadership and communication. A mentor usually volunteers their time alongside their full-time role and may mentor within their company, or for a third-party group like  <a href="https://www.offerzen.com/thrive" style={{textDecoration: "underline"}}>**Project Thrive**</a> 
+Mentorship is an approach to people development where an experienced person is paired with someone looking to level up in their career. Within tech, this might be a junior programmer looking to enter mobile development. Alternatively, they might ask to be connected with a team lead to learn from their experience in project management, tech leadership and communication. A mentor usually volunteers their time alongside their full-time role and may mentor within their company, or for a third-party group like **Project Thrive**.
 
 There are many other <a href="https://www.developermentoring.guide/docs/getting-started-with-mentoring/For%20Mentors/benefits-of-becoming-a-mentor" style={{textDecoration: "underline"}}>benefits to becoming a mentor</a>.  Mentoring helps participants increase their self-confidence, build leadership capabilities, refine interpersonal skills, acquire new approaches to problem-solving, and focus on specialised technical skills. Junior developers  <a href="https://www.developermentoring.guide/docs/getting-started-with-mentoring/For%20Mentees/benefits-of-getting-a-mentor" style={{textDecoration: "underline"}}>benefit from getting a mentor</a> as well by receiving guidance from an industry expert to help them identify and work towards their goals!
 
 Given how competitive the tech industry has become, with organisations vying for the same senior talent and junior developers needing an additional boost to get their foot in the door, it’s common for leading tech companies to have internal <a href="https://www.developermentoring.guide/docs/essential-mentoring-resources/building-a-mentoring-programme" style={{textDecoration: "underline"}}>mentorship programmes</a> to support career growth.
 
-Fundamentally, mentorship is about the relationship between the mentor and the mentee. Mentors listen and learn about their mentee’s context, challenges, and goals. They share relevant experiences and pass their skills and insights along. This is the approach we take at Project Thrive, where we connect junior and senior developers for a 12-week mentoring journey. To help our participants succeed, we provide tips and training on how to make the most of the mentoring relationship.
+Fundamentally, mentorship is about the relationship between the mentor and the mentee. Mentors listen and learn about their mentee’s context, challenges, and goals. They share relevant experiences and pass their skills and insights along. This is the approach we took at Project Thrive, where we connected junior and senior developers for a 12-week mentoring journey. To help our participants succeed, we provided tips and training on how to make the most of the mentoring relationship.
 
 ## What is Coaching?
 
@@ -49,7 +49,7 @@ There are differences in training, outcomes, and the approach to work:
 
 While a career coach is professionally trained and coaches full time, mentoring is typically done on a voluntary basis. Mentoring can be formal (such as through an internal career programme at work) or informally through personal connections.
 
-It’s also possible to join an external mentoring programme—like <a href="https://www.offerzen.com/thrive" style={{textDecoration: "underline"}}>Project Thrive</a>—where mentees and mentors are partnered up based on relevant skills, experience, and career goals.
+It’s also possible to join an external mentoring programme—like Project Thrive—where mentees and mentors are partnered up based on relevant skills, experience, and career goals.
 
 While both mentor and mentee are committed to the development of the mentee, the experience can be fruitful for both. In fact, some research indicates that mentors are as much as six times more likely to be promoted.
 
@@ -57,9 +57,9 @@ While both mentor and mentee are committed to the development of the mentee, the
 
 Both coaching and mentorship can take the form of short- and long-term interventions. However, it’s common for coaching to take place in shorter bursts, with a specific set of goals and desired outcomes.
 
-Mentorship is often a longer-term engagement. While the Project Thrive programme is initially 12 weeks, mentors and mentees may decide to continue their relationship independently.
+Mentorship is often a longer-term engagement. While the Project Thrive programme was set at 12 weeks, mentors and mentees may decide to continue their relationship independently.
 
-Mentorship can span years, with mentees reaching out for guidance over the course of their careers. Project Thrive’s mentors can choose to meet with mentees after the formal programme has ended. Generally, mentees reach out for career development questions, or even for general life advice.
+Mentorship can span years, with mentees reaching out for guidance over the course of their careers. Project Thrive’s mentors could choose to meet with mentees after the formal programme had ended. Generally, mentees reach out for career development questions, or even for general life advice.
 
 ### Structure and Scope
 
@@ -73,7 +73,7 @@ The scope of mentor and coach involvement will also differ. While a mentor may h
 
 A coach isn’t going to give you all the answers. They’re there to help you find solutions yourself, but they’ll still lead the process. While it’s up to the individual to apply what they’re learning, it’s the coach’s responsibility to set the agenda for sessions and manage the process (the specifics of how this is done will differ based on their approach).
 
-But mentees are expected to drive the relationship forward in a mentoring relationship. This includes setting meeting agendas, identifying and communicating the areas they’d like to problem solve, and following up on specific goals and development areas. This is central to the success of the mentor–mentee dynamic at <a href="https://www.offerzen.com/thrive" style={{textDecoration: "underline"}}>Project Thrive</a>.
+But mentees are expected to drive the relationship forward in a mentoring relationship. This includes setting meeting agendas, identifying and communicating the areas they’d like to problem solve, and following up on specific goals and development areas. This is central to the success of the mentor–mentee dynamic at Project Thrive.
 
 ### Advice versus Upskilling
 

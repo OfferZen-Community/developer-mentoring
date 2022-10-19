@@ -11,7 +11,7 @@ title: Examples of How to Set Clear and Actionable Goals
     <meta property="og:url" content="https://www.developermentoring.guide/docs/essential-mentoring-resources/examples-mentoring-goals" />
 </head>
 
-At Project Thrive, we like to use the <a href="https://www.developermentoring.guide/docs/essential-mentoring-resources/grow-goal-setting-model" style={{textDecoration: "underline"}}>**GROW Goal Setting Model**</a> to set goals for developers in our tech mentoring programme mentoring. But like with any goal-setting model, the quality of what gets “set” really depends on how much thought and effort a developer has put into answering the questions offered through the model.
+At Project Thrive, we used the <a href="https://www.developermentoring.guide/docs/essential-mentoring-resources/grow-goal-setting-model" style={{textDecoration: "underline"}}>**GROW Goal Setting Model**</a> to set goals for developers in our tech mentoring programme mentoring. But like with any goal-setting model, the quality of what gets “set” really depends on how much thought and effort a developer has put into answering the questions offered through the model.
 
 While you might think that looking at the goals others have set for themselves wouldn’t be beneficial for your own personal technical, career, and personal ambitions, knowing how to tell apart a “clear, actionable” goal from one that is not can help you reflect on the quality of your own goals. Below are some goals real-life mentors and mentees have set for themselves. Try to evaluate the quality of these goals while keeping in mind the kind of questions you might ask yourself when using the GROW goal setting model.
 

@@ -11,7 +11,7 @@ title: How to Build a Sustainable Mentoring Programme
     <meta property="og:url" content="https://www.developermentoring.guide/docs/essential-mentoring-resources/building-a-mentoring-programme" />
 </head>
 
-Understanding the importance of quality mentorship is easier than establishing systems that support it. When you’re keeping an eye on the bottom line, it’s hard to prioritise making mentorship work. Here’s the framework we use at Project Thrive to help you establish a mentorship programme at your company.
+Understanding the importance of quality mentorship is easier than establishing systems that support it. When you’re keeping an eye on the bottom line, it’s hard to prioritise making mentorship work. Here’s the framework we used at Project Thrive to help you establish a mentorship programme at your company.
 
 OfferZen’s State of the Development Nation reports for South Africa and the Netherlands both showed that mentorship and opportunities for growth are key reasons why developers stay in a role. It’s no wonder that top tech companies like Uber, PayPal and Amazon all have internal programmes that make it easier to foster an environment of mentorship.
 
@@ -112,7 +112,7 @@ What would this look like? Training should establish that mentees should be sett
 
 A successful mentorship programme relies closely on the relationship between the mentor and the mentee. That’s why we dedicate an entire phase of our mentorship framework to establishing a strong working relationship between them.
 
-As the programme organiser, you can help set them up for success by being mindful of pairings. Consider where your participants might be able to find common ground, be it through their love of AI, their robotics hobby, or, like one past Project Thrive pair, their journey as first-time parents.
+As the programme organiser, you can help set them up for success by being mindful of pairings. Consider where your participants might be able to find common ground, be it through their love of AI, their robotics hobby, or, like one previous Project Thrive pair, their journey as first-time parents.
 
 **Other factors to consider include:**
 

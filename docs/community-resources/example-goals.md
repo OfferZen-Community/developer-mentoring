@@ -60,7 +60,7 @@ My mentor and I used the SMART analysis, which incorporates all of the following
 
 - **SPECIFIC** - I want to be working at an intermediate level as a Front-End Developer and professional.
 
-- **MEASURABLE** - I want to use my 12 weeks in Project Thrive to create a stronger skillset (both soft skills and technical skills).
+- **MEASURABLE** - I want to use my mentoring journey to create a stronger skillset (both soft skills and technical skills).
 
 - **ACHIEVABLE** - I will learn tools to combat overthinking, disorganisation, and bottlenecks that might be limiting my productivity.
 

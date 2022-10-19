@@ -85,7 +85,7 @@ In a mentoring relationship, providing constructive feedback is *as* important a
 
 All new ventures are accompanied by a certain amount of risk. Your mentee will need guidance as they consider which risks are manageable, and which risks cannot be surmounted.
 
-There are additional tools that can be used when planning a new venture that’ll help you and your mentee determine what the risks are and whether they're surmountable or not. For instance, at [**Project Thrive**](https://www.offerzen.com/thrive?utm_source=github&utm_medium=thrive&utm_campaign=all_supply_awareness_handbook_both_github&utm_content=mentor-skills-thrive-example), we encourage mentees to work through the **SWOT analysis** to help them identify any threats upfront.
+There are additional tools that can be used when planning a new venture that’ll help you and your mentee determine what the risks are and whether they're surmountable or not. For instance, at **Project Thrive**, we encouraged mentees to work through the **SWOT analysis** to help them identify any threats upfront.
 
 ### 5. Open doors for your mentee
 
@@ -94,7 +94,3 @@ As a mentor, you should act as a champion for your mentee.
 Keep an eye out for any opportunities or events that your mentee might benefit from. Consider who you might be able to introduce them to that could assist them on their learning journey. If you're currently working on an exciting project, you could also invite your mentee to join any meetings or working sessions that you set up for the project.
 
 Of course, any recommendations by you reflect back on you, so you’ll first want to make sure that your mentee is equipped to manage any opportunities that come through you. Make sure you’re transparent about this and be sure to use your judgement.
-
-:::info
-If you want to hone the mentoring skills you need to make the relationship a success, [**sign up**](https://www.offerzen.com/thrive/mentors?utm_source=github&utm_medium=thrive&utm_campaign=all_supply_leads_handbook_mentor_github&utm_content=mentor-skills-cta) to our Project Thrive mentoring programme.
-:::

@@ -105,7 +105,3 @@ As we mentioned above, we’ve seen greater success where a mentee takes respons
 * Discuss how often you’d like to meet, where and for how long.
 * Come prepared for all sessions.
 * To set up a strong process for check-ins, you can prepare a meeting agenda in advance and share it with your mentor so you both have clear expectations.
-
-:::info
-Now that you know the skills you need to be a great mentee, why not put them into practice? Sign up for [**OfferZen's**](https://www.offerzen.com/?utm_source=github&utm_medium=thrive&utm_campaign=all_supply_awareness_handbook_mentee_github&utm_content=mentee-skills-oz) Project Thrive mentoring programme :sparkles:[**here**](https://www.offerzen.com/thrive/mentees?utm_source=github&utm_medium=thrive&utm_campaign=all_supply_awareness_handbook_mentee_github&utm_content=mentee-skills-cta):sparkles:.
-:::

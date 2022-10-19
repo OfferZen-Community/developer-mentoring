@@ -29,7 +29,7 @@ In terms of logistics, the following should be discussed at the outset:
 4. The form meetups will take (formal/informal, in-person/online) and
 5. Contingency plans in the event that either party can’t make a session.
 
-When it comes to the nitty gritty of mentorship itself, each person needs to understand what they’re contributing to individual sessions, and how they’ll be involved in logistics and relationship management. For example, who will be driving the mentorship forward? Over at Project Thrive, we maintain that a mentee-led mentoring relationship—where the mentee is empowered to drive their development forward—is the key to success.
+When it comes to the nitty gritty of mentorship itself, each person needs to understand what they’re contributing to individual sessions, and how they’ll be involved in logistics and relationship management. For example, who will be driving the mentorship forward? Over at Project Thrive, we maintained that a mentee-led mentoring relationship—where the mentee is empowered to drive their development forward—is the key to success.
 
 That means a mentee is responsible for:
 
@@ -87,7 +87,7 @@ By setting tangible goals and desired outcomes upfront, you can ensure you’re 
 
 Moreover, to ensure mentees keep moving forward, they need a benchmark to measure progress against, as well as a shared understanding of what success looks like. Goal setting will help to establish both of these.
 
-If you haven’t gone through the goal-setting process together yet, you can make use of two tools we use at Project Thrive: the <a href="https://www.developermentoring.guide/docs/essential-mentoring-resources/personal-swot-analysis" style={{textDecoration: "underline"}}>personal SWOT analysis</a> and the <a href="https://www.developermentoring.guide/docs/essential-mentoring-resources/grow-goal-setting-model" style={{textDecoration: "underline"}}>GROW goal setting model</a>.
+If you haven’t gone through the goal-setting process together yet, you can make use of two tools we used at Project Thrive: the <a href="https://www.developermentoring.guide/docs/essential-mentoring-resources/personal-swot-analysis" style={{textDecoration: "underline"}}>personal SWOT analysis</a> and the <a href="https://www.developermentoring.guide/docs/essential-mentoring-resources/grow-goal-setting-model" style={{textDecoration: "underline"}}>GROW goal setting model</a>.
 
 ## 6) Communication is one way and critical
 
@@ -99,4 +99,4 @@ At Project Thrive, we think of mentoring pairs as <a href="https://www.developer
 
 We also train our mentors and mentees on both <a href="https://www.developermentoring.guide/docs/essential-mentoring-resources/giving-and-receiving-feedback/" style={{textDecoration: "underline"}}> giving and receiving feedback </a>. While a mentor shouldn’t gloss over development areas, feedback should always be supportive and constructive. Following this, feedback should focus on specific skills, approaches and areas for improvement.
 
-If you think you might’ve fallen into one of these mentoring traps, now’s a good time for you and your mentoring partner to do a check-in to reestablish expectations, and to discuss your shared approach to mentorship. And if you think you could benefit from a facilitated mentoring experience, check out <a href="https://www.offerzen.com/thrive" style={{textDecoration: "underline"}}>Project Thrive's</a> 12-week programme.
+If you think you might’ve fallen into one of these mentoring traps, now’s a good time for you and your mentoring partner to do a check-in to reestablish expectations, and to discuss your shared approach to mentorship.

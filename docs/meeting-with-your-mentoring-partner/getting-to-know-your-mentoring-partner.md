@@ -48,7 +48,7 @@ And even in a strong mentoring relationship, sometimes a conversation just runs 
 
 ## Getting Out of A Stale Patch
 
-In Project Thrive’s 12-week mentoring programme, we call it the ‘6-week-itch’—the sense that the quality or initial ‘vibe’ of the mentoring has begun to dwindle. This is true for both mentors and mentees: the mentor might perceive a lack of commitment or enthusiasm from the mentee and the mentee might feel as though their mentor is too fixated on the rate of their progress.
+In Project Thrive’s 12-week mentoring programme, we called it the ‘6-week-itch’—the sense that the quality or initial ‘vibe’ of the mentoring has begun to dwindle. This is true for both mentors and mentees: the mentor might perceive a lack of commitment or enthusiasm from the mentee and the mentee might feel as though their mentor is too fixated on the rate of their progress.
 
 This doesn’t necessarily relate to any progress you may (or may not) have made towards your goals. It could even be the case that one of you feels your meetings and conversations are too ‘formulaic’, with little room for deviation or creativity. In these situations, it’s often useful to pump the goal-brakes: make sure that your next conversation or meeting is not goal-centred, but _vibe_-centred. This could mean a simple veto on anything to do with your goals or even an active bonding session with some gaming or ice-breakers (here’s an [extensive list](https://www.buzzfeed.com/melanie_aman/games-you-can-play-with-only-two-people) of both in-person and virtual gaming options for two). Anything that isn’t too serious and gives you both a serotonin boost is a great way to re-establish a good mentoring vibe.
 
