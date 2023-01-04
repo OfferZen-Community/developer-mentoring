@@ -11,8 +11,6 @@ title: Atomic Habits
     <meta property="og:url" content="https://www.developermentoring.guide/docs/essential-mentoring-resources/atomic-habits" />
 </head>
 
-
-
 Habits are behaviours that we perform automatically, with little or no thought. From making a coffee when we get up in the morning, to brushing out teeth before bed at night, our habits subtly guide our daily lives.
 
 As a result, you may not realise how much power there is in habits. If repeated every day, even the smallest actions can accumulate force and have a huge effect. So understanding and embracing habits is a great way to take control of your life and achieve more.
