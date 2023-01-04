@@ -11,6 +11,8 @@ title: Atomic Habits
     <meta property="og:url" content="https://www.developermentoring.guide/docs/essential-mentoring-resources/atomic-habits" />
 </head>
 
+
+
 Habits are behaviours that we perform automatically, with little or no thought. From making a coffee when we get up in the morning, to brushing out teeth before bed at night, our habits subtly guide our daily lives.
 
 As a result, you may not realise how much power there is in habits. If repeated every day, even the smallest actions can accumulate force and have a huge effect. So understanding and embracing habits is a great way to take control of your life and achieve more.
@@ -79,3 +81,7 @@ Make the cues of good habits **obvious** in your environment:
 Another helpful tool for keeping a habit is a **habit tracker**. There are many ways to measure your habits - even a simple **Excel** spreadsheet will do.
 
 **The Golden Rule**: Missing one day of a habit is fine, but never let yourself miss two days in a row.
+
+### Source
+
+The content on this page is a brief summary of the excellent book [of the same name](https://jamesclear.com/atomic-habits) by James Clear. It's worth reading in full and is a best-seller for a reason, so pick up a copy from your local seller of books, e-books or audio books!
