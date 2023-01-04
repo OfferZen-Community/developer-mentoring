@@ -79,3 +79,7 @@ Make the cues of good habits **obvious** in your environment:
 Another helpful tool for keeping a habit is a **habit tracker**. There are many ways to measure your habits - even a simple **Excel** spreadsheet will do.
 
 **The Golden Rule**: Missing one day of a habit is fine, but never let yourself miss two days in a row.
+
+### Source
+
+The content on this page is a brief summary of the excellent book [of the same name](https://jamesclear.com/atomic-habits) by James Clear. It's worth reading in full and is a best-seller for a reason, so pick up a copy from your local seller of books, e-books or audio books!
