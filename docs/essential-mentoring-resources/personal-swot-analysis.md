@@ -15,7 +15,7 @@ Effective goal setting is of utmost importance when it comes to progressing in y
 
 ![Personal Swot Analysis template](/img/assets/swot-analysis.png)
 
-## SWOT stands for':'
+## SWOT stands for:
 
 * **S**trengths&#x20;
 * **W**eaknesses&#x20;
@@ -24,7 +24,9 @@ Effective goal setting is of utmost importance when it comes to progressing in y
 
 ### When should you do a personal SWOT analysis?
 
-A personal SWOT analysis can be done at any point in your career - not just when you're starting out. For instance, it could be a useful tool to use when you're considering a transition to a different career path or perhaps even when you're contending for a promotion.
+A personal SWOT analysis can be done at any point in your career—not just when you're starting out. For instance, it could be a useful tool to use when you're considering a transition to a different career path or perhaps even when you're contending for a promotion.
+
+Download this handy [**SWOT analysis template**](../../static/docs/SWOT.Analysis.pdf) to get started!
 
 ### Strengths
 
@@ -56,9 +58,10 @@ The next step is to identify your weaknesses. We all have areas we need to impro
 Sometimes opportunities pass you by without you even noticing them. This section of the SWOT analysis requires you to review all the potential opportunities you could take advantage of.
 
 :::tip Here are some things to be on the lookout for:
-* Are there any trends in your industry that you can take advantage of?&#x20;
-* Can you improve your skills?&#x20;
-* How can you get noticed? Is there a way you can demonstrate initiative?&#x20;
+
+* Are there any trends in your industry that you can take advantage of?
+* Can you improve your skills?
+* How can you get noticed? Is there a way you can demonstrate initiative?
 * Can someone help you achieve your goals?
 :::
 
@@ -66,10 +69,10 @@ Sometimes opportunities pass you by without you even noticing them. This section
 
 When setting new goals, it's easy to get excited. However, it's important to be realistic about what's achievable. When doing the *Threats* section of the SWOT analysis, it may be helpful to think of yourself as a ship charting a course and consider things that could potentially sink the ship as you go about your journey.
 
-:::tip Think about:
+:::tip Think About:
 
-* What obstacles do you face? (e.g. resource shortages, lack of room for growth in your current role)
-* What could get in your way? (e.g. unrealistic expectations about what can be achieved, personal life)
+* What obstacles do you face? (e.g., resource shortages, lack of room for growth in your current role)
+* What could get in your way? (e.g., unrealistic expectations about what can be achieved, personal life)
 :::
 
 ## Using your personal SWOT analysis to set goals
