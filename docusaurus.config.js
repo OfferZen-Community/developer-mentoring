@@ -15,7 +15,7 @@ const config = {
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-  favicon: "img/favicon.svg",
+  favicon: "img/favicon.png",
   organizationName: "offerzen", // Usually your GitHub org/user name.
   projectName: "developer-mentoring-guide", // Usually your repo name.
 
