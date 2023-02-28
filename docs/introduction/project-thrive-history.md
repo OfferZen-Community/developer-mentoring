@@ -15,7 +15,7 @@ For over three years, OfferZen’s Project Thrive **12-week** mentoring programm
 
 ## How the Programme Worked
 
-The Project Thrive mentorship programme was guided by the specific area of development that a mentee would wanted their [**mentor**](https://www.developermentoring.guide/getting-started-with-mentoring/For%20Mentors/the-mentors-role) to support or guide them with. A mentor is an experienced developer who has been where the mentee is. They help support and guide the mentee as they navigate the next steps of their career.
+The Project Thrive mentorship programme was guided by the specific area of development that a mentee would want their [**mentor**](https://www.developermentoring.guide/getting-started-with-mentoring/For%20Mentors/the-mentors-role) to support or guide them with. A mentor is an experienced developer who has been where the mentee is. They help support and guide the mentee as they navigate the next steps of their career.
 
 ## Meeting Up
 
@@ -43,4 +43,7 @@ Over the last five years, this mission has manifested in a multitude of ways: fr
 
 :::info
 Interested in joining the OfferZen community? Check out what cool things we get up to [**here**](https://www.offerzen.com/community)!
+<<<<<<< HEAD:docs/introduction/project-thrive-history.md
+:::
+=======
 :::
