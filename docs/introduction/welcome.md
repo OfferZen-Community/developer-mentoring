@@ -3,6 +3,7 @@ description: This guide offers tips and frameworks to help you make the most of 
 id: welcome
 sidebar_position: 1
 title: The Ultimate Developer Mentoring Guide 🚀
+slug: /
 ---
 
 <head>

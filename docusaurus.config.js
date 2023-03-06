@@ -50,6 +50,7 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          routeBasePath: '/', // Serve the docs at the site's root
           sidebarPath: require.resolve("./sidebars.js"),
           editUrl: `${gitRepoBaseUrl}/blob/main/`,
           showLastUpdateTime: true,
