@@ -139,14 +139,6 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
-      announcementBar: {
-        id: "support_us",
-        content:
-          '<font size="+0.5">Looking for a dev job? 👉 Sign up to OfferZen for free <a target="_blank" rel="noopener noreferrer" href="https://www.offerzen.com/candidate/signup">here</a>,</font>',
-        backgroundColor: "#2F96F4",
-        textColor: "#FFFFFF",
-        isCloseable: false,
-      },
     }),
 };
 
