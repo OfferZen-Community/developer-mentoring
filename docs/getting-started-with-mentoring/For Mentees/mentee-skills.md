@@ -8,7 +8,7 @@ title: Skills to Become a Successful Mentee
 <head>
     <meta property="og:title" content="Skills to Become a Successful Mentee" />
     <meta property="og:type" content="article" />
-    <meta property="og:url" content="https://www.developermentoring.guide/docs/getting-started-with-mentoring/For%20Mentees/mentee-skills" />
+    <meta property="og:url" content="https://www.developermentoring.guide/getting-started-with-mentoring/For%20Mentees/mentee-skills" />
 </head>
 
 Over our three years of engaging with hundreds of developers and mentors at Project Thrive, we’ve been able distill key skills needed for success. Mentorship is a two-way-street, and it’s super important that you take responsibility for your side as a mentee. There are some skills that both individuals need to cultivate, and some individual skills will help you be a great mentee.

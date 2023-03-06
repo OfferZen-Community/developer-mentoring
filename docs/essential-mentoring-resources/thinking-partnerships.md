@@ -8,7 +8,7 @@ title: Thinking Partnerships
 <head>
     <meta property="og:title" content="Thinking Partnerships" />
     <meta property="og:type" content="article" />
-    <meta property="og:url" content="https://www.developermentoring.guide/docs/essential-mentoring-resources/thinking-partnerships" />
+    <meta property="og:url" content="https://www.developermentoring.guide/essential-mentoring-resources/thinking-partnerships" />
 </head>
 
 We all think. All the time. We think about what things we need to do, the things we’re doing and all the things we’re not doing.

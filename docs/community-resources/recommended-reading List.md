@@ -8,7 +8,7 @@ title: Recommended Reading List 📚
 <head>
     <meta property="og:title" content="Recommended Reading List" />
     <meta property="og:type" content="article" />
-    <meta property="og:url" content="https://www.developermentoring.guide/docs/community-resources/recommended-reading-list" />
+    <meta property="og:url" content="https://www.developermentoring.guide/community-resources/recommended-reading-list" />
 </head>
 
 ### The Pragmatic Programmer

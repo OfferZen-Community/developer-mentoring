@@ -9,7 +9,7 @@ slug: /
 <head>
     <meta property="og:title" content="The Ultimate Developer Mentoring Guide" />
     <meta property="og:type" content="article" />
-    <meta property="og:url" content="https://www.developermentoring.guide/docs/introduction/welcome" />
+    <meta property="og:url" content="https://www.developermentoring.guide/introduction/welcome" />
 </head>
 
 ## Welcome!

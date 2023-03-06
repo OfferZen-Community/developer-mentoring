@@ -8,7 +8,7 @@ title: What is Your Role as a Mentor
 <head>
     <meta property="og:title" content="WHat is Your Role as a Mentor" />
     <meta property="og:type" content="article" />
-    <meta property="og:url" content="https://www.developermentoring.guide/docs/getting-started-with-mentoring/For%20Mentors/the-mentors-role" />
+    <meta property="og:url" content="https://www.developermentoring.guide/getting-started-with-mentoring/For%20Mentors/the-mentors-role" />
 </head>
 
 As a mentor, your role is to guide and support your mentee to help them achieve their personal or career goals. But's that's pretty abstract, so what exactly does this mean? :thinking_face:

@@ -8,7 +8,7 @@ title: The Mentoring Plan
 <head>
     <meta property="og:title" content="The Mentoring Plan" />
     <meta property="og:type" content="article" />
-    <meta property="og:url" content="https://www.developermentoring.guide/docs/meeting-with-your-mentoring-partner/the-mentoring-plan" />
+    <meta property="og:url" content="https://www.developermentoring.guide/meeting-with-your-mentoring-partner/the-mentoring-plan" />
 </head>
 
 This plan is to help set you up for success as you set out on your mentoring journey. We recommend chatting about your expectations of one another, as well as your roles and responsibilities at the beginning of the relationship. When you know this, you’re defining what success looks like upfront, so you can keep moving toward it together. Here are some useful questions to consider:​

@@ -8,7 +8,7 @@ title: Mentoring Session Plan
 <head>
     <meta property="og:title" content="Mentoring Session Plan" />
     <meta property="og:type" content="article" />
-    <meta property="og:url" content="https://www.developermentoring.guide/docs/meeting-with-your-mentoring-partner/mentoring-session-agenda" />
+    <meta property="og:url" content="https://www.developermentoring.guide/meeting-with-your-mentoring-partner/mentoring-session-agenda" />
 </head>
 
 Meeting agendas. For some, they’re the broccoli of the working world: some people like them, we all know we need them, but they aren’t a favourite 🥦

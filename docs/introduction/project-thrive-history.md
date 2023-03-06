@@ -8,14 +8,14 @@ title: Project Thrive History
 <head>
     <meta property="og:title" content="About Project Thrive" />
     <meta property="og:type" content="article" />
-    <meta property="og:url" content="https://www.developermentoring.guide/docs/introduction/about-project-thrive" />
+    <meta property="og:url" content="https://www.developermentoring.guide/introduction/about-project-thrive" />
 </head>
 
 For over three years, OfferZen’s Project Thrive **12-week** mentoring programme connected senior developers who wanted to pay-it-forward by helping junior developers. At Project Thrive, we removed the uncertainty of finding vetted mentees and provided a framework of how to make the most of a tech mentoring relationship. With this project, we offered an opportunity to foster meaningful relationships between mentors and mentees that led to cross-cultural knowledge transfer within the tech community.  
 
 ## How the Programme Worked
 
-The Project Thrive mentorship programme was guided by the specific area of development that a mentee would wanted their [**mentor**](https://www.developermentoring.guide/docs/getting-started-with-mentoring/For%20Mentors/the-mentors-role) to support or guide them with. A mentor is an experienced developer who has been where the mentee is. They help support and guide the mentee as they navigate the next steps of their career.
+The Project Thrive mentorship programme was guided by the specific area of development that a mentee would wanted their [**mentor**](https://www.developermentoring.guide/getting-started-with-mentoring/For%20Mentors/the-mentors-role) to support or guide them with. A mentor is an experienced developer who has been where the mentee is. They help support and guide the mentee as they navigate the next steps of their career.
 
 ## Meeting Up
 
@@ -23,7 +23,7 @@ For the 12-week programme, pairs were expected to check in weekly for 45 mins - 
 
 ## Mentee Expectations
 
-As a mentee, you can think of your mentor as a guide or supporter. They are there to support you as you work through the areas you need support on. [**They’re not a teacher or a coach**](https://www.developermentoring.guide/docs/getting-started-with-mentoring/the-difference-between-mentoring-and-coaching). They can’t tell you what to do. You’ll need to let your mentor know what it is you need guidance on, so you need to be open about your needs, your challenges and share your successes! The benefit of having a mentor is someone who has been where you are. They are there to help you succeed. They’re your friend in the trenches.
+As a mentee, you can think of your mentor as a guide or supporter. They are there to support you as you work through the areas you need support on. [**They’re not a teacher or a coach**](https://www.developermentoring.guide/getting-started-with-mentoring/the-difference-between-mentoring-and-coaching). They can’t tell you what to do. You’ll need to let your mentor know what it is you need guidance on, so you need to be open about your needs, your challenges and share your successes! The benefit of having a mentor is someone who has been where you are. They are there to help you succeed. They’re your friend in the trenches.
 
 ## Mentor Expectations
 

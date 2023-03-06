@@ -8,7 +8,7 @@ title: Atomic Habits
 <head>
     <meta property="og:title" content="Atomic Habits" />
     <meta property="og:type" content="article" />
-    <meta property="og:url" content="https://www.developermentoring.guide/docs/essential-mentoring-resources/atomic-habits" />
+    <meta property="og:url" content="https://www.developermentoring.guide/essential-mentoring-resources/atomic-habits" />
 </head>
 
 Habits are behaviours that we perform automatically, with little or no thought. From making a coffee when we get up in the morning, to brushing out teeth before bed at night, our habits subtly guide our daily lives.

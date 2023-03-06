@@ -8,7 +8,7 @@ title: Goal Setting
 <head>
     <meta property="og:title" content="Goal Setting" />
     <meta property="og:type" content="article" />
-    <meta property="og:url" content="https://www.developermentoring.guide/docs/essential-mentoring-resources/goal-setting" />
+    <meta property="og:url" content="https://www.developermentoring.guide/essential-mentoring-resources/goal-setting" />
 </head>
 
 Once you've used the [**personal SWOT analysis tool**](/docs/essential-mentoring-resources/personal-swot-analysis) to identify opportunities and areas for improvement, you're ready to set some career goals. We liked to use the **GROW goal setting model** to set goals in the Project Thrive mentoring programme mentoring.
