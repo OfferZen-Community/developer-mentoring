@@ -71,16 +71,16 @@ const config = {
     ({
       navbar: {
         logo: {
-          alt: "OfferZen Logo",
-          src: "img/logo.png",
-          srcDark: "img/logo_white.png",
+          alt: "Dinocorn",
+          src: "img/dinocorn.png",
+          srcDark: "img/dinocorn_white.png",
         },
         items: [
           {
             type: "doc",
             docId: "introduction/welcome",
             position: "left",
-            label: "The Guide",
+            label: "The Ultimate Developer Mentoring Guide",
           },
           {
             href: gitRepoBaseUrl,
@@ -95,45 +95,63 @@ const config = {
         style: "dark",
         links: [
           {
-            title: "Docs",
+            title: "Get involved",
             items: [
               {
-                label: "The Guide",
-                to: "/docs/introduction/welcome",
+                label: "Register as a mentor",
+                to: "/",
               },
               {
-                html: '<iframe src="https://ghbtns.com/github-btn.html?user=OfferZen-Community&repo=developer-mentoring&type=star&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>',
+                label: "Find a mentor",
+                to: "/",
               },
+              {
+                label: "Discuss on Slack",
+                to: "https://zatech.slack.com/archives/C1RAQ4G5U",
+              }
             ],
           },
           {
-            title: "Community",
+            title: "OfferZen Links",
             items: [
               {
                 label: "OfferZen Community",
                 href: "https://www.offerzen.com/community",
               },
               {
+                label: "Blog",
+                href: "https://www.offerzen.com/blog",
+              },
+              {
                 label: "Find a Software Developer Job",
                 href: "https://www.offerzen.com/candidate/signup",
-              },
+              }
             ],
           },
           {
-            title: "More",
+            title: "Contribute",
             items: [
               {
-                label: "Blog",
-                href: "https://www.offerzen.com/blog",
+                label: "Contact us",
+                href: "mailto:community@offerzen.com",
               },
               {
                 label: "GitHub",
                 href: gitRepoBaseUrl,
               },
+              {
+                html: '<iframe src="https://ghbtns.com/github-btn.html?user=OfferZen-Community&repo=developer-mentoring&type=star&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>',
+              },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} OfferZen Community. Built with Docusaurus.`,
+        copyright: `Made with <3 for devs by devs. Initiated and supported by OfferZen`,
+        logo: {
+          alt: 'OfferZen Logo',
+          src: 'img/logo_white.png',
+          href: 'https://www.offerzen.com',
+          height: 25,
+        },
       },
       prism: {
         theme: lightCodeTheme,
