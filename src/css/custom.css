@@ -76,6 +76,10 @@
   margin-right: 0.5rem;
 }
 
+.navbar__brand, .navbar__logo {
+  margin-right: 0em;
+}
+
 .header-github-link {
   display: block;
   border-radius: 50%;
