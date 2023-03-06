@@ -2,7 +2,7 @@
 description: Project Thrive is a free mentoring programme run by OfferZen where senior developers are connected to junior developers for a 12-week mentoring relationship. 
 id: about-project-thrive
 sidebar_position: 2
-title: About Project Thrive
+title: Project Thrive History
 ---
 
 <head>
@@ -33,6 +33,14 @@ As a mentor, your mentee is going through a process of learning. They’re learn
 
 Throughout the 12-week programme, our mentoring coordinators checked in with both mentors and mentees regularly to make sure that the mentorship programme continued to be valuable for both participants. Our mentoring coordinators were also responsible for setting up the initial match between the mentor and the mentee. They also provided them with training on mentoring best practices to help them get started.
 
+---
+
+# About OfferZen
+
+[OfferZen](https://www.offerzen.com) is a developer talent marketplace by developers _for_ developers. Our platform matches top software talent with exciting opportunities at companies, but this effort encompasses a much wider mission: **to help developers and their teams thrive in the tech ecosystem**.
+
+Over the last five years, this mission has manifested in a multitude of ways: from our core business of helping software makers find awesome new jobs, to hosting local maker evenings and tech events or helping makers share their experiences on our blog. We want to help build an inclusive, transparent, and thriving tech ecosystem.
+
 :::info
-Interested in joining the OfferZen community? Check out what cool things we get uo to [**here**](https://www.offerzen.com/community)!
+Interested in joining the OfferZen community? Check out what cool things we get up to [**here**](https://www.offerzen.com/community)!
 :::
