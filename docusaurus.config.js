@@ -145,7 +145,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Made with <3 for devs by devs. Initiated and supported by OfferZen`,
+        copyright: `Made with ♥ for devs by devs. Initiated and supported by OfferZen`,
         logo: {
           alt: 'OfferZen Logo',
           src: 'img/logo_white.png',
