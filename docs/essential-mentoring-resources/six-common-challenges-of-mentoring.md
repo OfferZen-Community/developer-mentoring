@@ -65,7 +65,7 @@ If you haven't already carved out time to get to know your mentoring partner, ci
 
 ## 3) You don’t feel comfortable disagreeing or setting the mentoring agenda
 
-Since a mentoring pair includes one entry-level individual who’s looking to grow, and an experienced developer who is called on to share their expertise and guidance, you might expect this relationship to be hierarchical. But the most effective mentoring relationships are actually non-hierarchical.
+Since a mentoring pair includes one entry-level individual who’s looking to grow, and an experienced individual who is called on to share their expertise and guidance, you might expect this relationship to be hierarchical. But the most effective mentoring relationships are actually non-hierarchical.
 
 While the mentor will be called on to provide their insights and help their mentee to upskill in targeted areas, it’s ultimately the mentee’s responsibility to drive the relationship forward and to set the development agenda. That means the mentee needs to feel comfortable taking charge, voicing their perspective and even disagreeing with their mentor. If this isn’t the case, it might be a sign of a power imbalance within the partnership.
 

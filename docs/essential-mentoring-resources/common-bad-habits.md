@@ -1,8 +1,8 @@
 ---
-description: A list of advice, comments, and experiences from senior developers.
+description: A list of advice, comments, and experiences from seniors.
 id: common-bad-habits
 sidebar_position: 9
-title: Common Bad Habits Seen by Senior Developers
+title: Common Bad Habits Seen by Seniors
 ---
 
 <head>
@@ -11,7 +11,7 @@ title: Common Bad Habits Seen by Senior Developers
     <meta property="og:url" content="https://www.developermentoring.guide/essential-mentoring-resources/common-bad-habits" />
 </head>
 
-**Drop your advice, comments, or experiences as a senior dev below! Doesn't matter how messy it looks - we'll clean it up** 🧹
+**Drop your advice, comments, or experiences as a senior below! Doesn't matter how messy it looks - we'll clean it up** 🧹
 
 #### **Running Before You Can Walk**
 

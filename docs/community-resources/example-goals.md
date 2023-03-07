@@ -33,11 +33,11 @@ After chatting to my mentor about my goals and where my career was heading, we b
 
 #### Dealing With The Day-to-Day Challenges of Working in Tech
 
-The tech space is a fast-paced and challenging environment. For someone to reach their career goals, they need to deal with certain obstacles that every developer is bound to encounter at some point in their career. One that stands out the most is **imposter syndrome**.
+The tech space is a fast-paced and challenging environment. For someone to reach their career goals, they need to deal with certain obstacles that everyone is bound to encounter at some point in their career. One that stands out the most is **imposter syndrome**.
 
 I often advise my mentee to be aware of his knowledge gaps and to understand that he's in a career where everyobody is always in a cycle of continuous learning. That said, it's important to find a method of learning that works for him. This could be blog wriitng, giving talks, or even creating small GitHub repos—all these methods involve him actively applying the concepts he's learned. Even as a mentor I still consider myself a learner in this industry and prefer problem-based knowledge where whatever I learn is based on the problem I'm trying to solve. But I would advise any mentees to find what works for them.
 
-While I think continuous learning and application is important, I'm aware that the worst thing that can happen to a developer is trying to be *overly* productive to the point where they burnout. Never deprioritise sleep or rest. Doing things outside of the code is also important! Everyone needs a hobby or a way to take time off from changing the world through code. Mental exhausation is never fun or rewarding. Give yourself a break.
+While I think continuous learning and application is important, I'm aware that the worst thing that can happen to a you is trying to be *overly* productive to the point where they burnout. Never deprioritise sleep or rest. Doing things outside of the code is also important! Everyone needs a hobby or a way to take time off from changing the world through code. Mental exhausation is never fun or rewarding. Give yourself a break.
 
 If I had to sum up my advice:
 

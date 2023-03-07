@@ -35,7 +35,7 @@ Ensure you’re clear on its purpose, both for the organisation and participants
 
 We’ve worked with many organisations that have aimed for one or more of the above goals. For one partner, a mentorship programme was a tool to connect team members during the transition to remote work during COVID-19.
 
-Other organisations have used mentorship to supercharge their graduate programmes. By pairing graduates with seasoned team members, they were able to move through onboarding and development more quickly. Their junior developers also benefited through new skills and an easier transition into the workplace.
+Other organisations have used mentorship to supercharge their graduate programmes. By pairing graduates with seasoned team members, they were able to move through onboarding and development more quickly. Their juniors also benefited through new skills and an easier transition into the workplace.
 
 Other organisations have used mentorship as a tool for individuals looking to move into leadership, or to try leadership on for size in a lower stakes environment.
 
@@ -88,11 +88,11 @@ A mentorship programme won’t run itself. Outside of the mentorship relationshi
 
 ## 4. Choose mentors
 
-A mentorship programme can’t exist without mentors, so you need to get the right developers involved. Before selecting participants, ensure they’re 100% clear on the expectations of the programme: both in terms of the time commitment, and the value for them and junior devs.
+A mentorship programme can’t exist without mentors, so you need to get the right people involved. Before selecting participants, ensure they’re 100% clear on the expectations of the programme: both in terms of the time commitment, and the value for them and junior devs.
 
 *To help you clear up your criteria, use the following as a guide:*
 
-1. They should be a senior software developer.
+1. They should be senior in their field, be it Development, DevOps, Cloud or something related to these fields.
 2. They should not be a direct manager of the mentee, so there is less of a power imbalance in the relationship.
 3. They should be excited about helping to develop others.
 4. They should have strong interpersonal skills and empathy.
@@ -127,7 +127,7 @@ Use an “intake form” to help you to learn more about each participant. Over 
 
 **Mentors:**
 
-1. How long have you been a software developer?
+1. How long have you been in your field?
 2. What tech stack do you use?
 3. What are you willing to provide mentorship on? (check all that apply)
 - Technical skills (e.g. learning a new skill/improving existing skills)
@@ -136,7 +136,7 @@ Use an “intake form” to help you to learn more about each participant. Over 
 
 **Mentees:**
 
-1. How long have you been a software developer?
+1. How long have you been in your field?
 2. What tech stack do you use?
 3. What guidance are you looking to get from your mentor?
 
