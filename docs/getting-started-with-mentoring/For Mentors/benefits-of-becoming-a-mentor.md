@@ -8,7 +8,7 @@ title: Benefits of Becoming a Mentor
 <head>
     <meta property="og:title" content="Benefits of Becoming a Mentor" />
     <meta property="og:type" content="article" />
-    <meta property="og:url" content="https://www.developermentoring.guide/docs/getting-started-with-mentoring/For%20Mentors/benefits-of-becoming-a-mentor" />
+    <meta property="og:url" content="https://www.developermentoring.guide/getting-started-with-mentoring/For%20Mentors/benefits-of-becoming-a-mentor" />
 </head>
 
 When thinking about mentorship, often people think that mentees are the only ones gaining value from the experience. And yes, mentees gain numerous benefits, but you will be surprised at how much a mentor can gain from the experience too!

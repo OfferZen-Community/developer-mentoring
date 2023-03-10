@@ -8,7 +8,7 @@ title: Example Goals For Mentoring Relationships
 <head>
     <meta property="og:title" content="Example Goals for Mentoring Relationships" />
     <meta property="og:type" content="article" />
-    <meta property="og:url" content="https://www.developermentoring.guide/docs/community-resources/example-goals" />
+    <meta property="og:url" content="https://www.developermentoring.guide/community-resources/example-goals" />
 </head>
 
 Here are some examples of technical, career, and personal goals that participants in the Project Thrive programme set in their mentoring relationships! 🚀
@@ -50,7 +50,7 @@ My mentee has made such great progress and really suprised me in his how well he
 
 #### Learning to Implement Stress Management Strategies While Picking Up a New Tech Stack
 
-After running through the [**SWOT analysis**](https://www.developermentoring.guide/docs/essential-mentoring-resources/personal-swot-analysis) with my mentor we were able to shed light on some of the areas that had room for improvement in my work life. For example, due to bouncing around between many responsibilities and tech stacks at work, I feel that I have missed out on many of the nitty gritty aspects of programming such as design patterns. This in turn fuels both imposter syndrome and causes me feelings of stress.
+After running through the [**SWOT analysis**](https://www.developermentoring.guide/essential-mentoring-resources/personal-swot-analysis) with my mentor we were able to shed light on some of the areas that had room for improvement in my work life. For example, due to bouncing around between many responsibilities and tech stacks at work, I feel that I have missed out on many of the nitty gritty aspects of programming such as design patterns. This in turn fuels both imposter syndrome and causes me feelings of stress.
 
 As a solution (and in tandem with switching tech stacks at work in the coming months), we've decided to dedicate our time in the Thrive programme to helping me learn Javascript through practicing core design patterns. At the same time, we'll monitor stressors and come up with coping strategies before and as they occur. In addition, my mentor’s aim is to impart as much senior level knowledge on me as possible in order to alleviate many of these feelings that I may have about work.
 

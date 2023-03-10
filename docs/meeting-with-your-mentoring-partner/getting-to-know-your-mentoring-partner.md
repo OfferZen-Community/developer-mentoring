@@ -9,7 +9,7 @@ image: https://www.developermentoring.guide/assets/images/getting-to-know-mentor
 <head>
     <meta property="og:title" content="Getting to Know Your Mentoring Partner" />
     <meta property="og:type" content="article" />
-    <meta property="og:url" content="https://www.developermentoring.guide/docs/meeting-with-your-mentoring-partner/getting-to-know-your-mentoring-partner" />
+    <meta property="og:url" content="https://www.developermentoring.guide/meeting-with-your-mentoring-partner/getting-to-know-your-mentoring-partner" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="https://www.developermentoring.guide/" />
     <meta name="twitter:title" content="Getting to Know Your Mentoring Partner" />
@@ -19,11 +19,11 @@ image: https://www.developermentoring.guide/assets/images/getting-to-know-mentor
 
 Goal setting is essential to any sort of progress a mentoring pair might want to make. Without well-defined goals, it’s difficult to maintain focus on what it is that you’re actually trying to get out of mentoring.
 
-That said, one mentoring **‘trap’** that many pairs fall into is focusing on the **goal** while forgetting the human. That is, when  your meet-ups, communication, and entire mindset centre on targets without any room for the social, interpersonal aspect of the relationship. In these sorts of situations, the problem isn’t the goals themselves (trust us, [those are good to have](https://www.developermentoring.guide/docs/essential-mentoring-resources/why-should-you-set-goals)). Rather, the difficulty comes from not having a strong relationship to fall back on when there’s any sort of delay or need to reconfigure your goals. Without a mutual sense of trust, it can be difficult to make changes or persevere if things go south.
+That said, one mentoring **‘trap’** that many pairs fall into is focusing on the **goal** while forgetting the human. That is, when  your meet-ups, communication, and entire mindset centre on targets without any room for the social, interpersonal aspect of the relationship. In these sorts of situations, the problem isn’t the goals themselves (trust us, [those are good to have](https://www.developermentoring.guide/essential-mentoring-resources/why-should-you-set-goals)). Rather, the difficulty comes from not having a strong relationship to fall back on when there’s any sort of delay or need to reconfigure your goals. Without a mutual sense of trust, it can be difficult to make changes or persevere if things go south.
 
 What’s more, a superficial ‘worky’ relationship just isn’t very fun for those involved. The motivation to schedule a mentoring session and commit to your goals simply isn’t going to be there if you don’t know your mentoring partner well or enjoy their company.
 
-For these reasons, we at [**Project Thrive**](https://www.developermentoring.guide/docs/introduction/about-project-thrive) recommend getting to know your mentoring partner before setting your goals. Some people naturally take a while to open up to others whereas there are those of us who seem to have the ability to establish meaningful connections almost instantaneously. Regardless of where you stand, the recommendations below should be useful to all new and existing mentoring pairs.
+For these reasons, we at [**Project Thrive**](https://www.developermentoring.guide/introduction/about-project-thrive) recommend getting to know your mentoring partner before setting your goals. Some people naturally take a while to open up to others whereas there are those of us who seem to have the ability to establish meaningful connections almost instantaneously. Regardless of where you stand, the recommendations below should be useful to all new and existing mentoring pairs.
 
 ## What Should I Ask My Mentoring Partner?
 
@@ -38,7 +38,7 @@ Where you might find your mentoring partner outside of work
 
 ## Active Listening
 
-Making a conscious effort to understand what your mentoring partner is trying to say will enable you to get to know your partner much better. Again, this is easier said than done at times. It’s easy to get distracted, lose focus, and respond to the ‘gist’ of the other person. As a mentor, you might have a tendency to prepare counterarguments or clarifications while listening to your mentee. And as a mentee, you might be refining any questions you think are important to ask your mentor after they finish speaking. But preparing yourself for a conversation with [these active listening tips](https://www.developermentoring.guide/docs/getting-started-with-mentoring/For%20Mentors/mentor-skills#1-active-listening) can make the difference between a superficial mentoring relationship and a meaningful mentoring relationship.
+Making a conscious effort to understand what your mentoring partner is trying to say will enable you to get to know your partner much better. Again, this is easier said than done at times. It’s easy to get distracted, lose focus, and respond to the ‘gist’ of the other person. As a mentor, you might have a tendency to prepare counterarguments or clarifications while listening to your mentee. And as a mentee, you might be refining any questions you think are important to ask your mentor after they finish speaking. But preparing yourself for a conversation with [these active listening tips](https://www.developermentoring.guide/getting-started-with-mentoring/For%20Mentors/mentor-skills#1-active-listening) can make the difference between a superficial mentoring relationship and a meaningful mentoring relationship.
 
 ## Embrace Awkwardness
 
@@ -52,6 +52,6 @@ In Project Thrive’s 12-week mentoring programme, we called it the ‘6-week-it
 
 This doesn’t necessarily relate to any progress you may (or may not) have made towards your goals. It could even be the case that one of you feels your meetings and conversations are too ‘formulaic’, with little room for deviation or creativity. In these situations, it’s often useful to pump the goal-brakes: make sure that your next conversation or meeting is not goal-centred, but _vibe_-centred. This could mean a simple veto on anything to do with your goals or even an active bonding session with some gaming or ice-breakers (here’s an [extensive list](https://www.buzzfeed.com/melanie_aman/games-you-can-play-with-only-two-people) of both in-person and virtual gaming options for two). Anything that isn’t too serious and gives you both a serotonin boost is a great way to re-establish a good mentoring vibe.
 
-As you get to know one another, it’s important to keep in mind the secret sauce to working together successfully with your mentoring partner. Sometimes a quick review of what qualities make for a good relationship can prevent things from going stale (or even sour). Getting to know your mentoring partner also means having [clear expectations](https://www.developermentoring.guide/docs/meeting-with-your-mentoring-partner/the-mentoring-agreement) for your relationship.
+As you get to know one another, it’s important to keep in mind the secret sauce to working together successfully with your mentoring partner. Sometimes a quick review of what qualities make for a good relationship can prevent things from going stale (or even sour). Getting to know your mentoring partner also means having [clear expectations](https://www.developermentoring.guide/meeting-with-your-mentoring-partner/the-mentoring-agreement) for your relationship.
 
 But these are just a few examples of how to get to know your mentoring partner —what ideas and examples do you have that could help other get to know their mentoring partners better? Drop them down below 👇

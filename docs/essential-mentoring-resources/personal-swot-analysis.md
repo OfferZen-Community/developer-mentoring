@@ -8,7 +8,7 @@ title: Personal SWOT Analysis
 <head>
     <meta property="og:title" content="Personal SWOT analysis" />
     <meta property="og:type" content="article" />
-    <meta property="og:url" content="https://www.developermentoring.guide/docs/essential-mentoring-resources/personal-swot-analysis" />
+    <meta property="og:url" content="https://www.developermentoring.guide/essential-mentoring-resources/personal-swot-analysis" />
 </head>
 
 Effective goal setting is of utmost importance when it comes to progressing in your career. The personal SWOT analysis is a great tool to assess yourself and find opportunities for growth. Once you've conducted a personal SWOT analysis, you'll be better prepared to set more informed, and therefore more effective, goals.
@@ -83,4 +83,4 @@ First, think about where your strengths and opportunities converge. If possible,
 
 Second, think about where your weaknesses and threats converge. While you can use them to decide which goals are more achievable than others, you can also make a plan to work on them so that they do not converge into an overwhelmings obstacle.
 
-From here, you can use the [**GROW goal setting tool**](/docs/essential-mentoring-resources/goal-setting) to help you set effective goals.
+From here, you can use the [**GROW goal setting tool**](/essential-mentoring-resources/goal-setting) to help you set effective goals.

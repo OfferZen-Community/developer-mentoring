@@ -8,7 +8,7 @@ title: What is Your Role as a Mentee?
 <head>
     <meta property="og:title" content="What Is Your Role as a Mentee?" />
     <meta property="og:type" content="article" />
-    <meta property="og:url" content="https://www.developermentoring.guide/docs/getting-started-with-mentoring/For%20Mentees/mentee-skills" />
+    <meta property="og:url" content="https://www.developermentoring.guide/getting-started-with-mentoring/For%20Mentees/mentee-skills" />
 </head>
 
 The success of the mentoring relationship depends as much on the mentee as the mentor - if not more. As a mentee, your role is to communicate the support you need to your mentee and work collaboratively with them to achieve your goals.

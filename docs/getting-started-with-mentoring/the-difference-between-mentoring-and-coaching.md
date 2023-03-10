@@ -8,7 +8,7 @@ title: The Difference Between Mentoring and Coaching
 <head>
     <meta property="og:title" content="The Difference Between Mentoring and Coaching" />
     <meta property="og:type" content="article" />
-    <meta property="og:url" content="https://www.developermentoring.guide/docs/getting-started-with-mentoring/the-difference-between-mentoring-and-coaching" />
+    <meta property="og:url" content="https://www.developermentoring.guide/getting-started-with-mentoring/the-difference-between-mentoring-and-coaching" />
 </head>
 
 Coaching and mentoring are two sides of the same coin. Both are focused on providing individuals with opportunities to develop, either personally or professionally, and helping them meet their goals. Central to both is a relationship between two people founded on trust and the sharing of knowledge and skills. For this reason, it’s not uncommon for coaching and mentoring to be discussed synonymously. But there are key differences between the two in their approaches, criteria, and in the dynamic between participants.
@@ -19,9 +19,9 @@ Coaching and mentoring are two sides of the same coin. Both are focused on provi
 
 Mentorship is an approach to people development where an experienced person is paired with someone looking to level up in their career. Within tech, this might be a junior programmer looking to enter mobile development. Alternatively, they might ask to be connected with a team lead to learn from their experience in project management, tech leadership and communication. A mentor usually volunteers their time alongside their full-time role and may mentor within their company, or for a third-party group like **Project Thrive**.
 
-There are many other <a href="https://www.developermentoring.guide/docs/getting-started-with-mentoring/For%20Mentors/benefits-of-becoming-a-mentor" style={{textDecoration: "underline"}}>benefits to becoming a mentor</a>.  Mentoring helps participants increase their self-confidence, build leadership capabilities, refine interpersonal skills, acquire new approaches to problem-solving, and focus on specialised technical skills. Junior developers  <a href="https://www.developermentoring.guide/docs/getting-started-with-mentoring/For%20Mentees/benefits-of-getting-a-mentor" style={{textDecoration: "underline"}}>benefit from getting a mentor</a> as well by receiving guidance from an industry expert to help them identify and work towards their goals!
+There are many other <a href="https://www.developermentoring.guide/getting-started-with-mentoring/For%20Mentors/benefits-of-becoming-a-mentor" style={{textDecoration: "underline"}}>benefits to becoming a mentor</a>.  Mentoring helps participants increase their self-confidence, build leadership capabilities, refine interpersonal skills, acquire new approaches to problem-solving, and focus on specialised technical skills. Junior developers  <a href="https://www.developermentoring.guide/getting-started-with-mentoring/For%20Mentees/benefits-of-getting-a-mentor" style={{textDecoration: "underline"}}>benefit from getting a mentor</a> as well by receiving guidance from an industry expert to help them identify and work towards their goals!
 
-Given how competitive the tech industry has become, with organisations vying for the same senior talent and junior developers needing an additional boost to get their foot in the door, it’s common for leading tech companies to have internal <a href="https://www.developermentoring.guide/docs/essential-mentoring-resources/building-a-mentoring-programme" style={{textDecoration: "underline"}}>mentorship programmes</a> to support career growth.
+Given how competitive the tech industry has become, with organisations vying for the same senior talent and junior developers needing an additional boost to get their foot in the door, it’s common for leading tech companies to have internal <a href="https://www.developermentoring.guide/essential-mentoring-resources/building-a-mentoring-programme" style={{textDecoration: "underline"}}>mentorship programmes</a> to support career growth.
 
 Fundamentally, mentorship is about the relationship between the mentor and the mentee. Mentors listen and learn about their mentee’s context, challenges, and goals. They share relevant experiences and pass their skills and insights along. This is the approach we took at Project Thrive, where we connected junior and senior developers for a 12-week mentoring journey. To help our participants succeed, we provided tips and training on how to make the most of the mentoring relationship.
 
@@ -87,7 +87,7 @@ In short, mentoring is usually best for holistic improvements while coaching is 
 
 ### Evaluation
 
-Coaches often perform some sort of evaluation to determine if the desired performance change has been met, particularly if coaching is being done at the workplace. Evaluation doesn’t take place during mentorship. However, the pair should continuously reflect on progress towards any <a href="https://www.developermentoring.guide/docs/essential-mentoring-resources/grow-goal-setting-model" style={{textDecoration: "underline"}}>targeted goals</a> set during the mentoring process.
+Coaches often perform some sort of evaluation to determine if the desired performance change has been met, particularly if coaching is being done at the workplace. Evaluation doesn’t take place during mentorship. However, the pair should continuously reflect on progress towards any <a href="https://www.developermentoring.guide/essential-mentoring-resources/grow-goal-setting-model" style={{textDecoration: "underline"}}>targeted goals</a> set during the mentoring process.
 
 ## Start your Mentorship Journey
 

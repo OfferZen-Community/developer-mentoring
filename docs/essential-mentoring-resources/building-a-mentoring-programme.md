@@ -8,7 +8,7 @@ title: How to Build a Sustainable Mentoring Programme
 <head>
     <meta property="og:title" content="How to Build a Sustainable Mentoring Programme" />
     <meta property="og:type" content="article" />
-    <meta property="og:url" content="https://www.developermentoring.guide/docs/essential-mentoring-resources/building-a-mentoring-programme" />
+    <meta property="og:url" content="https://www.developermentoring.guide/essential-mentoring-resources/building-a-mentoring-programme" />
 </head>
 
 Understanding the importance of quality mentorship is easier than establishing systems that support it. When you’re keeping an eye on the bottom line, it’s hard to prioritise making mentorship work. Here’s the framework we used at Project Thrive to help you establish a mentorship programme at your company.

@@ -8,7 +8,7 @@ title: Giving and receiving Feedback
 <head>
     <meta property="og:title" content="Giving and Receiving Feedback" />
     <meta property="og:type" content="article" />
-    <meta property="og:url" content="https://www.developermentoring.guide/docs/essential-mentoring-resources/giving-and-receiving-feedback/" />
+    <meta property="og:url" content="https://www.developermentoring.guide/essential-mentoring-resources/giving-and-receiving-feedback/" />
 </head>
 
 ![How to give and receive feedback in a mentoring relationship](<//img/assets/Giving-and-Receiving-Feedback.png>)

@@ -10,10 +10,10 @@ import Scenarios from '@site/src/components/MentoringScenarios/Scenarios';
 <head>
     <meta property="og:title" content="Mentoring Scenarios" />
     <meta property="og:type" content="article" />
-    <meta property="og:url" content="https://www.developermentoring.guide/docs/meeting-with-your-mentoring-partner/mentoring-scenarios" />
+    <meta property="og:url" content="https://www.developermentoring.guide/meeting-with-your-mentoring-partner/mentoring-scenarios" />
 </head>
 
-At **Project Thrive**, we evaluated the success of a mentoring relationship by how well the pair is incorporating what we’ve dubbed the ['mentoring secret sauce'](https://www.developermentoring.guide/docs/meeting-with-your-mentoring-partner/working-with-mentoring-partner). The secret sauce contains four ‘ingredients’ that we believe are the key components to ensure mentoring success. If any of these four ingredients go ‘off’ (or get left out of the recipe completely), this could lead to the mentoring relationship going sour.
+At **Project Thrive**, we evaluated the success of a mentoring relationship by how well the pair is incorporating what we’ve dubbed the ['mentoring secret sauce'](https://www.developermentoring.guide/meeting-with-your-mentoring-partner/working-with-mentoring-partner). The secret sauce contains four ‘ingredients’ that we believe are the key components to ensure mentoring success. If any of these four ingredients go ‘off’ (or get left out of the recipe completely), this could lead to the mentoring relationship going sour.
 
 The four key ingredients that make up this secret sauce are:
 

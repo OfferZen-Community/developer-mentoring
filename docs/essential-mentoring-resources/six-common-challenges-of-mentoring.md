@@ -8,7 +8,7 @@ title: Six Common Challenges of Mentoring
 <head>
     <meta property="og:title" content="Six Common Challenges of Mentoring" />
     <meta property="og:type" content="article" />
-    <meta property="og:url" content="https://www.developermentoring.guide/docs/essential-mentoring-resources/six-common-challenges-of-mentoring" />
+    <meta property="og:url" content="https://www.developermentoring.guide/essential-mentoring-resources/six-common-challenges-of-mentoring" />
 </head>
 
 ![six common challenges of mentoring](<//img/assets/six-common-challenges-mentoring.png>)
@@ -51,15 +51,15 @@ On the mentee’s side:
 2. Mentees should have an idea of where and how they want to develop or be ready to figure this out together with their mentor.
 3. Mentees should be prepared to put new skills into practise.
 
-If you skipped this step, or are unclear on your responsibilities within the partnership, set up an <a href="https://www.developermentoring.guide/docs/meeting-with-your-mentoring-partner/the-mentoring-agreement" style={{textDecoration: "underline"}}>expectation-setting session</a> as soon as possible. Prepare an agenda so you can be sure you’ve covered all the areas mentioned above.
+If you skipped this step, or are unclear on your responsibilities within the partnership, set up an <a href="https://www.developermentoring.guide/meeting-with-your-mentoring-partner/the-mentoring-agreement" style={{textDecoration: "underline"}}>expectation-setting session</a> as soon as possible. Prepare an agenda so you can be sure you’ve covered all the areas mentioned above.
 
 If you had this discussion but notice that mentorship logistics are frequently off track, this could be a sign that either party is not meeting their commitments. Since honest and open communication is a hallmark of effective mentoring, schedule a check-in session to reflect on expectations and problem-solve how you can get back on track.
 
 ## 2) You don’t know each other on a personal level
 
-It’s tempting to dive right into <a href="https://www.developermentoring.guide/docs/essential-mentoring-resources/grow-goal-setting-model" style={{textDecoration: "underline"}}>goal setting</a> and development work, especially for mentees who are extra motivated to begin their journey of growth. But mentorship is fundamentally relational, so it’s important to spend time building trust and establishing a solid foundation.
+It’s tempting to dive right into <a href="https://www.developermentoring.guide/essential-mentoring-resources/grow-goal-setting-model" style={{textDecoration: "underline"}}>goal setting</a> and development work, especially for mentees who are extra motivated to begin their journey of growth. But mentorship is fundamentally relational, so it’s important to spend time building trust and establishing a solid foundation.
 
-Before discussing professional goals, there should be space to <a href="https://www.developermentoring.guide/docs/meeting-with-your-mentoring-partner/getting-to-know-your-mentoring-partner" style={{textDecoration: "underline"}}>get to know each other</a>  on a human level, and share interests, hobbies, backgrounds and values. Not only does this help to firm up the relationship between a mentor and mentee, but it breaks the ice and provides valuable context for the work that will take place later on in the partnership.
+Before discussing professional goals, there should be space to <a href="https://www.developermentoring.guide/meeting-with-your-mentoring-partner/getting-to-know-your-mentoring-partner" style={{textDecoration: "underline"}}>get to know each other</a>  on a human level, and share interests, hobbies, backgrounds and values. Not only does this help to firm up the relationship between a mentor and mentee, but it breaks the ice and provides valuable context for the work that will take place later on in the partnership.
 
 If you haven't already carved out time to get to know your mentoring partner, circle back and schedule some time to engage more informally. It’s also a chance to revisit the discussion around how you both see mentorship and to ensure your expectations are aligned.
 
@@ -81,13 +81,13 @@ While this is important for all mentoring experiences, it’s even more importan
 
 ## 5) You don’t have clear goals
 
-While mentoring is a more fluid approach to professional development than <a href="https://www.developermentoring.guide/docs/getting-started-with-mentoring/the-difference-between-mentoring-and-coaching" style={{textDecoration: "underline"}}>coaching</a>, it should have parameters that are used to measure success. That’s why thoughtful and measurable goal setting is essential in mentorship.
+While mentoring is a more fluid approach to professional development than <a href="https://www.developermentoring.guide/getting-started-with-mentoring/the-difference-between-mentoring-and-coaching" style={{textDecoration: "underline"}}>coaching</a>, it should have parameters that are used to measure success. That’s why thoughtful and measurable goal setting is essential in mentorship.
 
 By setting tangible goals and desired outcomes upfront, you can ensure you’re both working towards something concrete and achievable. It’s also a means for the two of you to outline specific steps and explore any obstacles or development areas where you may need input or guidance.
 
 Moreover, to ensure mentees keep moving forward, they need a benchmark to measure progress against, as well as a shared understanding of what success looks like. Goal setting will help to establish both of these.
 
-If you haven’t gone through the goal-setting process together yet, you can make use of two tools we used at Project Thrive: the <a href="https://www.developermentoring.guide/docs/essential-mentoring-resources/personal-swot-analysis" style={{textDecoration: "underline"}}>personal SWOT analysis</a> and the <a href="https://www.developermentoring.guide/docs/essential-mentoring-resources/grow-goal-setting-model" style={{textDecoration: "underline"}}>GROW goal setting model</a>.
+If you haven’t gone through the goal-setting process together yet, you can make use of two tools we used at Project Thrive: the <a href="https://www.developermentoring.guide/essential-mentoring-resources/personal-swot-analysis" style={{textDecoration: "underline"}}>personal SWOT analysis</a> and the <a href="https://www.developermentoring.guide/essential-mentoring-resources/grow-goal-setting-model" style={{textDecoration: "underline"}}>GROW goal setting model</a>.
 
 ## 6) Communication is one way and critical
 
@@ -95,8 +95,8 @@ While the experience and expertise of the mentor is essential, if a mentor is al
 
 A mentor should be careful to listen to the experiences of their mentee and support them in their growth. While this might involve sharing professional insights or success stories, more often than not it calls for mentors to prompt their mentees to problem solve on their own, and for the pair to collaborate on new approaches to targeted goals.
 
-At Project Thrive, we think of mentoring pairs as <a href="https://www.developermentoring.guide/docs/essential-mentoring-resources/thinking-partnerships" style={{textDecoration: "underline"}}> thinking partnerships </a> where both parties have the opportunity to think out loud and problem solve together. In this dynamic, both mentees and mentors listen openly, and help each other to unpack their thinking.
+At Project Thrive, we think of mentoring pairs as <a href="https://www.developermentoring.guide/essential-mentoring-resources/thinking-partnerships" style={{textDecoration: "underline"}}> thinking partnerships </a> where both parties have the opportunity to think out loud and problem solve together. In this dynamic, both mentees and mentors listen openly, and help each other to unpack their thinking.
 
-We also train our mentors and mentees on both <a href="https://www.developermentoring.guide/docs/essential-mentoring-resources/giving-and-receiving-feedback/" style={{textDecoration: "underline"}}> giving and receiving feedback </a>. While a mentor shouldn’t gloss over development areas, feedback should always be supportive and constructive. Following this, feedback should focus on specific skills, approaches and areas for improvement.
+We also train our mentors and mentees on both <a href="https://www.developermentoring.guide/essential-mentoring-resources/giving-and-receiving-feedback/" style={{textDecoration: "underline"}}> giving and receiving feedback </a>. While a mentor shouldn’t gloss over development areas, feedback should always be supportive and constructive. Following this, feedback should focus on specific skills, approaches and areas for improvement.
 
 If you think you might’ve fallen into one of these mentoring traps, now’s a good time for you and your mentoring partner to do a check-in to reestablish expectations, and to discuss your shared approach to mentorship.

@@ -7,7 +7,7 @@ title: What is Mentoring?
 <head>
     <meta property="og:title" content="What is Mentoring?" />
     <meta property="og:type" content="article" />
-    <meta property="og:url" content="https://www.developermentoring.guide/docs/getting-started-with-mentoring/what-is-mentoring" />
+    <meta property="og:url" content="https://www.developermentoring.guide/getting-started-with-mentoring/what-is-mentoring" />
 </head>
 
 Mentoring is a collaborative learning relationship with a focus on **personal growth and career guidance**. However, this relationship is different what one might have with a manager or team lead in the sense that it is more personal and focuses on the individual, rather than on how the individual might contribute to business goals. Although the mentee typically sets the goals and milestones they'd like to achieve, that's not to say that the mentor cannot set their own personal development goals for the mentoring relationship.

@@ -8,7 +8,7 @@ title: Why Set Goals?
 <head>
     <meta property="og:title" content="Why Set Goals" />
     <meta property="og:type" content="article" />
-    <meta property="og:url" content="https://www.developermentoring.guide/docs/essential-mentoring-resources/why-set-goals" />
+    <meta property="og:url" content="https://www.developermentoring.guide/essential-mentoring-resources/why-set-goals" />
 </head>
 
 Now that you know what it takes to be a great mentor or mentee, it’s time to give some thought to the things that you'd like to accomplish in your mentoring journey.
