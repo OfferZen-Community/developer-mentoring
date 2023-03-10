@@ -13,7 +13,7 @@ title: What is Your Role as a Mentor
 
 As a mentor, your role is to guide and support your mentee to help them achieve their personal or career goals. But's that's pretty abstract, so what exactly does this mean? :thinking_face:
 
-* You have more experience in the industry than your mentee does. As a result, you have a wealth of knowledge about how the software development industry works and what helped you get where you are now. Your job is to share this experience with your mentee.
+* You have more experience in the industry than your mentee does. As a result, you have a wealth of knowledge about how your industry works and what helped you get where you are now. Your job is to share this experience with your mentee.
 
 * As someone who has been where your mentee is now, you know what the common challenges are that juniors typically fall into. By sharing your experience, you can help them avoid these challenges.
 

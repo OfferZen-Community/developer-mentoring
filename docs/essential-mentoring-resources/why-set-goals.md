@@ -17,7 +17,7 @@ Effective goal setting is an important cornerstone for career growth. 🎯
 
 ### Why is goal setting important?
 
-Goal-setting is important in any career, but it’s essential in the development space where there are so many diverging paths, projects, and areas of specialisation available to developers. **It will help you with two crucial elements:**
+Goal-setting is important in any career, but it’s essential in the tech industry where there are so many diverging paths, projects, and areas of specialisation available to us. **It will help you with two crucial elements:**
 
 1. **Focus:** By setting goals thoughtfully and intentionally, you can make sure you don’t waste precious time and energy pursuing the next big thing time after time. Instead, you’ll be primed to focus on a set of skills that you know will lead you in the right direction.
 2. **Critical path:** Goal-setting makes it easier to meet the milestones along your career development path. You’re able to break down larger tasks into clear and manageable steps that you’re able to keep track of. You’re more accountable to yourself once a goal is in place, and that, paired with a crystal-clear path forward, helps to combat procrastination.

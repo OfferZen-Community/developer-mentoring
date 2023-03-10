@@ -16,7 +16,7 @@ If you're near the end of a mentoring relationship, it's good to take some time 
 
 4. What was a surprise?
 
-5. What challenges did you overcomse and what challenges still remain?
+5. What challenges did you overcome and what challenges still remain?
 
 6. What have you learned about yourself?
 

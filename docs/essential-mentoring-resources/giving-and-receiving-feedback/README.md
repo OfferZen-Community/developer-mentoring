@@ -39,7 +39,7 @@ We’ve seen major improvements in our mentoring pairs where they’ve been able
 
 The continuous feedback loop is a model that builds ongoing feedback and plans to improve into everyday operations. Within the mentoring dynamic, the continuous feedback loop helps to establish non-hierarchical thinking partnerships, where both parties can grow together.
 
-In a mentoring relationship dynamic, this might look like a mentor giving feedback regarding a mentee's lack of communication between their mentoring sessions. The mentee will then take time to reflect on the feedback. Upon reflection, the mentee gives feedback to the mentor that they don’t feel completely comfortable communicating with their mentor between mentoring sessions as the mentor doesn not always respond, which makes the mentee feel like a nuisance. Continuing the loop, the mentor will then also take time to reflect on this feedback and together the mentor and mentee will formulate a plan for communication going forward.
+In a mentoring relationship dynamic, this might look like a mentor giving feedback regarding a mentee's lack of communication between their mentoring sessions. The mentee will then take time to reflect on the feedback. Upon reflection, the mentee gives feedback to the mentor that they don’t feel completely comfortable communicating with their mentor between mentoring sessions as the mentor does not always respond, which makes the mentee feel like a nuisance. Continuing the loop, the mentor will then also take time to reflect on this feedback and together the mentor and mentee will formulate a plan for communication going forward.
 
 `The continuous feedback loop helps open up dialogue, and since all individuals are learning and growing on an ongoing basis, it also increases engagement. It also builds a foundation of trust and honesty, because feedback is reciprocal.`
 
@@ -79,7 +79,7 @@ Providing constructive feedback can feel uncomfortable for some people, and it�
 
 This is an example of ruinous empathy. It’s a form of communication within the Radical Candour model that you should try to avoid.
 
-But first, what’s Radical Candour? The term, coined by Kim Scott in her book  <a href="https://www.goodreads.com/book/show/29939161-radical-candor" style={{textDecoration: "underline"}}>Radical Candor: Be a Kickass Boss Without Losing Your Humanity</a>
+But first, what’s Radical Candour? The term, coined by Kim Scott in her book  <a href="https://www.goodreads.com/book/show/29939161-radical-candor" style={{textDecoration: "underline"}}>Radical Candor: Be a Kick-ass Boss Without Losing Your Humanity</a>
 , refers to a framework for providing feedback and guidance kindly and directly. Radical Candour purports that all forms of feedback sit somewhere on a spectrum where empathy and candour intersect.  
 
 The framework guides us to provide feedback from a place of caring, and to do this by challenging directly, i.e. we care enough to have the tough conversations, instead of sugar-coating the truth.

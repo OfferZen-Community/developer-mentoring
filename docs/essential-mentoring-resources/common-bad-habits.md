@@ -1,8 +1,8 @@
 ---
-description: A list of advice, comments, and experiences from senior developers.
+description: A list of advice, comments, and experiences from seniors.
 id: common-bad-habits
 sidebar_position: 9
-title: Common Bad Habits Seen by Senior Developers
+title: Common Bad Habits Seen by Seniors
 ---
 
 <head>
@@ -11,15 +11,15 @@ title: Common Bad Habits Seen by Senior Developers
     <meta property="og:url" content="https://www.developermentoring.guide/essential-mentoring-resources/common-bad-habits" />
 </head>
 
-**Drop your advice, comments, or experiences as a senior dev below! Doesn't matter how messy it looks - we'll clean it up** 🧹
+**Drop your advice, comments, or experiences as a senior below! Doesn't matter how messy it looks - we'll clean it up** 🧹
 
 #### **Running Before You Can Walk**
 
-> "I've seen _a lot_ of juniors throw in the towel prematurely. Software development can be painstakingly slow. **Patience and perseverence** are non-negotiable virtues on the path to becoming a good software developer. You can't rush the process."
+> "I've seen _a lot_ of juniors throw in the towel prematurely. Software development can be painstakingly slow. **Patience and perseverance** are non-negotiable virtues on the path to becoming a good software developer. You can't rush the process."
 
 #### **Not Asking Enough "Dumb" Questions**
 
-> "Why so quiet? Be unashamedly inquisitive. Ask questions even if you think they make you sound stupid. It's the only way you're going to build good analytical skills. And you can't be a good developer without good anayltical skills. So ask any and all "dumb" questions."
+> "Why so quiet? Be unashamedly inquisitive. Ask questions even if you think they make you sound stupid. It's the only way you're going to build good analytical skills. And you can't be a good developer without good analytical skills. So ask any and all "dumb" questions."
 
 #### **Not Giving Credit Where Credit Is Due**
 
@@ -27,7 +27,7 @@ title: Common Bad Habits Seen by Senior Developers
 
 #### **Resting on Your Laurels**
 
-> "I see this alot. Junior developers get to a level of skill they're comfortable with and slowly make less effort to learn and upskill as time goes on. As a developer—junior or senior—there's always more to learn and so you should make an effort to pick up something new and useful whenever there's an opportunity to do so. If you don't, your path to incremental success gradually diminishes. Of course, it's impossible to keep up with _everything_. Tech stacks come and go. But it's not impossible to maintain the urge to learn and know more."
+> "I see this a lot. Junior developers get to a level of skill they're comfortable with and slowly make less effort to learn and upskill as time goes on. As a developer—junior or senior—there's always more to learn and so you should make an effort to pick up something new and useful whenever there's an opportunity to do so. If you don't, your path to incremental success gradually diminishes. Of course, it's impossible to keep up with _everything_. Tech stacks come and go. But it's not impossible to maintain the urge to learn and know more."
 
 #### **Being Afraid to Get Your Hands Dirty**
 
@@ -47,7 +47,7 @@ title: Common Bad Habits Seen by Senior Developers
 
 #### **Only Solving Coding Problems**
 
-> "I wish they called junior software developers 'junior problem solvers' because that's really what they are: they're at the beginning of their careers as problem solvers. Perhaps if they were called that they wouldn't restrict their problem-solving skills to the code. Problem-solving extends to almost every other aspect of our lives. As a developer, you can't _just_ solve the problems on your screen. You need to train yourselof to observe real-world, non-coding problems and try to find solutions to them. Problem-solving skills need to be exercised as often as possible. Adapting your mind to solving problems is part of what defines you as a software developer. So solve away!"
+> "I wish they called junior software developers 'junior problem solvers' because that's really what they are: they're at the beginning of their careers as problem solvers. Perhaps if they were called that they wouldn't restrict their problem-solving skills to the code. Problem-solving extends to almost every other aspect of our lives. As a developer, you can't _just_ solve the problems on your screen. You need to train yourself to observe real-world, non-coding problems and try to find solutions to them. Problem-solving skills need to be exercised as often as possible. Adapting your mind to solving problems is part of what defines you as a software developer. So solve away!"
 
 #### **Burned-Out Juniors**
 
