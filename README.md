@@ -22,7 +22,7 @@ Want to add contribution guidelines? Want to include website functionality that 
 
 * :speech_balloon: **Start a discussion**
 
-Want to chat to others about this guide or start a conversation on a specific topic? Great! For now, the best would be to use GitHub tooling or contact us. 
+Want to chat to others about this guide or start a conversation on a specific topic? Great! The best would be to [raise an issue](https://github.com/OfferZen-Community/developer-mentoring/issues) or [start a discussion](https://github.com/OfferZen-Community/developer-mentoring/discussions)
 
 * :books: **Contribute resources you've used in your mentoring relationship**
 

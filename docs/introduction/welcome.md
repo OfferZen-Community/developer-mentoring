@@ -14,12 +14,12 @@ slug: /
 
 ## Welcome!
 
-This guide was initially developed by [OfferZen](https://www.offerzen.com/) as part of it's Project Thrive intitiative - a mentoring program that has helped over 250 pairs of developers level each other up over the last couple years. Mentors and mentees came from startups through enterprise, from Europe through Africa. You can read more about the projects history in the next section. Through the project, they learned a lot about what makes developer mentoring successful. They open-sourced these learning, resources, and carricula and this guide. 
+This guide was initially developed by [OfferZen](https://www.offerzen.com/) as part of it's [Project Thrive intitiative](/introduction/about-project-thrive) - a mentoring program that has helped over 250 pairs of developers level each other up over the last couple years. Mentors and mentees came from different typs of busienesses - from startups through to enterprises - and from throughout Europe and Africa. You can read more about the projects history in the next section. Through the project, they learned a lot about what makes developer mentoring successful. They open-sourced these learning, resources, and carricula and this guide. 
 
 The guide and initiative is now maintained by members of the community from both within and without of OfferZen. 
 
 ## Purpose of this Guide
-The purpose of this guide is to provide you with the tips and frameworks to help intitaite and make the most of a developer mentoring relationship.
+The purpose of this guide is to provide you with the tips and frameworks to help intitaite and make the most of a tech mentoring relationship.
 
 ## How to use this guide
 This guide breaks down different aspects of the mentoring relationship. It is centred around single mentor-mentee pairs. It'll outline the expectations of both mentors and mentees and mentoring best practices, as well as provide some helpful frameworks around which to structure the mentoring relationship.&#x20;
