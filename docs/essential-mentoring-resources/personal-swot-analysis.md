@@ -81,6 +81,6 @@ Once you've conducted your personal SWOT analysis, you're ready to set more info
 
 First, think about where your strengths and opportunities converge. If possible, your goals should aim to amplify the opportunities you've identified by taking advantage of your strengths.
 
-Second, think about where your weaknesses and threats converge. While you can use them to decide which goals are more achievable than others, you can also make a plan to work on them so that they do not converge into an overwhelmings obstacle.
+Second, think about where your weaknesses and threats converge. While you can use them to decide which goals are more achievable than others, you can also make a plan to work on them so that they do not converge into an overwhelming obstacle.
 
 From here, you can use the [**GROW goal setting tool**](/essential-mentoring-resources/goal-setting) to help you set effective goals.

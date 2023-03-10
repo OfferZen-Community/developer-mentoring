@@ -1,1 +1,6 @@
-kanban
+Kanban
+autoplay
+trengths
+eaknesses
+pportunities
+hreats

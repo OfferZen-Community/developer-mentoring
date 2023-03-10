@@ -49,7 +49,7 @@ On the mentee’s side:
 
 1. Mentees should be ready to embark on professional development.
 2. Mentees should have an idea of where and how they want to develop or be ready to figure this out together with their mentor.
-3. Mentees should be prepared to put new skills into practise.
+3. Mentees should be prepared to put new skills into practice.
 
 If you skipped this step, or are unclear on your responsibilities within the partnership, set up an <a href="https://www.developermentoring.guide/meeting-with-your-mentoring-partner/the-mentoring-agreement" style={{textDecoration: "underline"}}>expectation-setting session</a> as soon as possible. Prepare an agenda so you can be sure you’ve covered all the areas mentioned above.
 

@@ -1,5 +1,5 @@
 ---
-description: A disucssion of the the framework used at Project Thrive to help you establish a mentorship programme at your company.
+description: A discussion of the the framework used at Project Thrive to help you establish a mentorship programme at your company.
 id: building-a-mentoring-programme
 sidebar_position: 7
 title: How to Build a Sustainable Mentoring Programme

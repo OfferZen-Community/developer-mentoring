@@ -21,7 +21,7 @@ After working with my mentor through a personal SWOT analysis I now have a much 
 
 An area where I have the most difficulty is in Data Structures and Algorithms, after a talk with my mentor, I decided on solving at least one problem set from [LeetCode](https://leetcode.com/) per week. That way, I get to build up my problem-solving skills and prepare myself for interviews.
 
-#### Becoming More Aware of Other Opportunities in the Tech Space Uutside of Software Engineering
+#### Becoming More Aware of Other Opportunities in the Tech Space Outside of Software Engineering
 
 I've just started out my career as a junior software engineer. As much as I am enjoying what I'm doing currently, I'm trying to cover my bases in the potential event that later down the line in my career I decide that actually I don't want to continue my career as a software engineer and potentially switch roles to something else that is still in the overarching tech space.
 
@@ -35,9 +35,9 @@ After chatting to my mentor about my goals and where my career was heading, we b
 
 The tech space is a fast-paced and challenging environment. For someone to reach their career goals, they need to deal with certain obstacles that everyone is bound to encounter at some point in their career. One that stands out the most is **imposter syndrome**.
 
-I often advise my mentee to be aware of his knowledge gaps and to understand that he's in a career where everyobody is always in a cycle of continuous learning. That said, it's important to find a method of learning that works for him. This could be blog wriitng, giving talks, or even creating small GitHub repos—all these methods involve him actively applying the concepts he's learned. Even as a mentor I still consider myself a learner in this industry and prefer problem-based knowledge where whatever I learn is based on the problem I'm trying to solve. But I would advise any mentees to find what works for them.
+I often advise my mentee to be aware of his knowledge gaps and to understand that he's in a career where everybody is always in a cycle of continuous learning. That said, it's important to find a method of learning that works for him. This could be blog writing, giving talks, or even creating small GitHub repos—all these methods involve him actively applying the concepts he's learned. Even as a mentor I still consider myself a learner in this industry and prefer problem-based knowledge where whatever I learn is based on the problem I'm trying to solve. But I would advise any mentees to find what works for them.
 
-While I think continuous learning and application is important, I'm aware that the worst thing that can happen to a you is trying to be *overly* productive to the point where they burnout. Never deprioritise sleep or rest. Doing things outside of the code is also important! Everyone needs a hobby or a way to take time off from changing the world through code. Mental exhausation is never fun or rewarding. Give yourself a break.
+While I think continuous learning and application is important, I'm aware that the worst thing that can happen to a you is trying to be *overly* productive to the point where they burnout. Never deprioritise sleep or rest. Doing things outside of the code is also important! Everyone needs a hobby or a way to take time off from changing the world through code. Mental exhaustion is never fun or rewarding. Give yourself a break.
 
 If I had to sum up my advice:
 
@@ -46,7 +46,7 @@ If I had to sum up my advice:
 - Go easy on yourself; we're all learning
 - Take time off from code and prioritise your health and family
 
-My mentee has made such great progress and really suprised me in his how well he executed the above recommendations. It would have been great to meet him in person (our mentoring relationship was virtual since we were in different provinces).
+My mentee has made such great progress and really surprised me in his how well he executed the above recommendations. It would have been great to meet him in person (our mentoring relationship was virtual since we were in different provinces).
 
 #### Learning to Implement Stress Management Strategies While Picking Up a New Tech Stack
 
@@ -60,10 +60,10 @@ My mentor and I used the SMART analysis, which incorporates all of the following
 
 - **SPECIFIC** - I want to be working at an intermediate level as a Front-End Developer and professional.
 
-- **MEASURABLE** - I want to use my mentoring journey to create a stronger skillset (both soft skills and technical skills).
+- **MEASURABLE** - I want to use my mentoring journey to create a stronger skill set (both soft skills and technical skills).
 
 - **ACHIEVABLE** - I will learn tools to combat overthinking, disorganisation, and bottlenecks that might be limiting my productivity.
 
 - **REALISTIC** - I will implement these strategies on my Kanban Board. The goal is to decrease time-to-completion on my tasks.
 
-- **TIMEBOUND** - 12 Weeks; in this period I will revamp my CV, LinkedIn, and Portfolio in order to grow my network and *thrive*.
+- **TIME-BOUND** - 12 Weeks; in this period I will revamp my CV, LinkedIn, and Portfolio in order to grow my network and *thrive*.

@@ -1,6 +1,6 @@
 {
   // Enable your dictionary by adding it to the list of `dictionaries`
-  "dictionaries": ["custom-words", "custom-names"],
+  "dictionaries": ["custom-words", "custom-names", "technical-words"],
 
   // Tell CSpell about your dictionary
   "dictionaryDefinitions": [

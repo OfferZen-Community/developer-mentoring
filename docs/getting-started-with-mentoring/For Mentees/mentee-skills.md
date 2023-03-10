@@ -71,7 +71,7 @@ If you take the mentorship relationship seriously and make the most of learning 
 
 **You can demonstrate this to your mentor by using your newfound skills and insights and sharing how you did so with them, for example:**
 
-* If you practised with a new coding language, talk about the process together.
+* If you practiced with a new coding language, talk about the process together.
 * If your mentor shares any resources with you, make sure you put aside time to peruse these and remember to report back when you next meet and share your insights.
 
 ### 2. Follow through
@@ -90,7 +90,7 @@ In a traditional mentorship setup, mentors take the lead. But our experience is 
 * Ask questions to ensure clarity.
 * Do further research on topics covered and bring these in for discussion.
 * Identify new skills and approaches that’ll take you out of your comfort zone.
-* Practise lateral thinking and look for ways to use your mentor's advice in new and creative ways.
+* Practice lateral thinking and look for ways to use your mentor's advice in new and creative ways.
 * Come prepared for all sessions with questions, ideas or points where you’d like input from your mentor.
 * Take note of any goals or development areas you’ve discussed with your mentor, and make a point of following up on these and providing feedback on your progress.
 
