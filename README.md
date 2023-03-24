@@ -10,6 +10,8 @@ This is a community contributed [guide](https://www.developermentoring.guide) de
 * Be better at being mentored and able to make the most of that opportunity
 * (In future) Implement mentoring programmes within their workplaces
 
+You can also see analytics of button clicks and pageviews generated from the referred traffic [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vRsoBQkRdV_ykyLXLywvPgJvUxDzx2wFwzAp-lrve9-FqkVwJcfWWSaXxo0CV_Hjg1igXZ08YNJAb8c/pubhtml?gid=197071965&single=true).
+
 ***
 
 ### How you can help
@@ -52,6 +54,6 @@ npm run build
 
 **Thanks so much for helping!**
 
-<a href="https://github.com/OfferZen-Community/developer-mentoring/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=OfferZen-Community/developer-mentoring" />
+<a href="https://github.com/OfferZen-Community/developer-mentoring/dino-referrer/contributors">
+  <img src="https://contrib.rocks/image?repo=OfferZen-Community/dino-referrer" />
 </a>
