@@ -10,18 +10,15 @@ title: How to Become a Mentor 🤝
     <meta property="og:url" content="https://www.developermentoring.guide/finding-a-mentor/how-to-become-a-mentor" />
 </head>
 
-Mentors should create a PR to add their details to the [Mentor List](mentor-list) using the template below. Mentees will then be able to refer to this list to find and reach out to a suitable mentor.
+Mentors should create a PR to add their details to the [Mentor List](mentor-list) by adding their details to the `mentors.json` file in this repo. Mentees will then be able to refer to this list to find and reach out to a suitable mentor.
 
-## Mentor Details Template
+## Mentor Details Reqiured
 
-See the [Mentor List](mentor-list) page Markdown for a complete example.
-
-### [Your Name]
-<img src="https://github.com/_.png" alt="GitHub profile" width="100"/>
-
-- **Location**: [Your Location]
+- **Name**: [Your Name]
+- **ImageURL**: [Your profile image - tip: drag your GitHub image into a new tab to get the hosted version url]
+- **Location**: [Location and country]
 - **Areas of Expertise**: [Your Areas of Expertise]
 - **Availability**: [Your Availability]
-- **Contact Information**: [Your Contact Information]
+- **Contact Information**: [Your Contact Information, feel free to explain how to contact you. ]
 - **Public Profile**: [Your public profile e.g. GitHub, LinkedIn]
 - **Bio**: [A brief introduction about yourself]
