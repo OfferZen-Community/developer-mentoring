@@ -1,23 +1,22 @@
 [
-    {
-      "name": "Benjamin Scholtz",
-      "imageUrl": "https://avatars.githubusercontent.com/u/13078998?v=4",
-      "location": "Cape Town, South Africa",
-      "expertise": ["Product development", "Software modelling and simulation", "Data analytics", "Python", "Typescript", "Elixir/Phoenix", "Startups/Entrepreneurship"],
-      "availability": "Wednesdays and Fridays, flexible / TBC with mentee",
-      "contact": "@Benjamin Scholtz on ZATech Slack",
-      "profileUrl": "https://github.com/benschza",
-      "bio": "I have worked in various roles over the past 7 years from startups to product dev houses, and so on."
-    },
-    {
-      "name": "Stephen van der Heijden",
-      "imageUrl": "https://avatars.githubusercontent.com/u/33951316",
-      "location": "Amsterdam, Netherlands",
-      "expertise": ["Product development", "Automation","LLM/VectorDB", "Google Apps Script", "Not writing code", "Startups/Entrepreneurship"],
-      "availability": "Wednesdays and Fridays, flexible / TBC with mentee",
-      "contact": "@suitophobia on ZATech Slack",
-      "profileUrl": "https://github.com/suitophobia",
-      "bio": "Maintainer of this repo. Exec Producer of TS, Laravel, and Svelte Documentaries"
-    }
-  ]
-  
+  {
+    "name": "Benjamin Scholtz",
+    "imageUrl": "https://avatars.githubusercontent.com/u/13078998?v=4",
+    "location": "Cape Town, South Africa",
+    "expertise": ["Product development", "Software modelling and simulation", "Data analytics", "Python", "Typescript", "Elixir/Phoenix", "Startups/Entrepreneurship"],
+    "availability": "Wednesdays and Fridays, flexible / TBC with mentee",
+    "contact": "@Benjamin Scholtz on ZATech Slack",
+    "profileUrl": "https://github.com/benschza",
+    "bio": "I have worked in various roles over the past 7 years from startups to product dev houses, and so on."
+  },
+  {
+    "name": "Stephen van der Heijden",
+    "imageUrl": "https://avatars.githubusercontent.com/u/33951316",
+    "location": "Amsterdam, Netherlands",
+    "expertise": ["Product development", "Automation","LLM/VectorDB", "Google Apps Script", "Not writing code", "Startups/Entrepreneurship"],
+    "availability": "Wednesdays and Fridays, flexible / TBC with mentee",
+    "contact": "@suitophobia on ZATech Slack",
+    "profileUrl": "https://github.com/suitophobia",
+    "bio": "Maintainer of this repo. Exec Producer of TS, Laravel, and Svelte Documentaries"
+  }
+]

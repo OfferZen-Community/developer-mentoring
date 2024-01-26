@@ -12,7 +12,7 @@ title: How to Become a Mentor 🤝
 
 Mentors should create a PR to add their details to the [Mentor List](mentor-list) by adding their details to the `mentors.json` file in this repo. Mentees will then be able to refer to this list to find and reach out to a suitable mentor.
 
-## Mentor Details Reqiured
+## Mentor Details Required
 
 - **Name**: [Your Name]
 - **ImageURL**: [Your profile image - tip: drag your GitHub image into a new tab to get the hosted version url]
