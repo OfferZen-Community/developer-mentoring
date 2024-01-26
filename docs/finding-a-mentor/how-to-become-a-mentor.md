@@ -14,11 +14,11 @@ Mentors should create a PR to add their details to the [Mentor List](mentor-list
 
 ## Mentor Details Required
 
-- **Name**: [Your Name]
-- **ImageURL**: [Your profile image - tip: drag your GitHub image into a new tab to get the hosted version url]
+- **Name**: [Your name]
+- **ImageURL**: [Your profile image - tip: drag your GitHub image into a new tab to get the hosted version URL]
 - **Location**: [Location and country]
-- **Areas of Expertise**: [Your Areas of Expertise]
-- **Availability**: [Your Availability]
-- **Contact Information**: [Your Contact Information, feel free to explain how to contact you. ]
+- **Areas of Expertise**: [Your areas of expertise]
+- **Availability**: [Your availability]
+- **Contact Information**: [Your contact information, feel free to explain how to contact you]
 - **Public Profile**: [Your public profile e.g. GitHub, LinkedIn]
 - **Bio**: [A brief introduction about yourself]
