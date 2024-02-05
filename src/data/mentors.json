@@ -18,5 +18,15 @@
     "contact": "@suitophobia on ZATech Slack",
     "profileUrl": "https://github.com/suitophobia",
     "bio": "Maintainer of this repo. Exec Producer of TS, Laravel, and Svelte Documentaries"
+  },
+  {
+    "name": "Jason Tame",
+    "imageUrl": "https://avatars.githubusercontent.com/u/15672948",
+    "location": "Durban, South Africa",
+    "expertise": ["Full-stack Software Development", "Engineering Management", "JavaScript/TypeScript", "PHP"],
+    "availability": "Wednesday or Thursday evenings, Saturday morning or afternoon",
+    "contact": "@JasonTame on ZATech Slack",
+    "profileUrl": "https://github.com/jasontame",
+    "bio": "Engineering manager at OfferZen. Previously, full-stack software developer at the Interaction Design Foundation, Advantage Learning Technologies, Pango"
   }
 ]
