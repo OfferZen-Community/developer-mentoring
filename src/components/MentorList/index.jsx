@@ -30,7 +30,7 @@ const MentorList = () => {
         <MentorCard key={index} mentor={mentor} isDarkMode={isDarkMode} />
       ))}
     </div>
-  );
+  );  
 };
 
 export default MentorList;
