@@ -1,15 +1,17 @@
 import React from 'react';
-import mentorsData from '@site/src/data/mentors.json'; // Fixed path for JSON data
-import styles from "./styles.module.css"; // Fixed path for CSS file
+import mentorsData from '@site/src/data/mentors.json';
+import styles from "./styles.module.css";
 
-const MentorCard = ({ mentor }) => {
+const MentorCard = ({ mentor, isDarkMode }) => {
+  const cardStyle = isDarkMode ? styles.darkMode : styles.lightMode;
+
   return (
-    <div className={styles.mentorCard}>
+    <div className={`${styles.mentorCard} ${cardStyle}`}>
       <img src={mentor.imageUrl} alt={`Picture of ${mentor.name}`} className={styles.mentorImage} />
       <h3 className={styles.mentorName}>{mentor.name}</h3>
       <p className={styles.mentorLocation}>📍 {mentor.location}</p>
       <br/>
-      <p className={styles.mentorExpertise}>💼 {mentor.expertise.join(', ')}</p> {/* Join the array of expertise into a string */}
+      <p className={styles.mentorExpertise}>💼 {mentor.expertise.join(', ')}</p>
       <p className={styles.mentorAvailability}>🕒 {mentor.availability}</p>
       <p className={styles.mentorContact}>💬 {mentor.contact}</p>
       <p className={styles.mentorBio}>{mentor.bio}</p>
@@ -19,10 +21,13 @@ const MentorCard = ({ mentor }) => {
 };
 
 const MentorList = () => {
+  // Assuming you have a way to determine the current theme mode (dark/light)
+  const isDarkMode = true; // You need to replace this with your actual logic to determine the theme mode
+
   return (
     <div className={styles.mentorGrid}>
       {mentorsData.map((mentor, index) => (
-        <MentorCard key={index} mentor={mentor} />
+        <MentorCard key={index} mentor={mentor} isDarkMode={isDarkMode} />
       ))}
     </div>
   );
